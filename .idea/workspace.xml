@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="19" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000404299596" />
+      <entry key="MS500" value="1.0332154898237047" />
+      <entry key="S2" value="1.4269088571956225" />
+      <entry key="S5" value="1.7114330982115415" />
+      <entry key="S10" value="1.8434649359703945" />
+      <entry key="S30" value="1.94483435819843" />
+      <entry key="S60" value="1.9720259040778851" />
+      <entry key="M2" value="1.9859137406882437" />
+      <entry key="M5" value="1.9943415050143276" />
+      <entry key="M10" value="1.9971667388227146" />
+      <entry key="M15" value="1.9981102661602632" />
+      <entry key="M30" value="1.9990546862711085" />
+      <entry key="H1" value="1.9995272313804706" />
+      <entry key="H2" value="1.999763587744858" />
+      <entry key="H4" value="1.999881786885259" />
+      <entry key="D1" value="1.9999802968436995" />
+      <entry key="W1" value="1.999997185239617" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9201876671587487" />
+      <entry key="MS500" value="1.0112784078127037" />
+      <entry key="S2" value="1.4040927378919923" />
+      <entry key="S5" value="1.6971613156298995" />
+      <entry key="S10" value="1.8351251984268295" />
+      <entry key="S30" value="1.9417452204791306" />
+      <entry key="S60" value="1.9704397855157645" />
+      <entry key="M2" value="1.9851100649263187" />
+      <entry key="M5" value="1.9940174569190119" />
+      <entry key="M10" value="1.9970042826352359" />
+      <entry key="M15" value="1.9980018658176406" />
+      <entry key="M30" value="1.999000437944262" />
+      <entry key="H1" value="1.999500095169397" />
+      <entry key="H2" value="1.9997500166263122" />
+      <entry key="H4" value="1.9998750005725967" />
+      <entry key="D1" value="1.9999791656869401" />
+      <entry key="W1" value="1.9999970236432314" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FBxGRAS0qRcwhvCbRdJcNCiT2y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "doran@ucdavis.edu",
+    "ACTIVE_CLOUD_PROJECT_ID": "ecs-datacenter-systems",
+    "ACTIVE_CLOUD_PROJECT_NAME": "ECS Datacenter Systems",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "722835478571",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.google.cloudcode.ide_session_index": "20260615_0003",
+    "javascript.nodejs.core.library.configured.version": "22.22.3",
+    "javascript.nodejs.core.library.typings.version": "22.19.21",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "ts.external.directory.path": "/home/blog/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="" />
+      <created>1781562167781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781562167781</updated>
+      <workItem from="1781562168767" duration="235000" />
+      <workItem from="1781562437654" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
