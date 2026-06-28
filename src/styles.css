@@ -1,1 +1,8 @@
 @import 'tailwindcss';
+
+body {
+    margin: 0 auto;
+    max-width: 1200px;
+    border: 0;
+    padding: 50px;
+}

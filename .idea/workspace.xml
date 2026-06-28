@@ -4,80 +4,98 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="19" />
+    <option name="cachedIndexableFilesCount" value="20" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Acceltra65535&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
+    &quot;accountId&quot;: &quot;80a13ed0-a8db-4c6a-af75-37876fdbcbe1&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000404299596" />
-      <entry key="MS500" value="1.0332154898237047" />
-      <entry key="S2" value="1.4269088571956225" />
-      <entry key="S5" value="1.7114330982115415" />
-      <entry key="S10" value="1.8434649359703945" />
-      <entry key="S30" value="1.94483435819843" />
-      <entry key="S60" value="1.9720259040778851" />
-      <entry key="M2" value="1.9859137406882437" />
-      <entry key="M5" value="1.9943415050143276" />
-      <entry key="M10" value="1.9971667388227146" />
-      <entry key="M15" value="1.9981102661602632" />
-      <entry key="M30" value="1.9990546862711085" />
-      <entry key="H1" value="1.9995272313804706" />
-      <entry key="H2" value="1.999763587744858" />
-      <entry key="H4" value="1.999881786885259" />
-      <entry key="D1" value="1.9999802968436995" />
-      <entry key="W1" value="1.999997185239617" />
+      <entry key="MS100" value="1.0000000007357832" />
+      <entry key="MS500" value="1.0149056179773055" />
+      <entry key="S2" value="1.3494117429627666" />
+      <entry key="S5" value="1.6566515901312018" />
+      <entry key="S10" value="1.8103903089079294" />
+      <entry key="S30" value="1.9767752847827413" />
+      <entry key="S60" value="2.676501495626237" />
+      <entry key="M2" value="7.677133821511424" />
+      <entry key="M5" value="28.19642697546382" />
+      <entry key="M10" value="59.09896795440085" />
+      <entry key="M15" value="86.26139519092584" />
+      <entry key="M30" value="141.24993275094562" />
+      <entry key="H1" value="190.48187070167492" />
+      <entry key="H2" value="224.40349257934324" />
+      <entry key="H4" value="244.47079564857862" />
+      <entry key="D1" value="263.05992689443326" />
+      <entry key="W1" value="266.43239743316394" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="2.7764333539318546E-261" />
+      <entry key="MS500" value="7.739224601916542E-53" />
+      <entry key="S2" value="9.379384994343626E-14" />
+      <entry key="S5" value="6.149923946326961E-6" />
+      <entry key="S10" value="0.002479904019579581" />
+      <entry key="S30" value="0.13535664981224696" />
+      <entry key="S60" value="0.368546483055171" />
+      <entry key="M2" value="0.6329048005282712" />
+      <entry key="M5" value="1.1474197601992093" />
+      <entry key="M10" value="1.829156074542253" />
+      <entry key="M15" value="2.2823817908838375" />
+      <entry key="M30" value="2.96178780972005" />
+      <entry key="H1" value="3.4250256967982216" />
+      <entry key="H2" value="3.6968598449541044" />
+      <entry key="H4" value="3.844282884839757" />
+      <entry key="D1" value="3.973450149535818" />
+      <entry key="W1" value="3.9961922614447003" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9201876671587487" />
-      <entry key="MS500" value="1.0112784078127037" />
-      <entry key="S2" value="1.4040927378919923" />
-      <entry key="S5" value="1.6971613156298995" />
-      <entry key="S10" value="1.8351251984268295" />
-      <entry key="S30" value="1.9417452204791306" />
-      <entry key="S60" value="1.9704397855157645" />
-      <entry key="M2" value="1.9851100649263187" />
-      <entry key="M5" value="1.9940174569190119" />
-      <entry key="M10" value="1.9970042826352359" />
-      <entry key="M15" value="1.9980018658176406" />
-      <entry key="M30" value="1.999000437944262" />
-      <entry key="H1" value="1.999500095169397" />
-      <entry key="H2" value="1.9997500166263122" />
-      <entry key="H4" value="1.9998750005725967" />
-      <entry key="D1" value="1.9999791656869401" />
-      <entry key="W1" value="1.9999970236432314" />
+      <entry key="MS100" value="4.808368689396538E-9" />
+      <entry key="MS500" value="0.03067896187599326" />
+      <entry key="S2" value="0.6918734898168833" />
+      <entry key="S5" value="1.3062045596728113" />
+      <entry key="S10" value="1.6182336065571088" />
+      <entry key="S30" value="2.0384104867641692" />
+      <entry key="S60" value="3.00355027979386" />
+      <entry key="M2" value="8.286252170009973" />
+      <entry key="M5" value="29.329411938799087" />
+      <entry key="M10" value="60.91536662798219" />
+      <entry key="M15" value="88.53229932722192" />
+      <entry key="M30" value="144.20345554491152" />
+      <entry key="H1" value="193.9018005012442" />
+      <entry key="H2" value="228.09750119856577" />
+      <entry key="H4" value="248.31356730538081" />
+      <entry key="D1" value="267.03311233214697" />
+      <entry key="W1" value="270.4285515508889" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -99,9 +117,10 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260615_0003",
+    "com.google.cloudcode.ide_session_index": "20260628_0003",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
@@ -117,7 +136,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -128,8 +162,20 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -150,6 +196,9 @@
       <updated>1781562167781</updated>
       <workItem from="1781562168767" duration="235000" />
       <workItem from="1781562437654" duration="663000" />
+      <workItem from="1781732918919" duration="99000" />
+      <workItem from="1782678831039" duration="12000" />
+      <workItem from="1782680205158" duration="5099000" />
     </task>
     <servers />
   </component>
