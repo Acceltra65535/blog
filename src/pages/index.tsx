@@ -6,22 +6,20 @@ export default async function HomePage() {
 
   return (
     <div>
-      <title>Home | Motoko's Blog</title>
-      <h1 className="text-4xl font-bold tracking-tight">{data.headline}</h1>
+      <title>{data.title}</title>
+      <h2 className="text-xl tracking-tight">{data.headline}</h2>
       <p>{data.body}</p>
-      <Counter />
-      <Link to="/about" className="mt-4 inline-block underline">
-        About page
-      </Link>
+      <p>An Engineer, part time on open source.</p>
+      <img src="/images/myimage.jpg" alt="My image" className="mt-4" />
     </div>
   );
 }
 
 const getData = async () => {
   const data = {
-    title: 'Waku',
-    headline: 'Waku',
-    body: 'Hello world!',
+    title: 'Home | Motoko\'s Blog',
+    headline: '这个页面先鸽着，还没想好要写啥 (',
+    body: 'A CS UG Student, part time on open source.',
   };
 
   return data;

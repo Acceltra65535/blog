@@ -21,7 +21,7 @@ export default async function RootLayout({ children }: RootLayoutProps) {
         precedence="font"
       />
       <Header />
-      <main className="flex min-h-svh flex-col items-start p-6 *:min-h-64 *:min-w-64">
+      <main className="flex flex-1 flex-col items-start p-6 *:min-h-64 *:min-w-64">
         {children}
       </main>
       <Footer />
