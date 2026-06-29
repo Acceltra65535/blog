@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add feature for header and footer, initial blog layout">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add header feature and svg file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,61 +35,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000003673411193" />
-      <entry key="S10" value="1.002389123733095" />
-      <entry key="S30" value="2.269866178338134" />
-      <entry key="S60" value="8.020821787086854" />
-      <entry key="M2" value="17.999282855724232" />
-      <entry key="M5" value="30.178911379528756" />
-      <entry key="M10" value="36.007308971385925" />
-      <entry key="M15" value="38.51163266728329" />
-      <entry key="M30" value="49.29359903697502" />
-      <entry key="H1" value="90.25973243545084" />
-      <entry key="H2" value="158.44530301477388" />
-      <entry key="H4" value="223.02098857161587" />
-      <entry key="D1" value="303.87111316191124" />
-      <entry key="W1" value="321.0311369790444" />
+      <entry key="MS100" value="1.0063025360397182" />
+      <entry key="MS500" value="1.4581809842490066" />
+      <entry key="S2" value="3.4329183101756096" />
+      <entry key="S5" value="5.117485534756066" />
+      <entry key="S10" value="6.113141830074608" />
+      <entry key="S30" value="7.271078786080652" />
+      <entry key="S60" value="8.99754462677652" />
+      <entry key="M2" value="15.34552656289561" />
+      <entry key="M5" value="33.073091063116976" />
+      <entry key="M10" value="47.078829957593406" />
+      <entry key="M15" value="53.73367882617332" />
+      <entry key="M30" value="68.7867862572787" />
+      <entry key="H1" value="110.89637118080134" />
+      <entry key="H2" value="180.10287627670473" />
+      <entry key="H4" value="246.32100916754553" />
+      <entry key="D1" value="330.0386983888845" />
+      <entry key="W1" value="347.9056603522087" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.2940343415681284E-229" />
-      <entry key="S30" value="7.544372852351946E-77" />
-      <entry key="S60" value="8.700897342619079E-39" />
-      <entry key="M2" value="9.72465664881784E-20" />
-      <entry key="M5" value="3.4224465909936355E-8" />
-      <entry key="M10" value="3.1590604835338626E-4" />
-      <entry key="M15" value="0.007078258384163795" />
-      <entry key="M30" value="0.16493886450797499" />
-      <entry key="H1" value="0.808254932725683" />
-      <entry key="H2" value="1.7958714684042283" />
-      <entry key="H4" value="2.6793933212088263" />
-      <entry key="D1" value="3.7414328711337466" />
-      <entry key="W1" value="3.9619915439015974" />
+      <entry key="S10" value="6.190752049986535E-239" />
+      <entry key="S30" value="3.955934655071717E-80" />
+      <entry key="S60" value="1.9924022681546457E-40" />
+      <entry key="M2" value="1.4715694658318003E-20" />
+      <entry key="M5" value="1.6080489915722802E-8" />
+      <entry key="M10" value="2.1654055187567681E-4" />
+      <entry key="M15" value="0.005502760496640135" />
+      <entry key="M30" value="0.14542869259994134" />
+      <entry key="H1" value="0.7589478123741839" />
+      <entry key="H2" value="1.740231500045401" />
+      <entry key="H4" value="2.637560060989057" />
+      <entry key="D1" value="3.731633117917447" />
+      <entry key="W1" value="3.9605073839280647" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8408964152537145" />
-      <entry key="MS500" value="0.9659363289248456" />
-      <entry key="S2" value="0.9913730874626621" />
-      <entry key="S5" value="0.9965406298772861" />
-      <entry key="S10" value="1.0006568385417103" />
-      <entry key="S30" value="2.2691313943544866" />
-      <entry key="S60" value="8.020094440218573" />
-      <entry key="M2" value="17.998602676591183" />
-      <entry key="M5" value="30.178483208165627" />
-      <entry key="M10" value="36.007370850142124" />
-      <entry key="M15" value="38.51849571088681" />
-      <entry key="M30" value="49.457965119758256" />
-      <entry key="H1" value="91.06669962335354" />
-      <entry key="H2" value="160.23972830506466" />
-      <entry key="H4" value="225.69929048553695" />
-      <entry key="D1" value="307.6122889970872" />
-      <entry key="W1" value="324.99308955290167" />
+      <entry key="MS100" value="0.9855931335818436" />
+      <entry key="MS500" value="1.4503477941814709" />
+      <entry key="S2" value="3.4063938221882304" />
+      <entry key="S5" value="5.0951677849044765" />
+      <entry key="S10" value="6.098717705379639" />
+      <entry key="S30" value="7.265324412311951" />
+      <entry key="S60" value="8.99445259960129" />
+      <entry key="M2" value="15.343753319788904" />
+      <entry key="M5" value="33.07214649600071" />
+      <entry key="M10" value="47.07848042629556" />
+      <entry key="M15" value="53.73874764403093" />
+      <entry key="M30" value="68.93157369644183" />
+      <entry key="H1" value="111.65404091785547" />
+      <entry key="H2" value="181.84167175947383" />
+      <entry key="H4" value="248.95747748793224" />
+      <entry key="D1" value="333.7700722413659" />
+      <entry key="W1" value="351.8661283658404" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -124,7 +121,7 @@
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog",
+    "last_opened_file_path": "/home/blog/public/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,6 +137,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -200,7 +198,7 @@
       <workItem from="1781562437654" duration="663000" />
       <workItem from="1781732918919" duration="99000" />
       <workItem from="1782678831039" duration="12000" />
-      <workItem from="1782680205158" duration="6243000" />
+      <workItem from="1782680205158" duration="6564000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -210,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782685409111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add header feature and svg file">
+      <option name="closed" value="true" />
+      <created>1782692822252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782692822252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +224,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add feature for header and footer, initial blog layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add feature for header and footer, initial blog layout" />
+    <MESSAGE value="Add header feature and svg file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add header feature and svg file" />
   </component>
 </project>
