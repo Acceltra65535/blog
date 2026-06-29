@@ -4,9 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header.">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Update footer.tsx">
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Condensed.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-ExtraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-SemiLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/IoskeleyMono-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/NotoSansSC.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="23" />
+    <option name="cachedIndexableFilesCount" value="36" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -26,73 +40,73 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "80a13ed0-a8db-4c6a-af75-37876fdbcbe1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
+    &quot;accountId&quot;: &quot;80a13ed0-a8db-4c6a-af75-37876fdbcbe1&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0002079468636889" />
-      <entry key="MS500" value="1.6628452251377726" />
-      <entry key="S2" value="6.558059338700283" />
-      <entry key="S5" value="12.846028086442391" />
-      <entry key="S10" value="17.641927042901447" />
-      <entry key="S30" value="25.39651370103438" />
-      <entry key="S60" value="30.517937873446314" />
-      <entry key="M2" value="34.82265041156712" />
-      <entry key="M5" value="44.850745121024914" />
-      <entry key="M10" value="69.14566902974926" />
-      <entry key="M15" value="95.94462595349461" />
-      <entry key="M30" value="172.51399719114235" />
-      <entry key="H1" value="279.4133507569223" />
-      <entry key="H2" value="391.9463479182201" />
-      <entry key="H4" value="516.5723030905482" />
-      <entry key="D1" value="790.9271837996602" />
-      <entry key="W1" value="877.6854638897794" />
+      <entry key="MS100" value="1.4277960287599267" />
+      <entry key="MS500" value="3.608947172040747" />
+      <entry key="S2" value="7.511941094927244" />
+      <entry key="S5" value="13.928163798738849" />
+      <entry key="S10" value="21.559484290846758" />
+      <entry key="S30" value="33.79624263873794" />
+      <entry key="S60" value="39.91236054539449" />
+      <entry key="M2" value="46.012779093172284" />
+      <entry key="M5" value="57.952382539353415" />
+      <entry key="M10" value="81.12286744177383" />
+      <entry key="M15" value="107.16778701911218" />
+      <entry key="M30" value="187.33282767090435" />
+      <entry key="H1" value="316.61823491071743" />
+      <entry key="H2" value="466.7460644615187" />
+      <entry key="H4" value="625.179780604034" />
+      <entry key="D1" value="950.4336204796722" />
+      <entry key="W1" value="1051.9130951019913" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="5.806633000506997E-146" />
-      <entry key="S10" value="2.4096956240378014E-73" />
-      <entry key="S30" value="6.222822256386611E-25" />
-      <entry key="S60" value="7.888487257450655E-13" />
-      <entry key="M2" value="8.884056441776076E-7" />
-      <entry key="M5" value="0.003937164148641225" />
-      <entry key="M10" value="0.07347137130515531" />
-      <entry key="M15" value="0.20799338040310314" />
-      <entry key="M30" value="0.6229901787661587" />
-      <entry key="H1" value="1.1099684030958044" />
-      <entry key="H2" value="1.6099930344990003" />
-      <entry key="H4" value="2.431963055245104" />
-      <entry key="D1" value="4.949255576193892" />
-      <entry key="W1" value="5.83155926264621" />
+      <entry key="S2" value="5.433448170731239E-127" />
+      <entry key="S5" value="3.119106555682564E-51" />
+      <entry key="S10" value="5.584896265058455E-26" />
+      <entry key="S30" value="3.836196809442952E-9" />
+      <entry key="S60" value="6.72194813512699E-5" />
+      <entry key="M2" value="0.011490431321117283" />
+      <entry key="M5" value="0.34390802026590417" />
+      <entry key="M10" value="1.2051940652615196" />
+      <entry key="M15" value="1.9080733754410113" />
+      <entry key="M30" value="3.246980917882308" />
+      <entry key="H1" value="4.542762161660973" />
+      <entry key="H2" value="5.649390271613305" />
+      <entry key="H4" value="6.834909534845411" />
+      <entry key="D1" value="9.794907812956525" />
+      <entry key="W1" value="10.80677944297096" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9397262426277588" />
-      <entry key="MS500" value="1.6472755988558057" />
-      <entry key="S2" value="6.548085570591779" />
-      <entry key="S5" value="12.838885570012087" />
-      <entry key="S10" value="17.637136221605918" />
-      <entry key="S30" value="25.394194136543078" />
-      <entry key="S60" value="30.516515040842485" />
-      <entry key="M2" value="34.82180339356472" />
-      <entry key="M5" value="44.854068152331685" />
-      <entry key="M10" value="69.21772467749274" />
-      <entry key="M15" value="96.1500061643374" />
-      <entry key="M30" value="173.13239651061744" />
-      <entry key="H1" value="280.51864736675674" />
-      <entry key="H2" value="393.55282972643226" />
-      <entry key="H4" value="519.0018901108823" />
-      <entry key="D1" value="795.8758163344032" />
-      <entry key="W1" value="883.5169238208045" />
+      <entry key="MS100" value="1.3982081957999573" />
+      <entry key="MS500" value="3.593233205601496" />
+      <entry key="S2" value="7.503490619322037" />
+      <entry key="S5" value="13.921708549970687" />
+      <entry key="S10" value="21.55436644634234" />
+      <entry key="S30" value="33.79350420858263" />
+      <entry key="S60" value="39.91048995790493" />
+      <entry key="M2" value="46.02172024791811" />
+      <entry key="M5" value="58.291668494224204" />
+      <entry key="M10" value="82.32247199427695" />
+      <entry key="M15" value="109.07024180124894" />
+      <entry key="M30" value="190.5741724766792" />
+      <entry key="H1" value="321.15570213481294" />
+      <entry key="H2" value="472.39134370127556" />
+      <entry key="H4" value="632.011866058699" />
+      <entry key="D1" value="960.2277915262989" />
+      <entry key="W1" value="1062.7197573073743" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -103,6 +117,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3FBxGRAS0qRcwhvCbRdJcNCiT2y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -120,11 +137,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260629_0000",
+    "com.google.cloudcode.ide_session_index": "20260629_0001",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog/public/images",
+    "last_opened_file_path": "/home/blog/public/fonts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,6 +157,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/fonts" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -202,7 +220,8 @@
       <workItem from="1781732918919" duration="99000" />
       <workItem from="1782678831039" duration="12000" />
       <workItem from="1782680205158" duration="14679000" />
-      <workItem from="1782761839408" duration="4755000" />
+      <workItem from="1782761839408" duration="5376000" />
+      <workItem from="1782771170496" duration="3879000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -244,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782765993114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update footer.tsx">
+      <option name="closed" value="true" />
+      <created>1782766607078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782766607078</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +282,7 @@
     <MESSAGE value="Add header feature and svg file" />
     <MESSAGE value="Add header feature and update svg file" />
     <MESSAGE value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
+    <MESSAGE value="Update footer.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update footer.tsx" />
   </component>
 </project>

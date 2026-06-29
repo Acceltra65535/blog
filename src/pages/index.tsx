@@ -9,7 +9,7 @@ export default async function HomePage() {
       <title>{data.title}</title>
       <h2 className="text-xl tracking-tight">{data.headline}</h2>
       <p className="my-4">{data.body}</p>
-      <p className="my-4">An Engineer, part time on open source.</p>
+      <p className="my-4">其实小时候的我并不喜欢跑步，也不喜欢运动。</p>
       <p className="my-4">I enjoy building full-stack apps with TypeScript and React.</p>
       <p className="my-4">Recently I have been exploring server components and static rendering.</p>
       <p className="my-4">Thanks for visiting my site and reading my notes.</p>
