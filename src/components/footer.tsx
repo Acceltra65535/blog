@@ -4,7 +4,7 @@ export const Footer = () => {
           <div>
               Copyright © 2026 Alex Yuan. All rights reserved.
               <br/>
-              Served by ProjektAcceltra Infrastructure
+              Served by ProjektAcceltra Komputerowa Infrastructure
           </div>
       </footer>
   );

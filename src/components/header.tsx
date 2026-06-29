@@ -11,7 +11,7 @@ export const Header = () => {
                   Home
               </a>
               <a href="/blog" className="mr-[20px]">
-                  博客
+                  博客 / Blog
               </a>
           </nav>
       </header>
