@@ -36,7 +36,7 @@ export const Footer = async () => {
               />
               <p>Version <strong>{`${version}-${commitId}`}</strong> (built <strong>{builtDate}</strong>)</p>
               <p>Copyright © 2026 Alex Yuan. All rights reserved.</p>
-              <p>Served by ProjektAcceltra Komputerowa Infrastructure</p>
+              <p>Powered by ProjektAcceltra Komputerowa Infrastructure</p>
           </div>
       </footer>
   );

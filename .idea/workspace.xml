@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add header feature and update svg file">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dti.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/dti.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +38,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000271253268003" />
-      <entry key="MS500" value="1.1259479608374432" />
-      <entry key="S2" value="2.042640691686594" />
-      <entry key="S5" value="4.3272119699782845" />
-      <entry key="S10" value="7.006619838386196" />
-      <entry key="S30" value="10.434121334543969" />
-      <entry key="S60" value="11.888540591811866" />
-      <entry key="M2" value="15.362547001783158" />
-      <entry key="M5" value="34.26476470017741" />
-      <entry key="M10" value="66.4115954122765" />
-      <entry key="M15" value="95.39981878632594" />
-      <entry key="M30" value="171.3604546303894" />
-      <entry key="H1" value="269.62146928065636" />
-      <entry key="H2" value="369.72142268130585" />
-      <entry key="H4" value="484.3293728389917" />
-      <entry key="D1" value="744.0307591479702" />
-      <entry key="W1" value="826.4965017440996" />
+      <entry key="MS100" value="1.0002079468636889" />
+      <entry key="MS500" value="1.6628452251377726" />
+      <entry key="S2" value="6.558059338700283" />
+      <entry key="S5" value="12.846028086442391" />
+      <entry key="S10" value="17.641927042901447" />
+      <entry key="S30" value="25.39651370103438" />
+      <entry key="S60" value="30.517937873446314" />
+      <entry key="M2" value="34.82265041156712" />
+      <entry key="M5" value="44.850745121024914" />
+      <entry key="M10" value="69.14566902974926" />
+      <entry key="M15" value="95.94462595349461" />
+      <entry key="M30" value="172.51399719114235" />
+      <entry key="H1" value="279.4133507569223" />
+      <entry key="H2" value="391.9463479182201" />
+      <entry key="H4" value="516.5723030905482" />
+      <entry key="D1" value="790.9271837996602" />
+      <entry key="W1" value="877.6854638897794" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.3374921215710938E-236" />
-      <entry key="S5" value="4.4721513515260984E-95" />
-      <entry key="S10" value="6.687414561342867E-48" />
-      <entry key="S30" value="1.8840224874351572E-16" />
-      <entry key="S60" value="1.3725970818979369E-8" />
-      <entry key="M2" value="1.171887658197124E-4" />
-      <entry key="M5" value="0.02775194271675671" />
-      <entry key="M10" value="0.1950621829397174" />
-      <entry key="M15" value="0.3987978450220598" />
-      <entry key="M30" value="0.8626464610018156" />
-      <entry key="H1" value="1.306130101628885" />
-      <entry key="H2" value="1.7464731300423302" />
-      <entry key="H4" value="2.5329459859519874" />
-      <entry key="D1" value="4.982929090510797" />
-      <entry key="W1" value="5.837210874570226" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.806633000506997E-146" />
+      <entry key="S10" value="2.4096956240378014E-73" />
+      <entry key="S30" value="6.222822256386611E-25" />
+      <entry key="S60" value="7.888487257450655E-13" />
+      <entry key="M2" value="8.884056441776076E-7" />
+      <entry key="M5" value="0.003937164148641225" />
+      <entry key="M10" value="0.07347137130515531" />
+      <entry key="M15" value="0.20799338040310314" />
+      <entry key="M30" value="0.6229901787661587" />
+      <entry key="H1" value="1.1099684030958044" />
+      <entry key="H2" value="1.6099930344990003" />
+      <entry key="H4" value="2.431963055245104" />
+      <entry key="D1" value="4.949255576193892" />
+      <entry key="W1" value="5.83155926264621" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9794466811702449" />
-      <entry key="MS500" value="1.1211065645558944" />
-      <entry key="S2" value="2.0402892857475363" />
-      <entry key="S5" value="4.3251992129679" />
-      <entry key="S10" value="7.004983966272472" />
-      <entry key="S30" value="10.433306651091275" />
-      <entry key="S60" value="11.88807128859328" />
-      <entry key="M2" value="15.36233705606651" />
-      <entry key="M5" value="34.291690646956845" />
-      <entry key="M10" value="66.60380681744105" />
-      <entry key="M15" value="95.79410872384685" />
-      <entry key="M30" value="172.21695634429216" />
-      <entry key="H1" value="270.9222000467199" />
-      <entry key="H2" value="371.46413417096045" />
-      <entry key="H4" value="486.8598673153334" />
-      <entry key="D1" value="749.0130647641272" />
-      <entry key="W1" value="832.33361373311" />
+      <entry key="MS100" value="0.9397262426277588" />
+      <entry key="MS500" value="1.6472755988558057" />
+      <entry key="S2" value="6.548085570591779" />
+      <entry key="S5" value="12.838885570012087" />
+      <entry key="S10" value="17.637136221605918" />
+      <entry key="S30" value="25.394194136543078" />
+      <entry key="S60" value="30.516515040842485" />
+      <entry key="M2" value="34.82180339356472" />
+      <entry key="M5" value="44.854068152331685" />
+      <entry key="M10" value="69.21772467749274" />
+      <entry key="M15" value="96.1500061643374" />
+      <entry key="M30" value="173.13239651061744" />
+      <entry key="H1" value="280.51864736675674" />
+      <entry key="H2" value="393.55282972643226" />
+      <entry key="H4" value="519.0018901108823" />
+      <entry key="D1" value="795.8758163344032" />
+      <entry key="W1" value="883.5169238208045" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -148,7 +144,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -181,9 +177,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
-        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +202,7 @@
       <workItem from="1781732918919" duration="99000" />
       <workItem from="1782678831039" duration="12000" />
       <workItem from="1782680205158" duration="14679000" />
-      <workItem from="1782761839408" duration="3934000" />
+      <workItem from="1782761839408" duration="4755000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -240,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782698850208</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header.">
+      <option name="closed" value="true" />
+      <created>1782765993114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782765993114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +254,7 @@
     <MESSAGE value="Add feature for header and footer, initial blog layout" />
     <MESSAGE value="Add header feature and svg file" />
     <MESSAGE value="Add header feature and update svg file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add header feature and update svg file" />
+    <MESSAGE value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
   </component>
 </project>
