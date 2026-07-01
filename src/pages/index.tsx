@@ -10,7 +10,11 @@ export default async function HomePage() {
       <p className="my-4">{data.body}</p>
       <p className="my-4">I specialize in building systems software, with a particular focus on cloud computing. I also enjoy developing full-stack apps with TypeScript and React, and I have a strong interest in computer networks.</p>
       <p className="my-4">A little ghost working on L2/L3，但什么都学不会 ( Blowing water while touching fish and drinking coffee/apple juice/維他檸檬茶</p>
-      <h3 className="mt-5 text-2xl font-bold">Publications</h3>
+        <h3 className="mt-5 text-2xl font-bold text-[#103222]">Reading List</h3>
+        <p className="mt-2">The Kite Runner/追风筝的人</p>
+        <p className="mt-2">The Last Wish/白狼崛起, 猎魔人卷一</p>
+        <p className="mt-2">Sword of Destiny/宿命之剑, 猎魔人卷二</p>
+      <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
       <img src="/images/myimage.jpg" alt="My image" className="mt-4" />
     </div>
