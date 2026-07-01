@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Update index.tsx">
-      <change afterPath="$PROJECT_DIR$/src/pages/gallery.tsx" afterDir="false" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add gallery tab in nav and relate page, updated index list">
+      <change afterPath="$PROJECT_DIR$/private/Install-MySQL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages.gen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages.gen.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/2018-05-06-https-for-github-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/rd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,61 +50,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000100934971" />
-      <entry key="S2" value="1.0103360138243649" />
-      <entry key="S5" value="1.2005607290335945" />
-      <entry key="S10" value="1.6453396110426364" />
-      <entry key="S30" value="2.784753509520865" />
-      <entry key="S60" value="4.569200631158488" />
-      <entry key="M2" value="8.755131169410205" />
-      <entry key="M5" value="19.456481024103184" />
-      <entry key="M10" value="36.01368022551768" />
-      <entry key="M15" value="49.241118450997355" />
-      <entry key="M30" value="76.39671486337723" />
-      <entry key="H1" value="117.89070309463496" />
-      <entry key="H2" value="228.30158005354875" />
-      <entry key="H4" value="503.2212857591859" />
-      <entry key="D1" value="1519.9260719865604" />
-      <entry key="W1" value="1939.0551934907369" />
+      <entry key="MS100" value="1.0007504283608424" />
+      <entry key="MS500" value="1.2531022925819602" />
+      <entry key="S2" value="2.053128392856423" />
+      <entry key="S5" value="2.5270122900950573" />
+      <entry key="S10" value="2.743704005060836" />
+      <entry key="S30" value="3.115689695061398" />
+      <entry key="S60" value="4.744962128701556" />
+      <entry key="M2" value="9.677832817452076" />
+      <entry key="M5" value="27.787518996811137" />
+      <entry key="M10" value="59.49509815257355" />
+      <entry key="M15" value="85.6950651874701" />
+      <entry key="M30" value="137.93150695011244" />
+      <entry key="H1" value="199.80354202760145" />
+      <entry key="H2" value="318.7965306870743" />
+      <entry key="H4" value="594.820631417998" />
+      <entry key="D1" value="1631.925462503808" />
+      <entry key="W1" value="2065.795282573761" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.212E-320" />
-      <entry key="S30" value="3.479321881949519E-107" />
-      <entry key="S60" value="5.898577694622258E-54" />
-      <entry key="M2" value="2.428698765722536E-27" />
-      <entry key="M5" value="2.260214374189484E-11" />
-      <entry key="M10" value="4.764817777149387E-6" />
-      <entry key="M15" value="2.947420499244544E-4" />
-      <entry key="M30" value="0.031813581497459435" />
-      <entry key="H1" value="0.7327264066293305" />
-      <entry key="H2" value="4.667239379417398" />
-      <entry key="H4" value="13.107220252044982" />
-      <entry key="D1" value="35.09773894492979" />
-      <entry key="W1" value="42.56301433870743" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="2.5536594581009754E-121" />
+      <entry key="S60" value="5.0533745735903735E-61" />
+      <entry key="M2" value="7.1087091469480374E-31" />
+      <entry key="M5" value="8.724016330934139E-13" />
+      <entry key="M10" value="9.361161009455081E-7" />
+      <entry key="M15" value="9.960880092106895E-5" />
+      <entry key="M30" value="0.018494405260665116" />
+      <entry key="H1" value="0.5586705088810466" />
+      <entry key="H2" value="4.075369845262878" />
+      <entry key="H4" value="12.247968848228743" />
+      <entry key="D1" value="34.70334880301303" />
+      <entry key="W1" value="42.49435773621492" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8408964152537145" />
-      <entry key="MS500" value="0.9659363386745212" />
-      <entry key="S2" value="1.0016205759614656" />
-      <entry key="S5" value="1.1964317020652853" />
-      <entry key="S10" value="1.6424873287689623" />
-      <entry key="S30" value="2.783054883497369" />
-      <entry key="S60" value="4.568060399551487" />
-      <entry key="M2" value="8.754324578463656" />
-      <entry key="M5" value="19.45541648993485" />
-      <entry key="M10" value="36.01237363052458" />
-      <entry key="M15" value="49.24016973141607" />
-      <entry key="M30" value="76.42757024971391" />
-      <entry key="H1" value="118.62224678242876" />
-      <entry key="H2" value="232.96632129467602" />
-      <entry key="H4" value="516.3249255360865" />
-      <entry key="D1" value="1555.0220053777466" />
-      <entry key="W1" value="1981.6178852223784" />
+      <entry key="MS100" value="0.9599940271625742" />
+      <entry key="MS500" value="1.2433536574870814" />
+      <entry key="S2" value="2.0492234960814457" />
+      <entry key="S5" value="2.5250596311553646" />
+      <entry key="S10" value="2.7426358023812574" />
+      <entry key="S30" value="3.1152841136329372" />
+      <entry key="S60" value="4.744658105138907" />
+      <entry key="M2" value="9.677527656453728" />
+      <entry key="M5" value="27.787126823920108" />
+      <entry key="M10" value="59.494490236123184" />
+      <entry key="M15" value="85.69443242679687" />
+      <entry key="M30" value="137.9492304323358" />
+      <entry key="H1" value="200.36118433966675" />
+      <entry key="H2" value="322.86965030197825" />
+      <entry key="H4" value="607.0652185328645" />
+      <entry key="D1" value="1666.6270198221687" />
+      <entry key="W1" value="2108.289317329147" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -256,7 +258,7 @@
       <workItem from="1782771170496" duration="9908000" />
       <workItem from="1782850331083" duration="18664000" />
       <workItem from="1782927985545" duration="5349000" />
-      <workItem from="1782936511226" duration="2290000" />
+      <workItem from="1782936511226" duration="3676000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -362,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782895864311</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add gallery tab in nav and relate page, updated index list">
+      <option name="closed" value="true" />
+      <created>1782939879727</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1782939879728</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,6 +392,7 @@
     <MESSAGE value="Modify posts page layout and add new description" />
     <MESSAGE value="Change web icon, new icon" />
     <MESSAGE value="Update index.tsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update index.tsx" />
+    <MESSAGE value="Add gallery tab in nav and relate page, updated index list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gallery tab in nav and relate page, updated index list" />
   </component>
 </project>
