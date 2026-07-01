@@ -20,7 +20,7 @@ export default async function HomePage() {
 
 const getData = async () => {
   const data = {
-    title: 'Home | Motoko\'s Blog',
+    title: 'Home | Emondora\'s Blog',
     headline: '这个页面先鸽着，还没想好要写啥 (',
     body: 'A CS UG Student, part time on open source.',
   };

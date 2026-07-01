@@ -60,7 +60,7 @@ export default async function PostsPage() {
 
   return (
       <div>
-        <title>Posts | Motoko&apos;s Blog</title>
+        <title>Posts | Emondora's Blog</title>
         <h1 className="text-4xl font-bold tracking-tight">writing/</h1>
         <p className="my-4">Thoughts on web development, open source, and my life.</p>
 

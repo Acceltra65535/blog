@@ -58,13 +58,13 @@ export default async function PostDetailPage({ slug }: PostPageProps) {
 
     return (
         <div className="w-full max-w-none">
-            <title>{`${meta.title} | Posts`}</title>
+            <title>{`${meta.title} | Emondora\'s Blog`}</title>
 
             <h1 className="text-4xl font-bold tracking-tight">{meta.title}</h1>
             <p className="my-4 text-neutral-500">{meta.summary}</p>
             <p className="mb-8 text-sm text-neutral-500">{meta.date}</p>
 
-            <hr className="my-8 border-neutral-300" />
+            <hr className="my-10 border-0 border-t-2 border-neutral-300" />
 
             <div className="prose prose-neutral max-w-none">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>

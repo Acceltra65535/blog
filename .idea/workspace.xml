@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated interface fonts">
-      <change afterPath="$PROJECT_DIR$/private/2018-05-06-https-for-github-pages.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private/rd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" afterDir="false" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-BoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-BoldItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Condensed.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Condensed.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-ExtraLight.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-ExtraLight.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Italic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-LightItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-LightItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Medium.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-SemiBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-SemiBold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-SemiLight.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-SemiLight.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-Thin.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-Thin.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/IoskeleyMono-ThinItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/IoskeleyMono-ThinItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/NotoSansSC.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NotoSansSC.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages.gen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages.gen.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="38" />
+    <option name="cachedIndexableFilesCount" value="40" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -61,65 +41,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5652895826561173" />
-      <entry key="MS500" value="3.472394567213705" />
-      <entry key="S2" value="6.395431410889784" />
-      <entry key="S5" value="8.136317745736338" />
-      <entry key="S10" value="9.057160439083784" />
-      <entry key="S30" value="11.809091387528106" />
-      <entry key="S60" value="16.051657565381614" />
-      <entry key="M2" value="22.171139405067915" />
-      <entry key="M5" value="32.97909883373086" />
-      <entry key="M10" value="50.79944343103228" />
-      <entry key="M15" value="72.02480632990252" />
-      <entry key="M30" value="142.91589767888635" />
-      <entry key="H1" value="283.8645847501005" />
-      <entry key="H2" value="495.00966864450936" />
-      <entry key="H4" value="735.102011702381" />
-      <entry key="D1" value="1210.0893459723006" />
-      <entry key="W1" value="1357.248981112922" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000218" />
+      <entry key="S2" value="1.0003838015270907" />
+      <entry key="S5" value="1.0449800555300917" />
+      <entry key="S10" value="1.2517780394270792" />
+      <entry key="S30" value="1.9463112315193625" />
+      <entry key="S60" value="2.4432182011740817" />
+      <entry key="M2" value="4.335869287513324" />
+      <entry key="M5" value="18.673769624345084" />
+      <entry key="M10" value="45.71543293198227" />
+      <entry key="M15" value="71.07916023701254" />
+      <entry key="M30" value="145.46668597444145" />
+      <entry key="H1" value="288.8509960045848" />
+      <entry key="H2" value="508.42776563332814" />
+      <entry key="H4" value="762.3644995325159" />
+      <entry key="D1" value="1266.1917221143487" />
+      <entry key="W1" value="1422.5028535836962" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.033423181022187E-177" />
-      <entry key="S2" value="9.749068067139862E-45" />
-      <entry key="S5" value="2.489908867700344E-18" />
-      <entry key="S10" value="1.6654261414273E-9" />
-      <entry key="S30" value="0.0020490006246911253" />
-      <entry key="S60" value="0.08528830148690397" />
-      <entry key="M2" value="0.5758086092259492" />
-      <entry key="M5" value="1.8413685494406706" />
-      <entry key="M10" value="2.8107778555286678" />
-      <entry key="M15" value="3.3720277741401716" />
-      <entry key="M30" value="4.530631086834054" />
-      <entry key="H1" value="6.2950528699948265" />
-      <entry key="H2" value="8.489112103950967" />
-      <entry key="H4" value="10.729792282048997" />
-      <entry key="D1" value="15.254499554693886" />
-      <entry key="W1" value="16.720615019561464" />
+      <entry key="MS500" value="3.282217554493541E-241" />
+      <entry key="S2" value="7.569058136417032E-61" />
+      <entry key="S5" value="8.945749573190244E-25" />
+      <entry key="S10" value="9.4581972770662E-13" />
+      <entry key="S30" value="9.816035556003036E-5" />
+      <entry key="S60" value="0.009907884133212457" />
+      <entry key="M2" value="0.10060473400110163" />
+      <entry key="M5" value="0.5461107734225403" />
+      <entry key="M10" value="1.4292363682662372" />
+      <entry key="M15" value="2.192844789361104" />
+      <entry key="M30" value="3.8362274944879577" />
+      <entry key="H1" value="6.030325888881796" />
+      <entry key="H2" value="8.606489880176884" />
+      <entry key="H4" value="11.162804313444083" />
+      <entry key="D1" value="16.118612973402627" />
+      <entry key="W1" value="17.69930234745188" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5251874687692557" />
-      <entry key="MS500" value="3.4549897804067067" />
-      <entry key="S2" value="6.387539393395413" />
-      <entry key="S5" value="8.132284596853436" />
-      <entry key="S10" value="9.054910200067743" />
-      <entry key="S30" value="11.810119263281365" />
-      <entry key="S60" value="16.13520814634495" />
-      <entry key="M2" value="22.742718727073232" />
-      <entry key="M5" value="34.81483530552157" />
-      <entry key="M10" value="53.602565864841594" />
-      <entry key="M15" value="75.38710733564679" />
-      <entry key="M30" value="147.4352978090864" />
-      <entry key="H1" value="290.1497356749207" />
-      <entry key="H2" value="503.4913104476642" />
-      <entry key="H4" value="745.8267820953486" />
-      <entry key="D1" value="1225.3426047250423" />
-      <entry key="W1" value="1373.969401191327" />
+      <entry key="MS100" value="0.9075191553171609" />
+      <entry key="MS500" value="0.9807790039885724" />
+      <entry key="S2" value="0.9955407402812451" />
+      <entry key="S5" value="1.0429109140849786" />
+      <entry key="S10" value="1.2504480255978363" />
+      <entry key="S30" value="1.9456385256121624" />
+      <entry key="S60" value="2.452384673604338" />
+      <entry key="M2" value="4.434806188581574" />
+      <entry key="M5" value="19.216970859489376" />
+      <entry key="M10" value="47.14053006321161" />
+      <entry key="M15" value="73.26626455107234" />
+      <entry key="M30" value="149.2946268915856" />
+      <entry key="H1" value="294.87280340827647" />
+      <entry key="H2" value="517.0272737640164" />
+      <entry key="H4" value="773.5224083024609" />
+      <entry key="D1" value="1282.309083019949" />
+      <entry key="W1" value="1440.2019580726533" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
@@ -179,7 +159,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -222,10 +202,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.typegen" />
-        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +230,7 @@
       <workItem from="1782680205158" duration="14679000" />
       <workItem from="1782761839408" duration="5376000" />
       <workItem from="1782771170496" duration="9908000" />
-      <workItem from="1782850331083" duration="5528000" />
+      <workItem from="1782850331083" duration="6604000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -308,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782775237921</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review">
+      <option name="closed" value="true" />
+      <created>1782877632167</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782877632167</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +309,7 @@
     <MESSAGE value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
     <MESSAGE value="Update footer.tsx" />
     <MESSAGE value="Updated interface fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated interface fonts" />
+    <MESSAGE value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
   </component>
 </project>
