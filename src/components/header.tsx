@@ -39,6 +39,7 @@ export const Header = () => {
 
     const isHome = pathname === '/';
     const isPosts = pathname.startsWith('/posts');
+    const isGallery = pathname.startsWith('/gallery');
 
     const tabBaseClass = 'mr-5 inline-block border-b-3 border-transparent pb-1 transition-colors';
     const tabActiveClass = 'border-b-[#103222] text-[#103222]';
@@ -65,6 +66,13 @@ export const Header = () => {
                   aria-current={isPosts ? 'page' : undefined}
               >
                   博客/Blog
+              </a>
+              <a
+                  href="/gallery"
+                  className={`${tabBaseClass} ${isGallery ? tabActiveClass : tabInactiveClass}`}
+                  aria-current={isGallery ? 'page' : undefined}
+              >
+                  畫廊/Gallery
               </a>
           </nav>
           <div className="lg:mt-5 flex items-center gap-5">
