@@ -61,7 +61,7 @@ export default async function PostsPage() {
   return (
       <div>
         <title>Posts | Emondora's Blog</title>
-        <h1 className="text-4xl font-bold tracking-tight">writing/</h1>
+        <h1 className="text-4xl font-bold tracking-tight text-neutral-400">fetching//</h1>
         <p className="my-4">Thoughts on web development, open source, and my life.</p>
 
         <ul className="mt-6 space-y-3">
