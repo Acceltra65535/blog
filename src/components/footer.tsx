@@ -2,8 +2,8 @@ import { readFile } from 'node:fs/promises';
 import { execSync } from 'node:child_process';
 
 const getBuildInfo = async () => {
-    let version = 'unknown';
-    let commitId = 'unknown';
+    let version = 'N/A';
+    let commitId = 'N/A';
 
     try {
         const packageJsonText = await readFile(new URL('../../package.json', import.meta.url), 'utf-8');

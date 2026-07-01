@@ -14,7 +14,7 @@ export const Header = () => {
                   博客 / Blog
               </a>
           </nav>
-          <div className="mt-5 flex items-center gap-5">
+          <div className="lg:mt-5 flex items-center gap-5">
               <img
                   src="/images/dti.svg"
                   alt="dti"
