@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add nav tabs feature for better interface and display">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Modify posts page layout and add new description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/favicon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,73 +27,73 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
-    &quot;accountId&quot;: &quot;a8feba7d-de1e-41c6-96df-3007fabe19f2&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Acceltra65535/blog.git",
+    "accountId": "797271cc-e719-4720-ba91-e3f3bcbcb616"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.3487457407035014E-85" />
-      <entry key="S2" value="7.213669774564246E-22" />
-      <entry key="S5" value="4.357456652792724E-9" />
-      <entry key="S10" value="8.890775133959347E-5" />
-      <entry key="S30" value="0.07000996737060267" />
-      <entry key="S60" value="0.3745482594946446" />
-      <entry key="M2" value="0.9228757431698384" />
-      <entry key="M5" value="4.102975184938811" />
-      <entry key="M10" value="19.75170947842351" />
-      <entry key="M15" value="42.3239173206216" />
-      <entry key="M30" value="108.36029780886322" />
-      <entry key="H1" value="220.10487784739357" />
-      <entry key="H2" value="431.43835912569483" />
-      <entry key="H4" value="747.9485316736394" />
-      <entry key="D1" value="1486.7944481494883" />
-      <entry key="W1" value="1732.8503262041902" />
+      <entry key="MS100" value="1.0002246551881409" />
+      <entry key="MS500" value="1.186367946534835" />
+      <entry key="S2" value="1.7765814491353709" />
+      <entry key="S5" value="2.8157677600248197" />
+      <entry key="S10" value="4.833410345689792" />
+      <entry key="S30" value="9.810579231751131" />
+      <entry key="S60" value="12.434154273595167" />
+      <entry key="M2" value="14.362227954476868" />
+      <entry key="M5" value="17.867151538918254" />
+      <entry key="M10" value="31.578421884569735" />
+      <entry key="M15" value="52.494066846390574" />
+      <entry key="M30" value="116.86641717008284" />
+      <entry key="H1" value="228.43551609383846" />
+      <entry key="H2" value="439.89039321565946" />
+      <entry key="H4" value="757.3903061750708" />
+      <entry key="D1" value="1500.6166604595844" />
+      <entry key="W1" value="1748.4875691358764" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000018067849" />
-      <entry key="S2" value="1.0116000845379165" />
-      <entry key="S5" value="1.1788508934484678" />
-      <entry key="S10" value="1.5510566620213448" />
-      <entry key="S30" value="2.6114432822628415" />
-      <entry key="S60" value="3.6132825949004372" />
-      <entry key="M2" value="5.061493215796017" />
-      <entry key="M5" value="7.392948770501574" />
-      <entry key="M10" value="9.684279771013093" />
-      <entry key="M15" value="11.269323118902639" />
-      <entry key="M30" value="14.532122037747328" />
-      <entry key="H1" value="18.771243453007287" />
-      <entry key="H2" value="24.030188251132454" />
-      <entry key="H4" value="29.54214490145329" />
-      <entry key="D1" value="39.44369459160975" />
-      <entry key="W1" value="42.434688524691715" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.3967661134408005E-110" />
+      <entry key="S2" value="3.47768127972242E-28" />
+      <entry key="S5" value="1.2189088918798763E-11" />
+      <entry key="S10" value="4.987510781798405E-6" />
+      <entry key="S30" value="0.03854481739664378" />
+      <entry key="S60" value="0.4389798911007364" />
+      <entry key="M2" value="1.7642088963271028" />
+      <entry key="M5" value="4.849826879778575" />
+      <entry key="M10" value="7.843711240344739" />
+      <entry key="M15" value="9.791908453260096" />
+      <entry key="M30" value="13.546084890102266" />
+      <entry key="H1" value="18.12322242683086" />
+      <entry key="H2" value="23.611760107809232" />
+      <entry key="H4" value="29.28381257350926" />
+      <entry key="D1" value="39.3859978816449" />
+      <entry key="W1" value="42.425815557821416" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="9.238844206304644E-4" />
-      <entry key="MS500" value="0.24724273162561078" />
-      <entry key="S2" value="0.712244860937255" />
-      <entry key="S5" value="1.0157292870602104" />
-      <entry key="S10" value="1.4240146646508194" />
-      <entry key="S30" value="2.5725187581753888" />
-      <entry key="S60" value="3.8783801635848296" />
-      <entry key="M2" value="5.8870674842978366" />
-      <entry key="M5" value="11.427796821371729" />
-      <entry key="M10" value="29.38725002455685" />
-      <entry key="M15" value="53.554532510757504" />
-      <entry key="M30" value="122.86728114215268" />
-      <entry key="H1" value="238.85958189624603" />
-      <entry key="H2" value="455.4570926446625" />
-      <entry key="H4" value="777.4828776048587" />
-      <entry key="D1" value="1526.2361266384216" />
-      <entry key="W1" value="1775.2846943690238" />
+      <entry key="MS100" value="0.9864542667871378" />
+      <entry key="MS500" value="1.1830831918869185" />
+      <entry key="S2" value="1.7753490657489555" />
+      <entry key="S5" value="2.8147284110136686" />
+      <entry key="S10" value="4.831736095002946" />
+      <entry key="S30" value="9.845737560613397" />
+      <entry key="S60" value="12.85861660594025" />
+      <entry key="M2" value="16.091805179111173" />
+      <entry key="M5" value="22.671970506562896" />
+      <entry key="M10" value="39.382493899546105" />
+      <entry key="M15" value="62.252231980047036" />
+      <entry key="M30" value="130.38901346026887" />
+      <entry key="H1" value="246.5427421316516" />
+      <entry key="H2" value="463.4908840307492" />
+      <entry key="H4" value="786.6663809585355" />
+      <entry key="D1" value="1540.0006440166048" />
+      <entry key="W1" value="1790.9130642335047" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -131,7 +129,7 @@
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog",
+    "last_opened_file_path": "/home/blog/public/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -148,10 +146,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/private" />
       <recent name="$PROJECT_DIR$/public/fonts" />
-      <recent name="$PROJECT_DIR$/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/pages" />
@@ -160,7 +158,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -203,9 +201,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
-        <item itemvalue="npm.dev" />
         <item itemvalue="npm.typegen" />
       </list>
     </recent_temporary>
@@ -231,7 +229,7 @@
       <workItem from="1782680205158" duration="14679000" />
       <workItem from="1782761839408" duration="5376000" />
       <workItem from="1782771170496" duration="9908000" />
-      <workItem from="1782850331083" duration="15194000" />
+      <workItem from="1782850331083" duration="15636000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -313,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782887047184</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Modify posts page layout and add new description">
+      <option name="closed" value="true" />
+      <created>1782888803105</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782888803105</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +335,8 @@
     <MESSAGE value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
     <MESSAGE value="Try to modify Layout to fit the small display" />
     <MESSAGE value="Add nav tabs feature for better interface and display" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add nav tabs feature for better interface and display" />
+    <MESSAGE value="Modify posts page layout" />
+    <MESSAGE value="Modify posts page layout and add new description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify posts page layout and add new description" />
   </component>
 </project>
