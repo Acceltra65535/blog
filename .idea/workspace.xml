@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Change web icon, new icon">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Update index.tsx">
+      <change afterPath="$PROJECT_DIR$/private/Ubuntu20.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,61 +39,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000405482731354" />
-      <entry key="MS500" value="1.1323105493593917" />
-      <entry key="S2" value="1.6031129008151364" />
-      <entry key="S5" value="1.81700962251226" />
-      <entry key="S10" value="1.9151023262088946" />
-      <entry key="S30" value="2.19116710569367" />
-      <entry key="S60" value="2.456905595509823" />
-      <entry key="M2" value="2.6798079942281374" />
-      <entry key="M5" value="2.857826294465677" />
-      <entry key="M10" value="2.964516372916948" />
-      <entry key="M15" value="3.530868118599387" />
-      <entry key="M30" value="15.116907578651226" />
-      <entry key="H1" value="76.56454410882013" />
-      <entry key="H2" value="252.6892352090922" />
-      <entry key="H4" value="574.2097516711196" />
-      <entry key="D1" value="1438.5112778498274" />
-      <entry key="W1" value="1745.4116036567643" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000002180544927" />
+      <entry key="S60" value="1.0008087929896625" />
+      <entry key="M2" value="1.0493699868119266" />
+      <entry key="M5" value="1.6304284658201889" />
+      <entry key="M10" value="2.7134983547041673" />
+      <entry key="M15" value="3.6550534413835525" />
+      <entry key="M30" value="10.999947638788967" />
+      <entry key="H1" value="58.32668621661354" />
+      <entry key="H2" value="217.4052670168646" />
+      <entry key="H4" value="531.8355631190808" />
+      <entry key="D1" value="1422.490960185808" />
+      <entry key="W1" value="1745.9210511752551" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="1.788692183156285E-187" />
-      <entry key="S30" value="1.27111032495473E-62" />
-      <entry key="S60" value="2.5208862726969712E-31" />
-      <entry key="M2" value="1.3369166166735377E-15" />
-      <entry key="M5" value="4.340581965192667E-6" />
-      <entry key="M10" value="0.007420487875120331" />
-      <entry key="M15" value="0.09436434280499151" />
-      <entry key="M30" value="1.3297931162269099" />
-      <entry key="H1" value="5.678329164921249" />
-      <entry key="H2" value="13.216636147689837" />
-      <entry key="H4" value="21.90906806064349" />
-      <entry key="D1" value="37.52677421013427" />
-      <entry key="W1" value="42.133749718657846" />
+      <entry key="S2" value="2.280430422022871E-107" />
+      <entry key="S5" value="2.2039753373856637E-43" />
+      <entry key="S10" value="4.694651571081356E-22" />
+      <entry key="S30" value="7.772029763155363E-8" />
+      <entry key="S60" value="2.7878360359166325E-4" />
+      <entry key="M2" value="0.01669681417491562" />
+      <entry key="M5" value="0.19456002671465564" />
+      <entry key="M10" value="0.4420773749299291" />
+      <entry key="M15" value="0.6040553863247915" />
+      <entry key="M30" value="1.4402235049448058" />
+      <entry key="H1" value="4.9300407462735425" />
+      <entry key="H2" value="12.106382988458224" />
+      <entry key="H4" value="21.109977171891696" />
+      <entry key="D1" value="37.99927702333754" />
+      <entry key="W1" value="43.04873609468797" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.865603996884573E-4" />
-      <entry key="MS500" value="0.27026739355602875" />
-      <entry key="S2" value="1.2005311768087708" />
-      <entry key="S5" value="1.6294627868967646" />
-      <entry key="S10" value="1.8159792581033511" />
-      <entry key="S30" value="2.155377090047724" />
-      <entry key="S60" value="2.437950534708335" />
-      <entry key="M2" value="2.6699015059196123" />
-      <entry key="M5" value="2.8537327995076054" />
-      <entry key="M10" value="2.969824560216231" />
-      <entry key="M15" value="3.623517923741113" />
-      <entry key="M30" value="16.44369652945931" />
-      <entry key="H1" value="82.23751072462812" />
-      <entry key="H2" value="265.89938754476583" />
-      <entry key="H4" value="596.1129424976097" />
-      <entry key="D1" value="1476.0361181073276" />
-      <entry key="W1" value="1787.5450330184158" />
+      <entry key="MS100" value="0.9201876506248751" />
+      <entry key="MS500" value="0.9835020740262483" />
+      <entry key="S2" value="0.9958497530944581" />
+      <entry key="S5" value="0.9983378297043665" />
+      <entry key="S10" value="0.999168569213607" />
+      <entry key="S30" value="0.9997230725081013" />
+      <entry key="S60" value="1.000943838828062" />
+      <entry key="M2" value="1.0658430981984313" />
+      <entry key="M5" value="1.8241684434289918" />
+      <entry key="M10" value="3.1544640801807353" />
+      <entry key="M15" value="4.257937190842058" />
+      <entry key="M30" value="12.43816252991086" />
+      <entry key="H1" value="63.25262332625017" />
+      <entry key="H2" value="229.50602371391585" />
+      <entry key="H4" value="552.9400614840379" />
+      <entry key="D1" value="1460.488317257724" />
+      <entry key="W1" value="1788.9694657025864" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -129,7 +129,7 @@
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog/public/images",
+    "last_opened_file_path": "/home/blog/private",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -146,9 +146,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/private" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/private" />
       <recent name="$PROJECT_DIR$/public/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -229,7 +229,7 @@
       <workItem from="1782680205158" duration="14679000" />
       <workItem from="1782761839408" duration="5376000" />
       <workItem from="1782771170496" duration="9908000" />
-      <workItem from="1782850331083" duration="17865000" />
+      <workItem from="1782850331083" duration="18664000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -327,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782889136607</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update index.tsx">
+      <option name="closed" value="true" />
+      <created>1782895864311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782895864311</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,6 +354,7 @@
     <MESSAGE value="Modify posts page layout" />
     <MESSAGE value="Modify posts page layout and add new description" />
     <MESSAGE value="Change web icon, new icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change web icon, new icon" />
+    <MESSAGE value="Update index.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update index.tsx" />
   </component>
 </project>
