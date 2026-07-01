@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Try to modify Layout to fit the small display">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add nav tabs feature for better interface and display">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/counter.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="40" />
+    <option name="cachedIndexableFilesCount" value="42" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -42,61 +41,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.239487468255469" />
-      <entry key="MS500" value="3.1826257828188864" />
-      <entry key="S2" value="5.535087071331263" />
-      <entry key="S5" value="7.507269301419303" />
-      <entry key="S10" value="9.103579294282634" />
-      <entry key="S30" value="10.841692677943815" />
-      <entry key="S60" value="11.814562422097548" />
-      <entry key="M2" value="15.413336718738858" />
-      <entry key="M5" value="36.30334518184998" />
-      <entry key="M10" value="74.58027228484131" />
-      <entry key="M15" value="104.6541017603394" />
-      <entry key="M30" value="164.0739356081219" />
-      <entry key="H1" value="262.7837949979738" />
-      <entry key="H2" value="466.4328145377973" />
-      <entry key="H4" value="769.353197916582" />
-      <entry key="D1" value="1460.448584460196" />
-      <entry key="W1" value="1687.6026923233223" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3487457407035014E-85" />
+      <entry key="S2" value="7.213669774564246E-22" />
+      <entry key="S5" value="4.357456652792724E-9" />
+      <entry key="S10" value="8.890775133959347E-5" />
+      <entry key="S30" value="0.07000996737060267" />
+      <entry key="S60" value="0.3745482594946446" />
+      <entry key="M2" value="0.9228757431698384" />
+      <entry key="M5" value="4.102975184938811" />
+      <entry key="M10" value="19.75170947842351" />
+      <entry key="M15" value="42.3239173206216" />
+      <entry key="M30" value="108.36029780886322" />
+      <entry key="H1" value="220.10487784739357" />
+      <entry key="H2" value="431.43835912569483" />
+      <entry key="H4" value="747.9485316736394" />
+      <entry key="D1" value="1486.7944481494883" />
+      <entry key="W1" value="1732.8503262041902" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.5682769069954587E-122" />
-      <entry key="S2" value="4.346250929545615E-31" />
-      <entry key="S5" value="7.184586025757837E-13" />
-      <entry key="S10" value="8.901918772113668E-7" />
-      <entry key="S30" value="0.012981933045789368" />
-      <entry key="S60" value="0.1566096114868955" />
-      <entry key="M2" value="0.5554829183513007" />
-      <entry key="M5" value="1.200689706457392" />
-      <entry key="M10" value="1.7368029541223715" />
-      <entry key="M15" value="2.3468571034948233" />
-      <entry key="M30" value="4.28724350109501" />
-      <entry key="H1" value="7.437521096952946" />
-      <entry key="H2" value="11.717662347012839" />
-      <entry key="H4" value="16.344701736022422" />
-      <entry key="D1" value="24.883986943730292" />
-      <entry key="W1" value="27.503680552383557" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000018067849" />
+      <entry key="S2" value="1.0116000845379165" />
+      <entry key="S5" value="1.1788508934484678" />
+      <entry key="S10" value="1.5510566620213448" />
+      <entry key="S30" value="2.6114432822628415" />
+      <entry key="S60" value="3.6132825949004372" />
+      <entry key="M2" value="5.061493215796017" />
+      <entry key="M5" value="7.392948770501574" />
+      <entry key="M10" value="9.684279771013093" />
+      <entry key="M15" value="11.269323118902639" />
+      <entry key="M30" value="14.532122037747328" />
+      <entry key="H1" value="18.771243453007287" />
+      <entry key="H2" value="24.030188251132454" />
+      <entry key="H4" value="29.54214490145329" />
+      <entry key="D1" value="39.44369459160975" />
+      <entry key="W1" value="42.434688524691715" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2139791849804349" />
-      <entry key="MS500" value="3.1693646016666306" />
-      <entry key="S2" value="5.528950990057277" />
-      <entry key="S5" value="7.503618937139582" />
-      <entry key="S10" value="9.101247743748845" />
-      <entry key="S30" value="10.853425048217835" />
-      <entry key="S60" value="11.968856372530986" />
-      <entry key="M2" value="15.96525738933458" />
-      <entry key="M5" value="37.50088667598341" />
-      <entry key="M10" value="76.31413426683861" />
-      <entry key="M15" value="106.99742619796403" />
-      <entry key="M30" value="168.3564787355984" />
-      <entry key="H1" value="270.2158042990112" />
-      <entry key="H2" value="478.14479694506593" />
-      <entry key="H4" value="785.6931455561541" />
-      <entry key="D1" value="1485.331124456618" />
-      <entry key="W1" value="1715.1061367984137" />
+      <entry key="MS100" value="9.238844206304644E-4" />
+      <entry key="MS500" value="0.24724273162561078" />
+      <entry key="S2" value="0.712244860937255" />
+      <entry key="S5" value="1.0157292870602104" />
+      <entry key="S10" value="1.4240146646508194" />
+      <entry key="S30" value="2.5725187581753888" />
+      <entry key="S60" value="3.8783801635848296" />
+      <entry key="M2" value="5.8870674842978366" />
+      <entry key="M5" value="11.427796821371729" />
+      <entry key="M10" value="29.38725002455685" />
+      <entry key="M15" value="53.554532510757504" />
+      <entry key="M30" value="122.86728114215268" />
+      <entry key="H1" value="238.85958189624603" />
+      <entry key="H2" value="455.4570926446625" />
+      <entry key="H4" value="777.4828776048587" />
+      <entry key="D1" value="1526.2361266384216" />
+      <entry key="W1" value="1775.2846943690238" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -161,7 +160,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -204,10 +203,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
-        <item itemvalue="npm.typegen" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.typegen" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +231,7 @@
       <workItem from="1782680205158" duration="14679000" />
       <workItem from="1782761839408" duration="5376000" />
       <workItem from="1782771170496" duration="9908000" />
-      <workItem from="1782850331083" duration="13511000" />
+      <workItem from="1782850331083" duration="15194000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -306,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782878667852</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add nav tabs feature for better interface and display">
+      <option name="closed" value="true" />
+      <created>1782887047184</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782887047184</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +328,7 @@
     <MESSAGE value="Updated interface fonts" />
     <MESSAGE value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
     <MESSAGE value="Try to modify Layout to fit the small display" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try to modify Layout to fit the small display" />
+    <MESSAGE value="Add nav tabs feature for better interface and display" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add nav tabs feature for better interface and display" />
   </component>
 </project>

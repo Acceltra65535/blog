@@ -6,11 +6,12 @@ export default async function HomePage() {
   return (
     <div>
       <title>{data.title}</title>
-        <h2 className="text-xl tracking-tight"><strong>Hi, I'm Alex Yuan!</strong> {data.headline}</h2>
+      <h2 className="text-xl tracking-tight"><strong>Hi, I'm Alex Yuan!</strong> {data.headline}</h2>
       <p className="my-4">{data.body}</p>
       <p className="my-4">I specialize in building systems software, with a particular focus on cloud computing. I also enjoy developing full-stack apps with TypeScript and React, and I have a strong interest in computer networks.</p>
       <p className="my-4">A little ghost working on L2/L3，但什么都学不会 ( Blowing water while touching fish and drinking coffee/apple juice/維他檸檬茶</p>
-      <p className="my-4">Thanks for visiting my site and reading my notes.</p>
+      <h3 className="mt-5 text-2xl font-bold">Publications</h3>
+      <p className="mt-2">Not yet.</p>
       <img src="/images/myimage.jpg" alt="My image" className="mt-4" />
     </div>
   );

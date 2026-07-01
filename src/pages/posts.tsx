@@ -62,13 +62,13 @@ export default async function PostsPage() {
       <div>
         <title>Posts | Emondora's Blog</title>
         <h1 className="text-4xl font-bold tracking-tight text-neutral-400">fetching//</h1>
-        <p className="my-4">Thoughts on web development, open source, and my life.</p>
+        <p className="mt-4 mb-8">Notes on computer engineering, open source, and my life.</p>
 
-        <ul className="mt-6 space-y-3">
+        <ul className="mt-6 space-y-5">
           {posts.map((post) => (
-              <li key={post.slug} className="flex items-baseline gap-3">
+              <li key={post.slug} className="flex items-baseline gap-4">
                 <time className="min-w-28 text-base opacity-70">{post.date}</time>
-                <Link to={`/posts/${post.slug}`} className="underline underline-offset-4">
+                <Link to={`/posts/${post.slug}`} className="underline underline-offset-4 text-lg">
                   {post.title}
                 </Link>
               </li>
