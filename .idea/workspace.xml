@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="updated index.tsx. Add new feature for markdown render.">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="All new header nav">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +19,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="43" />
+    <option name="cachedIndexableFilesCount" value="42" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -35,73 +32,73 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "80a13ed0-a8db-4c6a-af75-37876fdbcbe1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
+    &quot;accountId&quot;: &quot;80a13ed0-a8db-4c6a-af75-37876fdbcbe1&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000073695093454" />
-      <entry key="MS500" value="1.0940779217131917" />
-      <entry key="S2" value="1.5538241998264892" />
-      <entry key="S5" value="1.7894938875781505" />
-      <entry key="S10" value="1.8885703152145923" />
-      <entry key="S30" value="2.0510626546897717" />
-      <entry key="S60" value="3.142211615510166" />
-      <entry key="M2" value="7.654849620450135" />
-      <entry key="M5" value="21.105533477542195" />
-      <entry key="M10" value="37.96784404353815" />
-      <entry key="M15" value="51.377497125785254" />
-      <entry key="M30" value="88.53824316493738" />
-      <entry key="H1" value="167.1205021558106" />
-      <entry key="H2" value="315.37653830300184" />
-      <entry key="H4" value="600.3555154501333" />
-      <entry key="D1" value="1835.5826445082926" />
-      <entry key="W1" value="2430.1303966392775" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000001408" />
+      <entry key="S5" value="1.000018580893319" />
+      <entry key="S10" value="1.0058982085148873" />
+      <entry key="S30" value="1.7692955174287874" />
+      <entry key="S60" value="5.54418126723637" />
+      <entry key="M2" value="15.922658939398202" />
+      <entry key="M5" value="40.932856510592785" />
+      <entry key="M10" value="66.9333621403229" />
+      <entry key="M15" value="85.05264765728022" />
+      <entry key="M30" value="127.95311114260464" />
+      <entry key="H1" value="209.37476516566414" />
+      <entry key="H2" value="359.44258438647347" />
+      <entry key="H4" value="645.5622709477537" />
+      <entry key="D1" value="1886.7670190019687" />
+      <entry key="W1" value="2486.0344408717037" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="4.103556432426409E-111" />
-      <entry key="S2" value="2.927077791799834E-28" />
-      <entry key="S5" value="1.3960488484658288E-11" />
-      <entry key="S10" value="5.7899474235861375E-6" />
-      <entry key="S30" value="0.03603027559714798" />
-      <entry key="S60" value="0.32733577964690663" />
-      <entry key="M2" value="1.0302475459114764" />
-      <entry key="M5" value="2.801863479463441" />
-      <entry key="M10" value="5.008328074784158" />
-      <entry key="M15" value="6.444932720224809" />
-      <entry key="M30" value="8.928671673720874" />
-      <entry key="H1" value="11.608954348799482" />
-      <entry key="H2" value="15.168908155399752" />
-      <entry key="H4" value="22.275373630352412" />
-      <entry key="D1" value="49.361247660663096" />
-      <entry key="W1" value="60.71688616983831" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.3395891458824505E-86" />
+      <entry key="S5" value="6.443406885690563E-35" />
+      <entry key="S10" value="1.2438903285955614E-17" />
+      <entry key="S30" value="4.649112703251809E-6" />
+      <entry key="S60" value="0.003718302545440892" />
+      <entry key="M2" value="0.10980375984986046" />
+      <entry key="M5" value="1.1442402474279725" />
+      <entry key="M10" value="3.2005741589929184" />
+      <entry key="M15" value="4.781620862864166" />
+      <entry key="M30" value="7.690688622378648" />
+      <entry key="H1" value="10.774131969305076" />
+      <entry key="H2" value="14.613320706153639" />
+      <entry key="H4" value="21.863631258972642" />
+      <entry key="D1" value="49.20799590990703" />
+      <entry key="W1" value="60.68992061503008" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395289462080025" />
-      <entry key="MS500" value="1.078474143777892" />
-      <entry key="S2" value="1.5459321041139005" />
-      <entry key="S5" value="1.7855155592458314" />
-      <entry key="S10" value="1.8864122185633543" />
-      <entry key="S30" value="2.084911760895182" />
-      <entry key="S60" value="3.463533309909945" />
-      <entry key="M2" value="8.67576138889349" />
-      <entry key="M5" value="23.892600618119413" />
-      <entry key="M10" value="42.959823851291674" />
-      <entry key="M15" value="57.80745975787108" />
-      <entry key="M30" value="97.4557232720656" />
-      <entry key="H1" value="178.72160831155193" />
-      <entry key="H2" value="330.539855796684" />
-      <entry key="H4" value="622.6262329108358" />
-      <entry key="D1" value="1884.941714984367" />
-      <entry key="W1" value="2490.846879505604" />
+      <entry key="MS100" value="0.9726549474122855" />
+      <entry key="MS500" value="0.9944701686732144" />
+      <entry key="S2" value="0.9986146661024349" />
+      <entry key="S5" value="0.9994642065850274" />
+      <entry key="S10" value="1.005619383724664" />
+      <entry key="S30" value="1.7691392561891424" />
+      <entry key="S60" value="5.547550707749109" />
+      <entry key="M2" value="16.030973404978308" />
+      <entry key="M5" value="42.070537683546036" />
+      <entry key="M10" value="70.12312400833567" />
+      <entry key="M15" value="89.82288826949605" />
+      <entry key="M30" value="135.63400586526754" />
+      <entry key="H1" value="220.141531541532" />
+      <entry key="H2" value="374.0504770650452" />
+      <entry key="H4" value="667.4213107173366" />
+      <entry key="D1" value="1935.9728408776741" />
+      <entry key="W1" value="2546.7239578456397" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -140,6 +137,7 @@
     "ACTIVE_CLOUD_PROJECT_ID": "ecs-datacenter-systems",
     "ACTIVE_CLOUD_PROJECT_NAME": "ECS Datacenter Systems",
     "ACTIVE_CLOUD_PROJECT_NUMBER": "722835478571",
+    "Cloud Code: Cloud Run.blog.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -147,13 +145,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260701_0001",
+    "com.google.cloudcode.ide_session_index": "20260701_0003",
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git.auto.fetch.suggestion.counter": "1",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog/private",
+    "last_opened_file_path": "/home/blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -170,8 +168,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/private" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/private" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public/fonts" />
     </key>
@@ -182,7 +180,42 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
+    <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="buildEnvironment" value="Local" />
+      <option name="buildpacksEnv">
+        <map />
+      </option>
+      <option name="cloudSqlConnections">
+        <list />
+      </option>
+      <option name="concurrency" value="800" />
+      <option name="cpuAllocated" value="1" />
+      <option name="dockerBuildArgs">
+        <map />
+      </option>
+      <option name="dockerTarget" value="" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="imagePath" value="gcr.io/ecs-datacenter-systems/blog" />
+      <option name="loadingAvailableBuilders" value="false" />
+      <option name="managedAuthentication" value="ALLOW_UNAUTHENTICATED" />
+      <option name="managedRegion" value="us-west1" />
+      <option name="maxInstances" value="2" />
+      <option name="memoryAllocated" value="MIB_256" />
+      <option name="platform" value="FULLY_MANAGED" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="serviceAccount" value="" />
+      <option name="serviceName" value="blog" />
+      <option name="timeout" value="900" />
+      <option name="vpcConnector" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -223,11 +256,18 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Cloud Code: Cloud Run.blog" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.typegen" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.typegen" />
       </list>
     </recent_temporary>
@@ -255,7 +295,8 @@
       <workItem from="1782771170496" duration="9908000" />
       <workItem from="1782850331083" duration="18664000" />
       <workItem from="1782927985545" duration="5349000" />
-      <workItem from="1782936511226" duration="13232000" />
+      <workItem from="1782936511226" duration="13293000" />
+      <workItem from="1782955698114" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -385,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782952814104</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="All new header nav">
+      <option name="closed" value="true" />
+      <created>1782955599752</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1782955599752</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,6 +457,7 @@
     <MESSAGE value="Add gallery tab in nav and relate page, updated index list" />
     <MESSAGE value="Add the ability to render code block and highlight the code syntax" />
     <MESSAGE value="updated index.tsx. Add new feature for markdown render." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated index.tsx. Add new feature for markdown render." />
+    <MESSAGE value="All new header nav" />
+    <option name="LAST_COMMIT_MESSAGE" value="All new header nav" />
   </component>
 </project>
