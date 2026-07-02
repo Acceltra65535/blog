@@ -37,7 +37,7 @@ export default async function HomePage() {
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
 
-      <img src="https://ghchart.rshah.org/Acceltra65535" alt="GitHub Contributions" className="mt-10 max-w-full rounded-sm" />
+      <img src="https://ghchart.rshah.org/Acceltra65535" alt="GitHub Contributions" className="mt-10 max-w-full" />
       <img src="/images/myimage.jpg" alt="My image" className="mt-4" />
     </div>
   );
