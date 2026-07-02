@@ -1,6 +1,7 @@
+import { buildInfo } from '../generated/build-info';
+
 export const Footer = async () => {
-    const version = import.meta.env.VITE_BUILD_VERSION ?? 'N/A';
-    const commitId = import.meta.env.VITE_BUILD_COMMIT_ID ?? 'N/A';
+    const { version, commitId } = buildInfo;
     const builtDate = new Date().toISOString().slice(0, 7);
 
   return (
