@@ -51,6 +51,14 @@ await writeFile(
     `export const buildInfo = ${JSON.stringify({ version, commitId })} as const;\n`
 );
 
+const fontResult = spawnSync('node', ['scripts/prepare-fonts.mjs'], {
+    stdio: 'inherit',
+});
+
+if ((fontResult.status ?? 1) !== 0) {
+    process.exit(fontResult.status ?? 1);
+}
+
 const result = spawnSync('waku', ['build'], {
     stdio: 'inherit',
     env: {

@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "waku dev --port 25355 --host 0.0.0.0",
+    "dev": "node scripts/prepare-fonts.mjs && waku dev --port 25355 --host 0.0.0.0",
     "build": "node scripts/build-with-info.mjs",
     "start": "waku start",
     "typegen": "waku router typegen"
@@ -29,6 +29,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
     "babel-plugin-react-compiler": "^1.0.0",
+    "subset-font": "^2.5.0",
     "tailwindcss": "^4.3.0",
     "typescript": "^6.0.3"
   }
