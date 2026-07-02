@@ -3,6 +3,7 @@ import '../styles.css';
 import type { ReactNode } from 'react';
 import { Footer } from '../components/footer';
 import { Header } from '../components/header';
+import { inlineBinaryDataUri } from '../lib/inline-asset';
 
 type RootLayoutProps = { children: ReactNode };
 
@@ -23,9 +24,11 @@ export default async function RootLayout({ children }: RootLayoutProps) {
 }
 
 const getData = async () => {
+  const icon = await inlineBinaryDataUri('images/favicon.png', 'image/png');
+
   const data = {
     description: 'An internet website!',
-    icon: '/images/favicon.png',
+    icon,
   };
 
   return data;

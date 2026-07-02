@@ -1,5 +1,8 @@
+import { inlineBinaryDataUri } from '../lib/inline-asset';
+
 export default async function HomePage() {
   const data = await getData();
+  const myImage = await inlineBinaryDataUri('images/myimage.jpg', 'image/jpeg');
 
   return (
     <div>
@@ -48,8 +51,7 @@ export default async function HomePage() {
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
 
-      <img src="https://ghchart.rshah.org/Acceltra65535" alt="GitHub Contributions" className="mt-10 max-w-full" />
-      <img src="/images/myimage.jpg" alt="My image" className="mt-4" />
+      <img src={myImage} alt="My image" className="mt-10" />
     </div>
   );
 }

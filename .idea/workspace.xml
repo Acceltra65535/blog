@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated index.tsx">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated markdown file. private">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/helloworld.md" beforeDir="false" afterPath="$PROJECT_DIR$/private/helloworld.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/build-info.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/build-info.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +23,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="42" />
+    <option name="cachedIndexableFilesCount" value="46" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -32,73 +36,73 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "797271cc-e719-4720-ba91-e3f3bcbcb616"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
+    &quot;accountId&quot;: &quot;797271cc-e719-4720-ba91-e3f3bcbcb616&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000000003886" />
-      <entry key="S60" value="1.0000015007399388" />
-      <entry key="M2" value="1.0029932680136402" />
-      <entry key="M5" value="1.4220019641955353" />
-      <entry key="M10" value="6.634108248802026" />
-      <entry key="M15" value="17.63410756516477" />
-      <entry key="M30" value="55.93802071851615" />
-      <entry key="H1" value="124.25959929940089" />
-      <entry key="H2" value="266.3437839286588" />
-      <entry key="H4" value="558.4552383501698" />
-      <entry key="D1" value="2002.2863658937254" />
-      <entry key="W1" value="2793.8431404276457" />
+      <entry key="MS100" value="1.015494210989587" />
+      <entry key="MS500" value="1.7295773434260449" />
+      <entry key="S2" value="3.22729276444477" />
+      <entry key="S5" value="4.423720361955237" />
+      <entry key="S10" value="5.098085740990942" />
+      <entry key="S30" value="5.811774970264841" />
+      <entry key="S60" value="6.20963325822136" />
+      <entry key="M2" value="6.532120396244234" />
+      <entry key="M5" value="7.13718880654533" />
+      <entry key="M10" value="12.00543238589598" />
+      <entry key="M15" value="22.52201287379664" />
+      <entry key="M30" value="60.15870311550053" />
+      <entry key="H1" value="128.27102666841162" />
+      <entry key="H2" value="270.2056831335829" />
+      <entry key="H4" value="562.2100013692609" />
+      <entry key="D1" value="2006.9427494268552" />
+      <entry key="W1" value="2799.5752440288516" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.454159476569704E-197" />
-      <entry key="S5" value="2.602177719016049E-79" />
-      <entry key="S10" value="5.101154495813716E-40" />
-      <entry key="S30" value="7.990172565872492E-14" />
-      <entry key="S60" value="2.8266900643344806E-7" />
-      <entry key="M2" value="5.319372521125623E-4" />
-      <entry key="M5" value="0.05136844816486474" />
-      <entry key="M10" value="0.26998266291679135" />
-      <entry key="M15" value="0.49980145639111934" />
-      <entry key="M30" value="1.0411889232565508" />
-      <entry key="H1" value="2.4363953640401967" />
-      <entry key="H2" value="6.570082391823332" />
-      <entry key="H4" value="15.094238145940885" />
-      <entry key="D1" value="50.04981964779262" />
-      <entry key="W1" value="66.56583197327734" />
+      <entry key="S2" value="8.820741425799427E-210" />
+      <entry key="S5" value="2.3889223659366576E-84" />
+      <entry key="S10" value="1.5456139123133748E-42" />
+      <entry key="S30" value="1.1562018840968978E-14" />
+      <entry key="S60" value="1.0752685642125378E-7" />
+      <entry key="M2" value="3.2808002087631876E-4" />
+      <entry key="M5" value="0.04233935106547746" />
+      <entry key="M10" value="0.24510927889711687" />
+      <entry key="M15" value="0.4686120310856614" />
+      <entry key="M30" value="1.0081786535482706" />
+      <entry key="H1" value="2.3974620632069388" />
+      <entry key="H2" value="6.517376427391458" />
+      <entry key="H4" value="15.033572367744139" />
+      <entry key="D1" value="50.01623720307226" />
+      <entry key="W1" value="66.55944951422757" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641193252643" />
-      <entry key="MS500" value="0.9917167307382933" />
-      <entry key="S2" value="0.9979227189990506" />
-      <entry key="S5" value="0.999168569213607" />
-      <entry key="S10" value="0.9995841981612189" />
-      <entry key="S30" value="0.9998613801729695" />
-      <entry key="S60" value="0.9999324645982854" />
-      <entry key="M2" value="1.0034838014628682" />
-      <entry key="M5" value="1.4730737116819057" />
-      <entry key="M10" value="6.903278517315072" />
-      <entry key="M15" value="18.13284664886918" />
-      <entry key="M30" value="56.97801049230595" />
-      <entry key="H1" value="126.69456567864978" />
-      <entry key="H2" value="272.9117941177849" />
-      <entry key="H4" value="573.5467134162054" />
-      <entry key="D1" value="2052.3341358681428" />
-      <entry key="W1" value="2860.4085567712514" />
+      <entry key="MS100" value="0.9945956423252228" />
+      <entry key="MS500" value="1.7223966409230425" />
+      <entry key="S2" value="3.223741921175981" />
+      <entry key="S5" value="4.421627335948397" />
+      <entry key="S10" value="5.09683765120407" />
+      <entry key="S30" value="5.811281004506077" />
+      <entry key="S60" value="6.209361685035714" />
+      <entry key="M2" value="6.5322981045544175" />
+      <entry key="M5" value="7.179233139300613" />
+      <entry key="M10" value="12.249778791214444" />
+      <entry key="M15" value="22.98961192485152" />
+      <entry key="M30" value="61.16571217619192" />
+      <entry key="H1" value="130.6670783484554" />
+      <entry key="H2" value="276.7210018644095" />
+      <entry key="H4" value="577.2408207034736" />
+      <entry key="D1" value="2056.956938155351" />
+      <entry key="W1" value="2866.134277928044" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -145,7 +149,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260701_0003",
+    "com.google.cloudcode.ide_session_index": "20260702_0000",
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git.auto.fetch.suggestion.counter": "1",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
@@ -184,21 +188,15 @@
     <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
       <option name="allowRunningInParallel" value="false" />
       <option name="buildEnvironment" value="Local" />
-      <option name="buildpacksEnv">
-        <map />
-      </option>
+      <option name="buildpacksEnv" />
       <option name="cloudSqlConnections">
         <list />
       </option>
       <option name="concurrency" value="800" />
       <option name="cpuAllocated" value="1" />
-      <option name="dockerBuildArgs">
-        <map />
-      </option>
+      <option name="dockerBuildArgs" />
       <option name="dockerTarget" value="" />
-      <option name="environmentVariables">
-        <map />
-      </option>
+      <option name="environmentVariables" />
       <option name="imagePath" value="gcr.io/ecs-datacenter-systems/blog" />
       <option name="loadingAvailableBuilders" value="false" />
       <option name="managedAuthentication" value="ALLOW_UNAUTHENTICATED" />
@@ -265,10 +263,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
-        <item itemvalue="npm.typegen" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.typegen" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +294,8 @@
       <workItem from="1782850331083" duration="18664000" />
       <workItem from="1782927985545" duration="5349000" />
       <workItem from="1782936511226" duration="13293000" />
-      <workItem from="1782955698114" duration="9765000" />
+      <workItem from="1782955698114" duration="10112000" />
+      <workItem from="1783019974993" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -506,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782970538422</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updated markdown file. private">
+      <option name="closed" value="true" />
+      <created>1782971429276</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1782971429277</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,6 +544,7 @@
     <MESSAGE value="Improve index.tsx" />
     <MESSAGE value="Fixed header.tsx nav bug" />
     <MESSAGE value="Updated index.tsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.tsx" />
+    <MESSAGE value="Updated markdown file. private" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated markdown file. private" />
   </component>
 </project>
