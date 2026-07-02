@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Optimized total DNS request">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Optimize the woff2 character set to enable on-demand loading">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/build-with-info.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/build-with-info.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/generated/build-info.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/build-info.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000418923439816" />
-      <entry key="S2" value="1.3533301987765756" />
-      <entry key="S5" value="4.676892796504989" />
-      <entry key="S10" value="10.03169274789366" />
-      <entry key="S30" value="21.193188358965937" />
-      <entry key="S60" value="29.67101616108619" />
-      <entry key="M2" value="37.79007873527135" />
-      <entry key="M5" value="47.848057184537765" />
-      <entry key="M10" value="56.80369086110133" />
-      <entry key="M15" value="66.97022150765271" />
-      <entry key="M30" value="102.77306890886098" />
-      <entry key="H1" value="170.56215177484052" />
-      <entry key="H2" value="311.98497893313504" />
-      <entry key="H4" value="603.483350420832" />
-      <entry key="D1" value="2055.026530979855" />
-      <entry key="W1" value="2855.598458870149" />
+      <entry key="MS100" value="1.0000008948007315" />
+      <entry key="MS500" value="1.088652976025019" />
+      <entry key="S2" value="2.485549328303411" />
+      <entry key="S5" value="4.549714112082144" />
+      <entry key="S10" value="5.936532869848499" />
+      <entry key="S30" value="7.256715468234122" />
+      <entry key="S60" value="8.285142200209894" />
+      <entry key="M2" value="10.757100866030356" />
+      <entry key="M5" value="17.65866016628512" />
+      <entry key="M10" value="30.873741581066422" />
+      <entry key="M15" value="44.04986743694874" />
+      <entry key="M30" value="83.10137364771639" />
+      <entry key="H1" value="154.28155035447276" />
+      <entry key="H2" value="297.1323571327021" />
+      <entry key="H4" value="588.9229724861465" />
+      <entry key="D1" value="2055.4015441034376" />
+      <entry key="W1" value="2872.488071553719" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.9021917057203706E-302" />
-      <entry key="S5" value="2.7322689112491545E-121" />
-      <entry key="S10" value="5.2271109718936954E-61" />
-      <entry key="S30" value="8.055402400584067E-21" />
-      <entry key="S60" value="8.975191690671884E-11" />
-      <entry key="M2" value="9.47857772658718E-6" />
-      <entry key="M5" value="0.010257689622807705" />
-      <entry key="M10" value="0.12064586197320228" />
-      <entry key="M15" value="0.2921338529660073" />
-      <entry key="M30" value="0.796015865639413" />
-      <entry key="H1" value="2.1303151543225143" />
-      <entry key="H2" value="6.143542429535929" />
-      <entry key="H4" value="14.596045912210164" />
-      <entry key="D1" value="49.77063564578296" />
-      <entry key="W1" value="66.51266010471683" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.913588291704652E-197" />
+      <entry key="S10" value="8.314799030466472E-99" />
+      <entry key="S30" value="2.025896491168385E-33" />
+      <entry key="S60" value="4.500997161066013E-17" />
+      <entry key="M2" value="6.712366770981504E-9" />
+      <entry key="M5" value="5.637707701857934E-4" />
+      <entry key="M10" value="0.028283876435428207" />
+      <entry key="M15" value="0.11107071146145091" />
+      <entry key="M30" value="0.49082938750814825" />
+      <entry key="H1" value="1.672816384553149" />
+      <entry key="H2" value="5.444037027672631" />
+      <entry key="H4" value="13.739987099707758" />
+      <entry key="D1" value="49.27179355257381" />
+      <entry key="W1" value="66.4170135556545" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363289248456" />
-      <entry key="MS500" value="0.9931341010121348" />
-      <entry key="S2" value="1.351004929767272" />
-      <entry key="S5" value="4.673726229322239" />
-      <entry key="S10" value="10.028306800323266" />
-      <entry key="S30" value="21.19077939717232" />
-      <entry key="S60" value="29.669302258632843" />
-      <entry key="M2" value="37.78898182564136" />
-      <entry key="M5" value="47.85769391706093" />
-      <entry key="M10" value="56.9236551639694" />
-      <entry key="M15" value="67.26151082241728" />
-      <entry key="M30" value="103.56804957600988" />
-      <entry key="H1" value="172.69115637205536" />
-      <entry key="H2" value="318.12655264053643" />
-      <entry key="H4" value="618.0767087946542" />
-      <entry key="D1" value="2104.795125757934" />
-      <entry key="W1" value="2922.110703301354" />
+      <entry key="MS100" value="0.9794211679192851" />
+      <entry key="MS500" value="1.0839525413113125" />
+      <entry key="S2" value="2.4780562560043724" />
+      <entry key="S5" value="4.541830985638659" />
+      <entry key="S10" value="5.930932330262808" />
+      <entry key="S30" value="7.254336671520707" />
+      <entry key="S60" value="8.283833175717314" />
+      <entry key="M2" value="10.756347725128881" />
+      <entry key="M5" value="17.658826052282954" />
+      <entry key="M10" value="30.90166579673508" />
+      <entry key="M15" value="44.16047894312794" />
+      <entry key="M30" value="83.59149298674424" />
+      <entry key="H1" value="155.95330104045226" />
+      <entry key="H2" value="302.5746311136688" />
+      <entry key="H4" value="602.6604203819637" />
+      <entry key="D1" value="2104.6713156885367" />
+      <entry key="W1" value="2938.9046698112984" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -295,7 +293,7 @@
       <workItem from="1782927985545" duration="5349000" />
       <workItem from="1782936511226" duration="13293000" />
       <workItem from="1782955698114" duration="10112000" />
-      <workItem from="1783019974993" duration="2311000" />
+      <workItem from="1783019974993" duration="2900000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -521,14 +519,21 @@
       <option name="project" value="LOCAL" />
       <updated>1783021029756</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Optimize the woff2 character set to enable on-demand loading">
+      <option name="closed" value="true" />
+      <created>1783022418717</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1783022418717</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add header feature and svg file" />
     <MESSAGE value="Add header feature and update svg file" />
     <MESSAGE value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
     <MESSAGE value="Update footer.tsx" />
@@ -553,6 +558,7 @@
     <MESSAGE value="Updated index.tsx" />
     <MESSAGE value="Updated markdown file. private" />
     <MESSAGE value="Optimized total DNS request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimized total DNS request" />
+    <MESSAGE value="Optimize the woff2 character set to enable on-demand loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimize the woff2 character set to enable on-demand loading" />
   </component>
 </project>
