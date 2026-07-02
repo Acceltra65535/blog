@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Fixed many bug for footer.tsx at production env">
-      <change afterPath="$PROJECT_DIR$/src/generated/build-info.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/build-with-info.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/build-with-info.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/build-info.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/build-info.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000010858" />
-      <entry key="MS500" value="1.0095071855141131" />
-      <entry key="S2" value="2.0412323158915413" />
-      <entry key="S5" value="3.9232399168355854" />
-      <entry key="S10" value="5.207342249035351" />
-      <entry key="S30" value="11.049099177724688" />
-      <entry key="S60" value="24.281461229968762" />
-      <entry key="M2" value="42.3725794153933" />
-      <entry key="M5" value="68.5102384747071" />
-      <entry key="M10" value="94.6910963988193" />
-      <entry key="M15" value="116.65722876760083" />
-      <entry key="M30" value="172.60620054526711" />
-      <entry key="H1" value="266.61574857442156" />
-      <entry key="H2" value="428.06214612825045" />
-      <entry key="H4" value="722.5793319563551" />
-      <entry key="D1" value="2006.3553498728202" />
-      <entry key="W1" value="2639.207300764464" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000363543" />
+      <entry key="S5" value="1.0001235718726205" />
+      <entry key="S10" value="1.01910501408441" />
+      <entry key="S30" value="1.5551012979524494" />
+      <entry key="S60" value="2.314999487280578" />
+      <entry key="M2" value="4.322334070545011" />
+      <entry key="M5" value="20.82056904387073" />
+      <entry key="M10" value="51.32196144001826" />
+      <entry key="M15" value="77.5519886410706" />
+      <entry key="M30" value="141.12553370621714" />
+      <entry key="H1" value="241.6686808726613" />
+      <entry key="H2" value="408.1714147114612" />
+      <entry key="H4" value="706.1335133783829" />
+      <entry key="D1" value="2000.7832225781558" />
+      <entry key="W1" value="2641.4049206537006" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.6102702304385812E-114" />
-      <entry key="S5" value="3.039201575121416E-46" />
-      <entry key="S10" value="1.7433305983437005E-23" />
-      <entry key="S30" value="2.592944678677644E-8" />
-      <entry key="S60" value="1.6102885607345265E-4" />
-      <entry key="M2" value="0.012740873105385464" />
-      <entry key="M5" value="0.19575434435058578" />
-      <entry key="M10" value="0.6964231382602293" />
-      <entry key="M15" value="1.4208139726841977" />
-      <entry key="M30" value="3.976299678911381" />
-      <entry key="H1" value="7.981145134077887" />
-      <entry key="H2" value="13.038351193353162" />
-      <entry key="H4" value="21.077398472295055" />
-      <entry key="D1" value="50.13102707555937" />
-      <entry key="W1" value="62.49907230356397" />
+      <entry key="MS500" value="2.0798253782981525E-119" />
+      <entry key="S2" value="3.0387408783084547E-30" />
+      <entry key="S5" value="2.3178310701092965E-12" />
+      <entry key="S10" value="2.1456952544746214E-6" />
+      <entry key="S30" value="0.02045863246482831" />
+      <entry key="S60" value="0.20226092957108885" />
+      <entry key="M2" value="0.6364122741530756" />
+      <entry key="M5" value="1.3141282140904478" />
+      <entry key="M10" value="1.9402534256825374" />
+      <entry key="M15" value="2.614485116394145" />
+      <entry key="M30" value="5.013780789979261" />
+      <entry key="H1" value="9.04092770713652" />
+      <entry key="H2" value="14.273475190549501" />
+      <entry key="H4" value="22.46230350956161" />
+      <entry key="D1" value="51.88872069359351" />
+      <entry key="W1" value="64.45594148669177" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726549474133456" />
-      <entry key="MS500" value="1.0039311234645807" />
-      <entry key="S2" value="2.0385764552779224" />
-      <entry key="S5" value="3.9212623724353755" />
-      <entry key="S10" value="5.206041139046302" />
-      <entry key="S30" value="11.048030809019858" />
-      <entry key="S60" value="24.28018595345211" />
-      <entry key="M2" value="42.383496344832324" />
-      <entry key="M5" value="68.7034981624248" />
-      <entry key="M10" value="95.38454660506585" />
-      <entry key="M15" value="118.07438927127309" />
-      <entry key="M30" value="176.57748098823015" />
-      <entry key="H1" value="274.5915784054488" />
-      <entry key="H2" value="441.09579599790624" />
-      <entry key="H4" value="743.6524274663446" />
-      <entry key="D1" value="2056.4842022754374" />
-      <entry key="W1" value="2701.7059638642054" />
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917167307382933" />
+      <entry key="S2" value="0.9979227190348141" />
+      <entry key="S5" value="0.9992906509709752" />
+      <entry key="S10" value="1.0185524326901927" />
+      <entry key="S30" value="1.57347464588167" />
+      <entry key="S60" value="2.513211627275204" />
+      <entry key="M2" value="4.953827552904134" />
+      <entry key="M5" value="22.130593444854945" />
+      <entry key="M10" value="53.25859762968726" />
+      <entry key="M15" value="80.16264997337287" />
+      <entry key="M30" value="146.1345136470029" />
+      <entry key="H1" value="250.70444997376805" />
+      <entry key="H2" value="422.44023733275174" />
+      <entry key="H4" value="728.5915279991249" />
+      <entry key="D1" value="2052.6697609070625" />
+      <entry key="W1" value="2705.8604506321117" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -182,7 +182,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
+  <component name="RunManager" selected="npm.build">
     <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
       <option name="allowRunningInParallel" value="false" />
       <option name="buildEnvironment" value="Local" />
@@ -298,7 +298,7 @@
       <workItem from="1782850331083" duration="18664000" />
       <workItem from="1782927985545" duration="5349000" />
       <workItem from="1782936511226" duration="13293000" />
-      <workItem from="1782955698114" duration="3266000" />
+      <workItem from="1782955698114" duration="3709000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -452,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782958097003</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Fixed many bug for footer.tsx at production env">
+      <option name="closed" value="true" />
+      <created>1782958990057</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1782958990058</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

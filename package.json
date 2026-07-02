@@ -1,10 +1,10 @@
 {
   "name": "blog",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "waku dev  --port 25355 --host 0.0.0.0",
+    "dev": "waku dev --port 25355 --host 0.0.0.0",
     "build": "node scripts/build-with-info.mjs",
     "start": "waku start",
     "typegen": "waku router typegen"
