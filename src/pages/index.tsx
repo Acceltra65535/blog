@@ -33,6 +33,8 @@ export default async function HomePage() {
       <p className="mt-2">The Last Ship/末日孤艦 2014–2018</p>
       <p className="mt-2">Ghost in the Shell/攻殻機動隊 1995</p>
       <p className="mt-2">Blade Runner 2049/银翼杀手2049 2017</p>
+      <p className="mt-2">Arrival/降临 2017</p>
+      <p className="mt-2">Attack on Titan/進擊之巨人 2013–2023</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Games</h3>
       <p className="mt-2">Battlefield 3/戰地風雲3 2011</p>
