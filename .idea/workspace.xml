@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Fixed builder error">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Fixed nav tabs bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generated/build-info.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/build-info.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +45,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.00000000060851" />
-      <entry key="S2" value="1.004966688561301" />
-      <entry key="S5" value="1.1198015176212301" />
-      <entry key="S10" value="1.3505213498456552" />
-      <entry key="S30" value="1.9624771084706634" />
-      <entry key="S60" value="2.6341096826549206" />
-      <entry key="M2" value="4.5428428681286555" />
-      <entry key="M5" value="13.147556790026034" />
-      <entry key="M10" value="27.49174890991254" />
-      <entry key="M15" value="39.33975683077783" />
-      <entry key="M30" value="62.65920135653872" />
-      <entry key="H1" value="102.20480580631877" />
-      <entry key="H2" value="207.52347186705268" />
-      <entry key="H4" value="467.67921293056526" />
-      <entry key="D1" value="2004.5988895485316" />
-      <entry key="W1" value="2941.465780251792" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000799523" />
+      <entry key="S30" value="1.0017734446239732" />
+      <entry key="S60" value="1.1329408916384862" />
+      <entry key="M2" value="2.3309221333029244" />
+      <entry key="M5" value="9.176633603365648" />
+      <entry key="M10" value="22.7262112941754" />
+      <entry key="M15" value="35.04094796308482" />
+      <entry key="M30" value="60.98746816591423" />
+      <entry key="H1" value="102.65757014194638" />
+      <entry key="H2" value="207.94248217113523" />
+      <entry key="H4" value="466.9634074743804" />
+      <entry key="D1" value="2006.9601443561103" />
+      <entry key="W1" value="2949.863729759215" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,37 +68,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="5.349470676109302E-128" />
-      <entry key="S60" value="2.3128928762903556E-64" />
-      <entry key="M2" value="1.521594986119245E-32" />
-      <entry key="M5" value="1.9645899188087217E-13" />
-      <entry key="M10" value="5.279874615713047E-7" />
-      <entry key="M15" value="7.816086176077961E-5" />
-      <entry key="M30" value="0.013020433688013762" />
-      <entry key="H1" value="0.27245558817761123" />
-      <entry key="H2" value="2.1970745506839275" />
-      <entry key="H4" value="8.728672248615403" />
-      <entry key="D1" value="45.68342763731975" />
-      <entry key="W1" value="65.70341747330686" />
+      <entry key="S30" value="9.332756705784602E-133" />
+      <entry key="S60" value="9.660621904257825E-67" />
+      <entry key="M2" value="9.833856166007682E-34" />
+      <entry key="M5" value="6.56813127777545E-14" />
+      <entry key="M10" value="3.0528717903276714E-7" />
+      <entry key="M15" value="5.424744774525742E-5" />
+      <entry key="M30" value="0.010847269632376783" />
+      <entry key="H1" value="0.24868134790463275" />
+      <entry key="H2" value="2.099029488887882" />
+      <entry key="H4" value="8.531689859043611" />
+      <entry key="D1" value="45.50996419939361" />
+      <entry key="W1" value="65.6677192163571" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363289248456" />
-      <entry key="MS500" value="0.993092496042181" />
-      <entry key="S2" value="1.003228440636664" />
-      <entry key="S5" value="1.119042196397385" />
-      <entry key="S10" value="1.3500775250060428" />
-      <entry key="S30" value="1.9622697257628432" />
-      <entry key="S60" value="2.6339724283833554" />
-      <entry key="M2" value="4.542729835646671" />
-      <entry key="M5" value="13.147431837566184" />
-      <entry key="M10" value="27.491613774885703" />
-      <entry key="M15" value="39.3397017834441" />
-      <entry key="M30" value="62.672097527516996" />
-      <entry key="H1" value="102.4770195512154" />
-      <entry key="H2" value="209.71979580040687" />
-      <entry key="H4" value="476.406251133662" />
-      <entry key="D1" value="2050.2804387715955" />
-      <entry key="W1" value="3007.168786354745" />
+      <entry key="MS100" value="0.8526348917679567" />
+      <entry key="MS500" value="0.9686181892266277" />
+      <entry key="S2" value="0.9920604931322485" />
+      <entry key="S5" value="0.9968166007640673" />
+      <entry key="S10" value="0.9984070316878204" />
+      <entry key="S30" value="1.0012420493611234" />
+      <entry key="S60" value="1.1326704310276599" />
+      <entry key="M2" value="2.330764028844032" />
+      <entry key="M5" value="9.176512492011742" />
+      <entry key="M10" value="22.726086386007662" />
+      <entry key="M15" value="35.040876479907396" />
+      <entry key="M30" value="60.99819406147319" />
+      <entry key="H1" value="102.9060214860345" />
+      <entry key="H2" value="210.0407898182028" />
+      <entry key="H4" value="475.4934977804489" />
+      <entry key="D1" value="2052.468236873255" />
+      <entry key="W1" value="3015.5310377714345" />
     </decayedShown>
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -187,7 +183,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.typegen">
+  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
     <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
       <option name="allowRunningInParallel" value="false" />
       <option name="buildEnvironment" value="Local" />
@@ -266,9 +262,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.typegen" />
         <item itemvalue="npm.start" />
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -298,7 +294,7 @@
       <workItem from="1782927985545" duration="5349000" />
       <workItem from="1782936511226" duration="13293000" />
       <workItem from="1782955698114" duration="10112000" />
-      <workItem from="1783019974993" duration="6427000" />
+      <workItem from="1783019974993" duration="6901000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -540,14 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1783022889243</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Fixed nav tabs bug">
+      <option name="closed" value="true" />
+      <created>1783032417127</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1783032417127</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header." />
     <MESSAGE value="Update footer.tsx" />
     <MESSAGE value="Updated interface fonts" />
     <MESSAGE value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
@@ -572,6 +575,7 @@
     <MESSAGE value="Optimized total DNS request" />
     <MESSAGE value="Optimize the woff2 character set to enable on-demand loading" />
     <MESSAGE value="Fixed builder error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed builder error" />
+    <MESSAGE value="Fixed nav tabs bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed nav tabs bug" />
   </component>
 </project>
