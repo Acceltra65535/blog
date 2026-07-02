@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { Link } from 'waku';
+import { ImGithub, ImTwitter } from 'react-icons/im';
 
 export const Header = () => {
     const [pathname, setPathname] = useState('/');
@@ -51,6 +52,20 @@ export const Header = () => {
               <Link to="/">Alex Yuan</Link>
               <span>/</span>
               <span className="text-xl text-neutral-400">Emondora256</span>
+              <span className="pl-2"><a
+                  href="https://github.com/Acceltra65535"
+                  aria-label="GitHub"
+                  className="inline-flex"
+              ><ImGithub className="h-6 w-6" aria-hidden="true" />
+              </a>
+              </span>
+              <span className="pl-2"><a
+                  href="https://x.com/sgdorae"
+                  aria-label="Twitter"
+                  className="inline-flex"
+              ><ImTwitter className="h-6 w-6 text-[#4ba6ee]" aria-hidden="true" />
+              </a>
+              </span>
           </h2>
           <nav className="mt-5 text-lg">
               <a
