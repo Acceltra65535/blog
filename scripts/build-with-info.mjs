@@ -47,7 +47,7 @@ if (!commitId) {
 }
 
 await writeFile(
-    new URL('../src/generated/build-info.ts', import.meta.url),
+    new URL('../src/generated/buildInfo.ts', import.meta.url),
     `export const buildInfo = ${JSON.stringify({ version, commitId })} as const;\n`
 );
 

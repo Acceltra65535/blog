@@ -1,5 +1,6 @@
 import { ImGithub, ImTwitter } from 'react-icons/im';
-import { inlineSvgDataUri } from '../lib/inline-asset';
+import { inlineSvgDataUri } from '../lib/inlineAsset';
+import { NavTabs } from './navTabs';
 
 export const Header = async () => {
   const banner = await inlineSvgDataUri('images/dti.svg');
@@ -21,17 +22,7 @@ export const Header = async () => {
           </a>
         </span>
       </h2>
-      <nav className="mt-5 text-lg">
-        <a href="/" className="mr-5 inline-block border-b-3 border-transparent pb-1 transition-colors text-gray-600 hover:text-gray-900">
-          Home
-        </a>
-        <a href="/posts" className="mr-5 inline-block border-b-3 border-transparent pb-1 transition-colors text-gray-600 hover:text-gray-900">
-          博客/Blog
-        </a>
-        <a href="/gallery" className="mr-5 inline-block border-b-3 border-transparent pb-1 transition-colors text-gray-600 hover:text-gray-900">
-          畫廊/Gallery
-        </a>
-      </nav>
+      <NavTabs />
       <div className="lg:mt-5 flex items-center gap-5">
         <img
           src={banner}

@@ -1,5 +1,5 @@
-import { buildInfo } from '../generated/build-info';
-import { inlineSvgDataUri } from '../lib/inline-asset';
+import { buildInfo } from '../generated/buildInfo';
+import { inlineSvgDataUri } from '../lib/inlineAsset';
 
 export const Footer = async () => {
     const { version, commitId } = buildInfo;

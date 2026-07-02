@@ -1,4 +1,4 @@
-import { inlineBinaryDataUri } from '../lib/inline-asset';
+import { inlineBinaryDataUri } from '../lib/inlineAsset';
 
 export default async function HomePage() {
   const data = await getData();
