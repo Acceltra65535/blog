@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add gallery tab in nav and relate page, updated index list">
-      <change afterPath="$PROJECT_DIR$/private/Install-MySQL.md" afterDir="false" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add the ability to render code block and highlight the code syntax">
+      <change afterPath="$PROJECT_DIR$/private/helloworld.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/2018-05-06-https-for-github-pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/rd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/Install-MySQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/Ubuntu20.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts/[slug].tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,73 +38,73 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
-    &quot;accountId&quot;: &quot;797271cc-e719-4720-ba91-e3f3bcbcb616&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Acceltra65535/blog.git",
+    "accountId": "a8feba7d-de1e-41c6-96df-3007fabe19f2"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0007504283608424" />
-      <entry key="MS500" value="1.2531022925819602" />
-      <entry key="S2" value="2.053128392856423" />
-      <entry key="S5" value="2.5270122900950573" />
-      <entry key="S10" value="2.743704005060836" />
-      <entry key="S30" value="3.115689695061398" />
-      <entry key="S60" value="4.744962128701556" />
-      <entry key="M2" value="9.677832817452076" />
-      <entry key="M5" value="27.787518996811137" />
-      <entry key="M10" value="59.49509815257355" />
-      <entry key="M15" value="85.6950651874701" />
-      <entry key="M30" value="137.93150695011244" />
-      <entry key="H1" value="199.80354202760145" />
-      <entry key="H2" value="318.7965306870743" />
-      <entry key="H4" value="594.820631417998" />
-      <entry key="D1" value="1631.925462503808" />
-      <entry key="W1" value="2065.795282573761" />
+      <entry key="MS100" value="1.0325013854787788" />
+      <entry key="MS500" value="1.7419001402047027" />
+      <entry key="S2" value="4.037721488076663" />
+      <entry key="S5" value="6.983673654141944" />
+      <entry key="S10" value="9.915776883655887" />
+      <entry key="S30" value="14.193090135522354" />
+      <entry key="S60" value="15.89270150445594" />
+      <entry key="M2" value="16.888377026492922" />
+      <entry key="M5" value="17.565305326130883" />
+      <entry key="M10" value="19.675361181587135" />
+      <entry key="M15" value="26.80917627983865" />
+      <entry key="M30" value="65.74122955943479" />
+      <entry key="H1" value="150.46879896198544" />
+      <entry key="H2" value="298.4727941490443" />
+      <entry key="H4" value="581.8182629812767" />
+      <entry key="D1" value="1779.5647606679559" />
+      <entry key="W1" value="2341.6806827589867" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.5536594581009754E-121" />
-      <entry key="S60" value="5.0533745735903735E-61" />
-      <entry key="M2" value="7.1087091469480374E-31" />
-      <entry key="M5" value="8.724016330934139E-13" />
-      <entry key="M10" value="9.361161009455081E-7" />
-      <entry key="M15" value="9.960880092106895E-5" />
-      <entry key="M30" value="0.018494405260665116" />
-      <entry key="H1" value="0.5586705088810466" />
-      <entry key="H2" value="4.075369845262878" />
-      <entry key="H4" value="12.247968848228743" />
-      <entry key="D1" value="34.70334880301303" />
-      <entry key="W1" value="42.49435773621492" />
+      <entry key="MS100" value="1.847015150823084E-39" />
+      <entry key="MS500" value="1.791818810847666E-8" />
+      <entry key="S2" value="0.011569737961490124" />
+      <entry key="S5" value="0.16800778616157763" />
+      <entry key="S10" value="0.40988752867290024" />
+      <entry key="S30" value="0.7428279474557282" />
+      <entry key="S60" value="0.861874670387596" />
+      <entry key="M2" value="0.9283720565129735" />
+      <entry key="M5" value="0.9714480294707258" />
+      <entry key="M10" value="1.0381988656610883" />
+      <entry key="M15" value="1.2214658307266313" />
+      <entry key="M30" value="2.090989372453107" />
+      <entry key="H1" value="3.6492225878210687" />
+      <entry key="H2" value="6.493618128668151" />
+      <entry key="H4" value="13.356304695454112" />
+      <entry key="D1" value="39.296172961778666" />
+      <entry key="W1" value="49.88527958059523" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9599940271625742" />
-      <entry key="MS500" value="1.2433536574870814" />
-      <entry key="S2" value="2.0492234960814457" />
-      <entry key="S5" value="2.5250596311553646" />
-      <entry key="S10" value="2.7426358023812574" />
-      <entry key="S30" value="3.1152841136329372" />
-      <entry key="S60" value="4.744658105138907" />
-      <entry key="M2" value="9.677527656453728" />
-      <entry key="M5" value="27.787126823920108" />
-      <entry key="M10" value="59.494490236123184" />
-      <entry key="M15" value="85.69443242679687" />
-      <entry key="M30" value="137.9492304323358" />
-      <entry key="H1" value="200.36118433966675" />
-      <entry key="H2" value="322.86965030197825" />
-      <entry key="H4" value="607.0652185328645" />
-      <entry key="D1" value="1666.6270198221687" />
-      <entry key="W1" value="2108.289317329147" />
+      <entry key="MS100" value="1.0112538317025326" />
+      <entry key="MS500" value="1.734998683788131" />
+      <entry key="S2" value="4.040416529726321" />
+      <entry key="S5" value="7.111147608304053" />
+      <entry key="S10" value="10.273295790831915" />
+      <entry key="S30" value="14.902430109025042" />
+      <entry key="S60" value="16.734824219881098" />
+      <entry key="M2" value="17.806018530251915" />
+      <entry key="M5" value="18.532232058772788" />
+      <entry key="M10" value="20.710935495034096" />
+      <entry key="M15" value="28.028145529389693" />
+      <entry key="M30" value="67.82918102720863" />
+      <entry key="H1" value="154.11488788899" />
+      <entry key="H2" value="304.9633910787178" />
+      <entry key="H4" value="595.1712029993637" />
+      <entry key="D1" value="1818.8590101242362" />
+      <entry key="W1" value="2391.5656004432235" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -174,8 +174,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/private" />
-      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -258,7 +258,7 @@
       <workItem from="1782771170496" duration="9908000" />
       <workItem from="1782850331083" duration="18664000" />
       <workItem from="1782927985545" duration="5349000" />
-      <workItem from="1782936511226" duration="3676000" />
+      <workItem from="1782936511226" duration="10780000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -372,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782939879728</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add the ability to render code block and highlight the code syntax">
+      <option name="closed" value="true" />
+      <created>1782941288761</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1782941288762</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,6 +401,7 @@
     <MESSAGE value="Change web icon, new icon" />
     <MESSAGE value="Update index.tsx" />
     <MESSAGE value="Add gallery tab in nav and relate page, updated index list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gallery tab in nav and relate page, updated index list" />
+    <MESSAGE value="Add the ability to render code block and highlight the code syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the ability to render code block and highlight the code syntax" />
   </component>
 </project>

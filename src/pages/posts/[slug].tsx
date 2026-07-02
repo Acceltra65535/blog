@@ -51,9 +51,44 @@ const getStaticSlugs = async () => {
 };
 
 const markdownComponents: Components = {
+    h1({ children }) {
+        return <h1 className="mb-5 mt-8 text-3xl font-bold tracking-tight text-neutral-900">{children}</h1>;
+    },
+    h2({ children }) {
+        return <h2 className="mb-4 mt-7 text-2xl font-semibold tracking-tight text-neutral-900">{children}</h2>;
+    },
+    h3({ children }) {
+        return <h3 className="mb-3 mt-6 text-[1.35rem] font-semibold tracking-tight text-neutral-900">{children}</h3>;
+    },
+    p({ children }) {
+        return <p className="my-5 text-[1.08rem] leading-8 text-neutral-800">{children}</p>;
+    },
+    blockquote({ children }) {
+        return (
+            <blockquote className="my-6 border-l-4 border-neutral-800 bg-[#F0EEEB] pl-5 pr-2 text-[1.06rem] leading-8 text-neutral-600 [&>p]:my-0">
+                {children}
+            </blockquote>
+        );
+    },
+    a({ href, children }) {
+        const label = Array.isArray(children) ? children.map(String).join('').trim() : String(children ?? '').trim();
+
+        if (href && !label) {
+            return <img src={href} alt="" className="my-5 max-w-full rounded-sm" />;
+        }
+
+        return (
+            <a href={href} className="text-[#103222] underline underline-offset-4">
+                {children}
+            </a>
+        );
+    },
+    img({ src, alt }) {
+        return <img src={src} alt={alt ?? ''} className="my-5 max-w-full rounded-sm" />;
+    },
     pre({ children }) {
         return (
-        <pre className="my-5 overflow-x-auto rounded-lg border border-neutral-200 bg-white p-4 text-sm leading-6 text-neutral-900 shadow-sm">
+        <pre className="my-5 overflow-x-auto rounded-sm border border-neutral-200 bg-[#f9f8f7] p-4 text-sm leading-6 text-neutral-900">
             {children}
         </pre>
         );
@@ -94,9 +129,9 @@ export default async function PostDetailPage({ slug }: PostPageProps) {
             <p className="my-4 text-neutral-500">{meta.summary}</p>
             <p className="mb-8 text-sm italic text-neutral-500">{meta.date}</p>
 
-            <hr className="my-10 border-0 border-t-2 border-neutral-300" />
+            <hr className="my-5 border-0 border-t-2 border-neutral-300" />
 
-            <div className="prose prose-neutral max-w-none">
+            <div className="max-w-none">
                 <ReactMarkdown
                     remarkPlugins={[remarkGfm]}
                     rehypePlugins={[rehypeRaw, rehypePrismPlus]}
