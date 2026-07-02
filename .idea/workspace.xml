@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="All new header nav">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Add Dockerfile and setup Google Cloud Run deploy">
+      <change afterPath="$PROJECT_DIR$/scripts/build-with-info.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/env.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,61 +47,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000000000001408" />
-      <entry key="S5" value="1.000018580893319" />
-      <entry key="S10" value="1.0058982085148873" />
-      <entry key="S30" value="1.7692955174287874" />
-      <entry key="S60" value="5.54418126723637" />
-      <entry key="M2" value="15.922658939398202" />
-      <entry key="M5" value="40.932856510592785" />
-      <entry key="M10" value="66.9333621403229" />
-      <entry key="M15" value="85.05264765728022" />
-      <entry key="M30" value="127.95311114260464" />
-      <entry key="H1" value="209.37476516566414" />
-      <entry key="H2" value="359.44258438647347" />
-      <entry key="H4" value="645.5622709477537" />
-      <entry key="D1" value="1886.7670190019687" />
-      <entry key="W1" value="2486.0344408717037" />
+      <entry key="MS100" value="1.0000078984445484" />
+      <entry key="MS500" value="1.0957624986614005" />
+      <entry key="S2" value="1.8809341544481057" />
+      <entry key="S5" value="3.2238767539750985" />
+      <entry key="S10" value="4.281675639271311" />
+      <entry key="S30" value="6.329720844094333" />
+      <entry key="S60" value="10.336802221101985" />
+      <entry key="M2" value="18.364541316763816" />
+      <entry key="M5" value="33.38542366609841" />
+      <entry key="M10" value="53.1741042571248" />
+      <entry key="M15" value="72.20412420386907" />
+      <entry key="M30" value="121.67075558334969" />
+      <entry key="H1" value="208.98597444286045" />
+      <entry key="H2" value="364.2572375349237" />
+      <entry key="H4" value="654.1605910194286" />
+      <entry key="D1" value="1916.7143327963763" />
+      <entry key="W1" value="2533.0569217012962" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.3395891458824505E-86" />
-      <entry key="S5" value="6.443406885690563E-35" />
-      <entry key="S10" value="1.2438903285955614E-17" />
-      <entry key="S30" value="4.649112703251809E-6" />
-      <entry key="S60" value="0.003718302545440892" />
-      <entry key="M2" value="0.10980375984986046" />
-      <entry key="M5" value="1.1442402474279725" />
-      <entry key="M10" value="3.2005741589929184" />
-      <entry key="M15" value="4.781620862864166" />
-      <entry key="M30" value="7.690688622378648" />
-      <entry key="H1" value="10.774131969305076" />
-      <entry key="H2" value="14.613320706153639" />
-      <entry key="H4" value="21.863631258972642" />
-      <entry key="D1" value="49.20799590990703" />
-      <entry key="W1" value="60.68992061503008" />
+      <entry key="MS500" value="9.387979412455764E-239" />
+      <entry key="S2" value="3.112741329925583E-60" />
+      <entry key="S5" value="1.5749153389758846E-24" />
+      <entry key="S10" value="1.2549563095884563E-12" />
+      <entry key="S30" value="1.0786392067935279E-4" />
+      <entry key="S60" value="0.010385756046014697" />
+      <entry key="M2" value="0.101945796058671" />
+      <entry key="M5" value="0.44697014207391167" />
+      <entry key="M10" value="1.2739419258614704" />
+      <entry key="M15" value="2.3736045690469516" />
+      <entry key="M30" value="5.357437681858853" />
+      <entry key="H1" value="9.166968789503342" />
+      <entry key="H2" value="13.742581314196343" />
+      <entry key="H4" value="21.427322129202054" />
+      <entry key="D1" value="49.658162326393004" />
+      <entry key="W1" value="61.59268826303585" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726549474122855" />
-      <entry key="MS500" value="0.9944701686732144" />
-      <entry key="S2" value="0.9986146661024349" />
-      <entry key="S5" value="0.9994642065850274" />
-      <entry key="S10" value="1.005619383724664" />
-      <entry key="S30" value="1.7691392561891424" />
-      <entry key="S60" value="5.547550707749109" />
-      <entry key="M2" value="16.030973404978308" />
-      <entry key="M5" value="42.070537683546036" />
-      <entry key="M10" value="70.12312400833567" />
-      <entry key="M15" value="89.82288826949605" />
-      <entry key="M30" value="135.63400586526754" />
-      <entry key="H1" value="220.141531541532" />
-      <entry key="H2" value="374.0504770650452" />
-      <entry key="H4" value="667.4213107173366" />
-      <entry key="D1" value="1935.9728408776741" />
-      <entry key="W1" value="2546.7239578456397" />
+      <entry key="MS100" value="0.6372860956594729" />
+      <entry key="MS500" value="1.0037994052964165" />
+      <entry key="S2" value="1.8440793164300247" />
+      <entry key="S5" value="3.1990941678325675" />
+      <entry key="S10" value="4.265229878262437" />
+      <entry key="S30" value="6.322882415197537" />
+      <entry key="S60" value="10.34309147094475" />
+      <entry key="M2" value="18.463106621089004" />
+      <entry key="M5" value="33.82920492357073" />
+      <entry key="M10" value="54.4438207842597" />
+      <entry key="M15" value="74.57228263830474" />
+      <entry key="M30" value="127.02158482904521" />
+      <entry key="H1" value="218.14684121730994" />
+      <entry key="H2" value="377.99482984521984" />
+      <entry key="H4" value="675.5834963781476" />
+      <entry key="D1" value="1966.3703244701678" />
+      <entry key="W1" value="2594.6492039928376" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -296,7 +299,7 @@
       <workItem from="1782850331083" duration="18664000" />
       <workItem from="1782927985545" duration="5349000" />
       <workItem from="1782936511226" duration="13293000" />
-      <workItem from="1782955698114" duration="1410000" />
+      <workItem from="1782955698114" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -434,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782955599752</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add Dockerfile and setup Google Cloud Run deploy">
+      <option name="closed" value="true" />
+      <created>1782957177820</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1782957177820</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,6 +469,7 @@
     <MESSAGE value="Add the ability to render code block and highlight the code syntax" />
     <MESSAGE value="updated index.tsx. Add new feature for markdown render." />
     <MESSAGE value="All new header nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="All new header nav" />
+    <MESSAGE value="Add Dockerfile and setup Google Cloud Run deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Dockerfile and setup Google Cloud Run deploy" />
   </component>
 </project>

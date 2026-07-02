@@ -1,29 +1,6 @@
-import { readFile } from 'node:fs/promises';
-import { execSync } from 'node:child_process';
-
-const getBuildInfo = async () => {
-    let version = 'N/A';
-    let commitId = 'N/A';
-
-    try {
-        const packageJsonText = await readFile(new URL('../../package.json', import.meta.url), 'utf-8');
-        const packageJson = JSON.parse(packageJsonText) as { version?: string };
-        version = packageJson.version ?? 'unknown';
-    } catch {
-        // keep fallback
-    }
-
-    try {
-        commitId = execSync('git rev-parse --short HEAD', { encoding: 'utf-8' }).trim();
-    } catch {
-        // keep fallback
-    }
-
-    return { version, commitId };
-};
-
 export const Footer = async () => {
-    const { version, commitId } = await getBuildInfo();
+    const version = import.meta.env.VITE_BUILD_VERSION ?? 'N/A';
+    const commitId = import.meta.env.VITE_BUILD_COMMIT_ID ?? 'N/A';
     const builtDate = new Date().toISOString().slice(0, 7);
 
   return (

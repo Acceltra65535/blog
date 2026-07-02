@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "waku dev  --port 25355 --host 0.0.0.0",
-    "build": "waku build",
+    "build": "node scripts/build-with-info.mjs",
     "start": "waku start",
     "typegen": "waku router typegen"
   },
