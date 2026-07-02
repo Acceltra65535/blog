@@ -1,42 +1,11 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { Link } from 'waku';
+import { Link, useRouter } from 'waku';
 import { ImGithub, ImTwitter } from 'react-icons/im';
 
 export const Header = () => {
-    const [pathname, setPathname] = useState('/');
-
-    useEffect(() => {
-    const updatePathname = () => {
-        setPathname(window.location.pathname);
-    };
-
-    updatePathname();
-
-    const originalPushState = window.history.pushState;
-    const originalReplaceState = window.history.replaceState;
-
-    window.history.pushState = function (...args) {
-         originalPushState.apply(this, args);
-         window.dispatchEvent(new Event('locationchange'));
-    };
-
-    window.history.replaceState = function (...args) {
-         originalReplaceState.apply(this, args);
-         window.dispatchEvent(new Event('locationchange'));
-    };
-
-    window.addEventListener('popstate', updatePathname);
-    window.addEventListener('locationchange', updatePathname);
-
-    return () => {
-       window.history.pushState = originalPushState;
-       window.history.replaceState = originalReplaceState;
-       window.removeEventListener('popstate', updatePathname);
-       window.removeEventListener('locationchange', updatePathname);
-    };
-}, []);
+    const router = useRouter();
+    const pathname = router.path;
 
     const isHome = pathname === '/';
     const isPosts = pathname.startsWith('/posts');

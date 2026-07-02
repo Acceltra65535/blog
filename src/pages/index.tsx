@@ -1,5 +1,3 @@
-import { Link } from 'waku';
-
 export default async function HomePage() {
   const data = await getData();
 

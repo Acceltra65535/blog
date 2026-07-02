@@ -1,1 +1,1 @@
-export const buildInfo = {"version":"0.1.2","commitId":"95765b2"} as const;
+export const buildInfo = {"version":"0.1.2","commitId":"f5290fc"} as const;
