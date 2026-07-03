@@ -26,6 +26,7 @@ export default async function HomePage() {
       <p className="mt-2">Is-slottet/冰宫</p>
       <p className="mt-2">The Ghost in the Shell/攻殻機動隊</p>
       <p className="mt-2">THuman-Error Processor/攻殻機動隊1.5</p>
+      <p className="mt-2">The Wildfire/野火集</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Movies/Shows</h3>
       <p className="mt-2">The Expanse/苍穹浩瀚 2015–2022</p>
@@ -38,6 +39,8 @@ export default async function HomePage() {
       <p className="mt-2">Blade Runner 2049/银翼杀手2049 2017</p>
       <p className="mt-2">Arrival/降临 2017</p>
       <p className="mt-2">Attack on Titan/進擊之巨人 2013–2023</p>
+      <p className="mt-2">Cowboy Bebop/星際牛仔 1998</p>
+      <p className="mt-2">EVANGELION:3.0+1.01 THRICE UPON A TIME/新·福音戰士劇場版: 終 2021</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Games</h3>
       <p className="mt-2">Battlefield 3/戰地風雲3 2011</p>
@@ -47,11 +50,15 @@ export default async function HomePage() {
       <p className="mt-2">The Witcher 3: Wild Hunt/巫师3: 狂猎 2015</p>
       <p className="mt-2">Subnautica/深海迷航 2018</p>
       <p className="mt-2">Subnautica: Below Zero/深海迷航: 冰点之下 2021</p>
+      <p className="mt-2">Red Dead Redemption 2/荒野大镖客: 救赎2 2019</p>
+      <p className="mt-2">Wolfenstein: The New Order/德軍總部: 新秩序 2014</p>
+      <p className="mt-2">Wolfenstein II: The New Colossus/德軍總部2: 新巨像 2017</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
 
-      <img src={myImage} alt="My image" className="mt-10" />
+      <img src="https://ghchart.rshah.org/Acceltra65535" alt="GitHub Contributions" className="mt-10 max-w-full" />
+      <img src={myImage} alt="My image" className="mt-4" />
     </div>
   );
 }

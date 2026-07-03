@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Fixed nav tabs bug">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Update version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "80a13ed0-a8db-4c6a-af75-37876fdbcbe1"
+    "accountId": "797271cc-e719-4720-ba91-e3f3bcbcb616"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
@@ -48,19 +48,19 @@
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
       <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000000799523" />
-      <entry key="S30" value="1.0017734446239732" />
-      <entry key="S60" value="1.1329408916384862" />
-      <entry key="M2" value="2.3309221333029244" />
-      <entry key="M5" value="9.176633603365648" />
-      <entry key="M10" value="22.7262112941754" />
-      <entry key="M15" value="35.04094796308482" />
-      <entry key="M30" value="60.98746816591423" />
-      <entry key="H1" value="102.65757014194638" />
-      <entry key="H2" value="207.94248217113523" />
-      <entry key="H4" value="466.9634074743804" />
-      <entry key="D1" value="2006.9601443561103" />
-      <entry key="W1" value="2949.863729759215" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000007459877" />
+      <entry key="S60" value="1.0001392143436658" />
+      <entry key="M2" value="1.0635023299620954" />
+      <entry key="M5" value="3.544747786331275" />
+      <entry key="M10" value="9.731749521604188" />
+      <entry key="M15" value="14.17384986144935" />
+      <entry key="M30" value="20.878975360858313" />
+      <entry key="H1" value="25.669565356181312" />
+      <entry key="H2" value="38.31793461944257" />
+      <entry key="H4" value="133.07376432501866" />
+      <entry key="D1" value="1593.1123786317278" />
+      <entry key="W1" value="2880.212609336389" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -68,37 +68,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="9.332756705784602E-133" />
-      <entry key="S60" value="9.660621904257825E-67" />
-      <entry key="M2" value="9.833856166007682E-34" />
-      <entry key="M5" value="6.56813127777545E-14" />
-      <entry key="M10" value="3.0528717903276714E-7" />
-      <entry key="M15" value="5.424744774525742E-5" />
-      <entry key="M30" value="0.010847269632376783" />
-      <entry key="H1" value="0.24868134790463275" />
-      <entry key="H2" value="2.099029488887882" />
-      <entry key="H4" value="8.531689859043611" />
-      <entry key="D1" value="45.50996419939361" />
-      <entry key="W1" value="65.6677192163571" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.3556113581571476E-224" />
+      <entry key="M2" value="1.1649007067861863E-112" />
+      <entry key="M5" value="1.7655005095840497E-45" />
+      <entry key="M10" value="5.0052016292023904E-23" />
+      <entry key="M15" value="1.6250048109271136E-15" />
+      <entry key="M30" value="5.9368777485923603E-8" />
+      <entry key="H1" value="5.817843678894323E-4" />
+      <entry key="H2" value="0.10152615936621988" />
+      <entry key="H4" value="1.8763539617666272" />
+      <entry key="D1" value="35.357898545584796" />
+      <entry key="W1" value="63.34202241425782" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8526348917679567" />
-      <entry key="MS500" value="0.9686181892266277" />
-      <entry key="S2" value="0.9920604931322485" />
-      <entry key="S5" value="0.9968166007640673" />
-      <entry key="S10" value="0.9984070316878204" />
-      <entry key="S30" value="1.0012420493611234" />
-      <entry key="S60" value="1.1326704310276599" />
-      <entry key="M2" value="2.330764028844032" />
-      <entry key="M5" value="9.176512492011742" />
-      <entry key="M10" value="22.726086386007662" />
-      <entry key="M15" value="35.040876479907396" />
-      <entry key="M30" value="60.99819406147319" />
-      <entry key="H1" value="102.9060214860345" />
-      <entry key="H2" value="210.0407898182028" />
-      <entry key="H4" value="475.4934977804489" />
-      <entry key="D1" value="2052.468236873255" />
-      <entry key="W1" value="3015.5310377714345" />
+      <entry key="MS100" value="0.038473262917028635" />
+      <entry key="MS500" value="0.5212328804205607" />
+      <entry key="S2" value="0.8496849991386503" />
+      <entry key="S5" value="0.9369214468724255" />
+      <entry key="S10" value="0.9679470268937374" />
+      <entry key="S30" value="0.9891994443270807" />
+      <entry key="S60" value="0.9947242653943192" />
+      <entry key="M2" value="1.0607888502737723" />
+      <entry key="M5" value="3.543624416885969" />
+      <entry key="M10" value="9.731141127469739" />
+      <entry key="M15" value="14.173421881734015" />
+      <entry key="M30" value="20.878744517839454" />
+      <entry key="H1" value="25.670025411141225" />
+      <entry key="H2" value="38.419363522409874" />
+      <entry key="H4" value="134.94973473808756" />
+      <entry key="D1" value="1628.4688175822273" />
+      <entry key="W1" value="2943.5542343279676" />
     </decayedShown>
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -183,7 +183,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
       <option name="allowRunningInParallel" value="false" />
       <option name="buildEnvironment" value="Local" />
@@ -262,10 +262,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.typegen" />
-        <item itemvalue="npm.start" />
-        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +294,7 @@
       <workItem from="1782927985545" duration="5349000" />
       <workItem from="1782936511226" duration="13293000" />
       <workItem from="1782955698114" duration="10112000" />
-      <workItem from="1783019974993" duration="6901000" />
+      <workItem from="1783019974993" duration="10201000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -544,14 +544,21 @@
       <option name="project" value="LOCAL" />
       <updated>1783032417127</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update version">
+      <option name="closed" value="true" />
+      <created>1783032788065</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1783032788065</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update footer.tsx" />
     <MESSAGE value="Updated interface fonts" />
     <MESSAGE value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
     <MESSAGE value="Try to modify Layout to fit the small display" />
@@ -576,6 +583,7 @@
     <MESSAGE value="Optimize the woff2 character set to enable on-demand loading" />
     <MESSAGE value="Fixed builder error" />
     <MESSAGE value="Fixed nav tabs bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed nav tabs bug" />
+    <MESSAGE value="Update version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update version" />
   </component>
 </project>
