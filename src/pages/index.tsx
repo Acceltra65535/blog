@@ -41,10 +41,12 @@ export default async function HomePage() {
       <p className="mt-2">Attack on Titan/進擊之巨人 2013–2023</p>
       <p className="mt-2">Cowboy Bebop/星際牛仔 1998</p>
       <p className="mt-2">EVANGELION:3.0+1.01 THRICE UPON A TIME/新·福音戰士劇場版: 終 2021</p>
+      <p className="mt-2">Violet Evergarden/紫羅蘭永恆花園 2018</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Games</h3>
       <p className="mt-2">Battlefield 3/戰地風雲3 2011</p>
       <p className="mt-2">Battlefield 4/戰地風雲4 2013</p>
+      <p className="mt-2">Battlefield 1/戰地風雲1 2016</p>
       <p className="mt-2">Grand Theft Auto V/侠盗猎车手5 2013</p>
       <p className="mt-2">Tom Clancy's Rainbow Six Siege/彩虹六号: 围攻 2015</p>
       <p className="mt-2">The Witcher 3: Wild Hunt/巫师3: 狂猎 2015</p>
@@ -53,6 +55,8 @@ export default async function HomePage() {
       <p className="mt-2">Red Dead Redemption 2/荒野大镖客: 救赎2 2019</p>
       <p className="mt-2">Wolfenstein: The New Order/德軍總部: 新秩序 2014</p>
       <p className="mt-2">Wolfenstein II: The New Colossus/德軍總部2: 新巨像 2017</p>
+      <p className="mt-2">Watch Dogs/看门狗 2014</p>
+      <p className="mt-2">Assassin's Creed IV: Black Flag/刺客教條4: 黑旗 2013</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
