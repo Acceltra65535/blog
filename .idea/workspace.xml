@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated index list and fixed bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "a8feba7d-de1e-41c6-96df-3007fabe19f2"
+    "accountId": "797271cc-e719-4720-ba91-e3f3bcbcb616"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
@@ -148,7 +147,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260706_0001",
+    "com.google.cloudcode.ide_session_index": "20260706_0002",
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git.auto.fetch.suggestion.counter": "1",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
@@ -183,7 +182,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
       <option name="allowRunningInParallel" value="false" />
       <option name="buildEnvironment" value="Local" />
@@ -263,8 +262,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.typegen" />
       </list>
     </recent_temporary>
@@ -295,7 +294,7 @@
       <workItem from="1782936511226" duration="13293000" />
       <workItem from="1782955698114" duration="10112000" />
       <workItem from="1783019974993" duration="10742000" />
-      <workItem from="1783406451547" duration="416000" />
+      <workItem from="1783406451547" duration="1397000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -561,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783065643794</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Updated index list and fixed bug">
+      <option name="closed" value="true" />
+      <created>1783406879948</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1783406879948</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
