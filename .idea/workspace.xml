@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated index list and fixed bug">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Changed body bg-color">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,73 +31,73 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "797271cc-e719-4720-ba91-e3f3bcbcb616"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
+    &quot;accountId&quot;: &quot;797271cc-e719-4720-ba91-e3f3bcbcb616&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0024893762252332" />
-      <entry key="MS500" value="1.3027467622951203" />
-      <entry key="S2" value="2.3251558473950804" />
-      <entry key="S5" value="4.544333118661633" />
-      <entry key="S10" value="6.510258920483698" />
-      <entry key="S30" value="8.604060158138953" />
-      <entry key="S60" value="9.267727741317081" />
-      <entry key="M2" value="9.625225940398776" />
-      <entry key="M5" value="9.997222805484618" />
-      <entry key="M10" value="11.922143884605074" />
-      <entry key="M15" value="14.882767551358457" />
-      <entry key="M30" value="22.29294061111072" />
-      <entry key="H1" value="29.704310294939578" />
-      <entry key="H2" value="43.57621124017142" />
-      <entry key="H4" value="134.57689341631075" />
-      <entry key="D1" value="1585.695526519665" />
-      <entry key="W1" value="2885.693138205095" />
+      <entry key="MS100" value="1.0395564646480704" />
+      <entry key="MS500" value="1.6049051261587515" />
+      <entry key="S2" value="2.88582187324009" />
+      <entry key="S5" value="4.446192275526542" />
+      <entry key="S10" value="5.712320995799108" />
+      <entry key="S30" value="7.116438484678867" />
+      <entry key="S60" value="7.718481224502536" />
+      <entry key="M2" value="8.2037337253884" />
+      <entry key="M5" value="8.62748022500027" />
+      <entry key="M10" value="8.803367774232555" />
+      <entry key="M15" value="8.885360587687142" />
+      <entry key="M30" value="9.73694887794331" />
+      <entry key="H1" value="14.611209728246783" />
+      <entry key="H2" value="27.98031225535685" />
+      <entry key="H4" value="97.84916849452452" />
+      <entry key="D1" value="1488.6997674388003" />
+      <entry key="W1" value="2866.3132984949034" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="1.8097916611928803E-231" />
-      <entry key="M2" value="4.2563330240959703E-116" />
-      <entry key="M5" value="7.446745712188167E-47" />
-      <entry key="M10" value="1.0279474549942967E-23" />
-      <entry key="M15" value="5.65658359928867E-16" />
-      <entry key="M30" value="3.502739868292563E-8" />
-      <entry key="H1" value="4.4687590393447134E-4" />
-      <entry key="H2" value="0.08897959044174866" />
-      <entry key="H4" value="1.7565923658894467" />
-      <entry key="D1" value="34.97135681979584" />
-      <entry key="W1" value="63.24263127612597" />
+      <entry key="MS500" value="1.140788920770939E-83" />
+      <entry key="S2" value="1.8378130187821717E-21" />
+      <entry key="S5" value="5.078325447747519E-9" />
+      <entry key="S10" value="7.126237048925273E-5" />
+      <entry key="S30" value="0.04145912082154468" />
+      <entry key="S60" value="0.20361512915681065" />
+      <entry key="M2" value="0.4512373312978555" />
+      <entry key="M5" value="0.7273810941472432" />
+      <entry key="M10" value="0.8528663987678512" />
+      <entry key="M15" value="0.8993332898300334" />
+      <entry key="M30" value="0.9483318471031007" />
+      <entry key="H1" value="0.9739082488098115" />
+      <entry key="H2" value="1.0256167755814025" />
+      <entry key="H4" value="2.153226035212116" />
+      <entry key="D1" value="33.632625187925015" />
+      <entry key="W1" value="63.6205075416146" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004893955157547414" />
-      <entry key="MS500" value="0.6021091154135284" />
-      <entry key="S2" value="2.0626229539420176" />
-      <entry key="S5" value="4.42456081577093" />
-      <entry key="S10" value="6.445739558497413" />
-      <entry key="S30" value="8.581025839748612" />
-      <entry key="S60" value="9.255973407276134" />
-      <entry key="M2" value="9.619284251251011" />
-      <entry key="M5" value="9.994783315590254" />
-      <entry key="M10" value="11.92082019359098" />
-      <entry key="M15" value="14.881818810997324" />
-      <entry key="M30" value="22.292404231848295" />
-      <entry key="H1" value="29.70446350210621" />
-      <entry key="H2" value="43.66500549079409" />
-      <entry key="H4" value="136.3330766582762" />
-      <entry key="D1" value="1620.6654313577415" />
-      <entry key="W1" value="2948.9353714902263" />
+      <entry key="MS100" value="0.9977389103659295" />
+      <entry key="MS500" value="1.593260734855909" />
+      <entry key="S2" value="2.880966478043482" />
+      <entry key="S5" value="4.443206639278782" />
+      <entry key="S10" value="5.710423438615574" />
+      <entry key="S30" value="7.15073852631959" />
+      <entry key="S60" value="7.905656300300232" />
+      <entry key="M2" value="8.63676953806037" />
+      <entry key="M5" value="9.343083276420261" />
+      <entry key="M10" value="9.649317992562459" />
+      <entry key="M15" value="9.779827888478756" />
+      <entry key="M30" value="10.682694927899888" />
+      <entry key="H1" value="15.583744059491657" />
+      <entry key="H2" value="29.00518027762108" />
+      <entry key="H4" value="100.0017881713265" />
+      <entry key="D1" value="1522.3309813499013" />
+      <entry key="W1" value="2929.933403901683" />
     </decayedShown>
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -133,41 +133,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "doran@ucdavis.edu",
-    "ACTIVE_CLOUD_PROJECT_ID": "ecs-datacenter-systems",
-    "ACTIVE_CLOUD_PROJECT_NAME": "ECS Datacenter Systems",
-    "ACTIVE_CLOUD_PROJECT_NUMBER": "722835478571",
-    "Cloud Code: Cloud Run.blog.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260706_0002",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git.auto.fetch.suggestion.counter": "1",
-    "javascript.nodejs.core.library.configured.version": "22.22.3",
-    "javascript.nodejs.core.library.typings.version": "22.19.21",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog/private",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "npm.build.executor": "Run",
-    "npm.dev.executor": "Run",
-    "npm.start.executor": "Run",
-    "npm.typegen.executor": "Run",
-    "ts.external.directory.path": "/home/blog/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;doran@ucdavis.edu&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;ecs-datacenter-systems&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;ECS Datacenter Systems&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;722835478571&quot;,
+    &quot;Cloud Code: Cloud Run.blog.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20260706_0002&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.22.3&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.19.21&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/blog/private&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;npm.typegen.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/blog/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/private" />
@@ -182,7 +182,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
     <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
       <option name="allowRunningInParallel" value="false" />
       <option name="buildEnvironment" value="Local" />
@@ -261,10 +261,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.typegen" />
+        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +294,7 @@
       <workItem from="1782936511226" duration="13293000" />
       <workItem from="1782955698114" duration="10112000" />
       <workItem from="1783019974993" duration="10742000" />
-      <workItem from="1783406451547" duration="1397000" />
+      <workItem from="1783406451547" duration="2753000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -568,14 +568,32 @@
       <option name="project" value="LOCAL" />
       <updated>1783406879948</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Changed body bg-color">
+      <option name="closed" value="true" />
+      <created>1783415484765</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1783415484765</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review" />
     <MESSAGE value="Try to modify Layout to fit the small display" />
     <MESSAGE value="Add nav tabs feature for better interface and display" />
     <MESSAGE value="Modify posts page layout" />
@@ -600,6 +618,7 @@
     <MESSAGE value="Fixed nav tabs bug" />
     <MESSAGE value="Update version" />
     <MESSAGE value="Updated index list and fixed bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index list and fixed bug" />
+    <MESSAGE value="Changed body bg-color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed body bg-color" />
   </component>
 </project>
