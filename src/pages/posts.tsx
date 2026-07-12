@@ -14,7 +14,7 @@ const parseFrontmatter = (markdown: string) => {
   const match = markdown.match(/^---\n([\s\S]*?)\n---/);
   const frontmatterBlock = match?.[1];
   if (!frontmatterBlock) {
-    return { title: 'Untitled', date: '1970-01-01' };
+    return { title: 'N/A', date: '1970-01-01' };
   }
 
   const lines = frontmatterBlock.split('\n');
@@ -29,7 +29,7 @@ const parseFrontmatter = (markdown: string) => {
   }
 
   return {
-    title: map.get('title') || 'Untitled',
+    title: map.get('title') || 'N/A',
     date: map.get('date') || '1970-01-01',
   };
 };
