@@ -36,6 +36,7 @@ export default async function HomePage() {
       <p className="mt-2">The Walking Dead/行尸走肉 2010–2022</p>
       <p className="mt-2">The Last Ship/末日孤艦 2014–2018</p>
       <p className="mt-2">Ghost in the Shell/攻殻機動隊 1995</p>
+      <p className="mt-2">Ghost in the Shell 2: Innocence/攻殼機動隊2: INNOCENCE 2004</p>
       <p className="mt-2">Blade Runner 2049/银翼杀手2049 2017</p>
       <p className="mt-2">Arrival/降临 2017</p>
       <p className="mt-2">Attack on Titan/進擊之巨人 2013–2023</p>
@@ -56,7 +57,9 @@ export default async function HomePage() {
       <p className="mt-2">Wolfenstein: The New Order/德軍總部: 新秩序 2014</p>
       <p className="mt-2">Wolfenstein II: The New Colossus/德軍總部2: 新巨像 2017</p>
       <p className="mt-2">Watch Dogs/看门狗 2014</p>
+      <p className="mt-2">Kingdom Come: Deliverance/天国降临: 救赎 2018</p>
       <p className="mt-2">Assassin's Creed IV: Black Flag/刺客教條4: 黑旗 2013</p>
+      <p className="mt-2">Assassin's Creed Unity/刺客教條: 大革命 2014</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
