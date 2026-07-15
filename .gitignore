@@ -7,3 +7,4 @@ dist
 *.pem
 src/generated
 build-info.ts
+navTabs.tsx
