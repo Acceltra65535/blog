@@ -2,7 +2,7 @@ import { inlineBinaryDataUri } from '../lib/inlineAsset';
 
 export default async function HomePage() {
   const data = await getData();
-  const myImage = await inlineBinaryDataUri('images/myimage.jpg', 'image/jpeg');
+  const myImage = await inlineBinaryDataUri('public/images/myimage.jpg', 'image/jpeg');
 
   return (
     <div>
