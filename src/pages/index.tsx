@@ -12,7 +12,7 @@ export default async function HomePage() {
       <p className="my-4">I specialize in building systems software, with a particular focus on cloud computing. I also enjoy developing full-stack apps with TypeScript and React, and I have a strong interest in computer networks.</p>
       <p className="my-4">A little ghost working on L2/L3，但什么都学不会 ( Blowing water while touching fish and drinking coffee/apple juice/維他檸檬茶</p>
 
-      <hr style={{ marginTop: '7px', marginBottom: '28px', border: 'none', height: '12px', backgroundImage: 'radial-gradient(circle, #9ca3af 1px, transparent 1px)', backgroundSize: '3px 3px' }} />
+      <hr className="divider-dot-matrix" />
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Reading List</h3>
       <p className="mt-2">The Kite Runner/追风筝的人</p>
       <p className="mt-2">The Last Wish/白狼崛起, 猎魔人卷一</p>
@@ -62,7 +62,7 @@ export default async function HomePage() {
       <p className="mt-2">Assassin's Creed IV: Black Flag/刺客教條4: 黑旗 2013</p>
       <p className="mt-2">Assassin's Creed Unity/刺客教條: 大革命 2014</p>
 
-      <hr style={{ marginTop: '7px', marginBottom: '28px', border: 'none', height: '12px', backgroundImage: 'radial-gradient(circle, #9ca3af 1px, transparent 1px)', backgroundSize: '3px 3px' }} />
+      <hr className="divider-dot-matrix" />
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
       <p className="mt-2">Not yet.</p>
 
