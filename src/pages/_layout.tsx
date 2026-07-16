@@ -24,7 +24,7 @@ export default async function RootLayout({ children }: RootLayoutProps) {
 }
 
 const getData = async () => {
-  const icon = await inlineBinaryDataUri('images/favicon.png', 'image/png');
+  const icon = await inlineBinaryDataUri('public/images/favicon.png', 'image/png');
 
   const data = {
     description: 'An internet website!',

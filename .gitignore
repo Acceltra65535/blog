@@ -1,9 +1,8 @@
 node_modules
 dist
+generated-fonts
 .env*
 *.tsbuildinfo
 .cache
 .DS_Store
 *.pem
-src/generated
-build-info.ts

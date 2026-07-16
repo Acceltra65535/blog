@@ -4,7 +4,7 @@ import { inlineSvgDataUri } from '../lib/inlineAsset';
 export const Footer = async () => {
     const { version, commitId } = buildInfo;
     const builtDate = new Date().toISOString().slice(0, 7);
-    const cyberswallow = await inlineSvgDataUri('images/cyberswallow.svg');
+    const cyberswallow = await inlineSvgDataUri('public/images/cyberswallow.svg');
 
   return (
       <footer className="w-full p-6 pb-10 text-center">

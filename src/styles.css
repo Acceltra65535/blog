@@ -1,4 +1,7 @@
 @import 'tailwindcss';
+@source "./components/navTabs.tsx";
+@source "./generated";
+@source "./lib";
 @import 'prismjs/themes/prism.css';
 
 @font-face {
@@ -8,9 +11,9 @@
     font-style: normal;
     font-display: swap;
     unicode-range:
-            U+0000-00FF,
-            U+0100-024F,
-            U+1E00-1EFF;
+        U+0000-00FF,
+        U+0100-024F,
+        U+1E00-1EFF;
 }
 
 @font-face {
@@ -20,9 +23,9 @@
     font-style: normal;
     font-display: swap;
     unicode-range:
-            U+0000-00FF,
-            U+0100-024F,
-            U+1E00-1EFF;
+        U+0000-00FF,
+        U+0100-024F,
+        U+1E00-1EFF;
 }
 
 @font-face {

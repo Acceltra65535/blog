@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { execFileSync, spawnSync } from 'node:child_process';
 
 const packageJson = JSON.parse(await readFile(new URL('../package.json', import.meta.url), 'utf8'));
@@ -46,8 +46,10 @@ if (!commitId) {
     }
 }
 
+const targetUrl = new URL('../src/generated/buildInfo.ts', import.meta.url);
+await mkdir(new URL('./', targetUrl), { recursive: true });
 await writeFile(
-    new URL('../src/generated/buildInfo.ts', import.meta.url),
+    targetUrl,
     `export const buildInfo = ${JSON.stringify({ version, commitId })} as const;\n`
 );
 
