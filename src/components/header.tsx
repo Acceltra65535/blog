@@ -3,7 +3,7 @@ import { inlineSvgDataUri } from '../lib/inlineAsset';
 import { NavTabs } from './navTabs';
 
 export const Header = async () => {
-  const banner = await inlineSvgDataUri('images/dti.svg');
+  const banner = await inlineSvgDataUri('public/images/dti.svg');
 
   return (
     <header className="flex w-full flex-col items-start border-b-2 border-dashed border-gray-500 p-6 pb-0">

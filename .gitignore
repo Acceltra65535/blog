@@ -6,5 +6,3 @@ generated-fonts
 .cache
 .DS_Store
 *.pem
-src/generated
-build-info.ts
