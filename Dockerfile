@@ -1,25 +1,15 @@
-FROM node:22-alpine AS builder
+# Running phase: use Node.js 22 alpine lightweight image
+FROM node:22-alpine
 
 # Work directory
 WORKDIR /app
 
-# Copy package.json and lock for dependency Installation
+# Copy package.json and lock and install only production dependencies
 COPY package*.json ./
-RUN npm ci
+RUN npm ci --omit=dev
 
-# Copy the source code and build it
-COPY . .
-RUN npm run build
-
-# Running phase
-FROM node:22-alpine AS runner
-WORKDIR /app
-
-# Copy the necessary files from the builder stage to reduce the final image size
-COPY --from=builder /app/package*.json ./
-COPY --from=builder /app/node_modules ./node_modules
-COPY --from=builder /app/dist ./dist
-# COPY --from=builder /app .
+# Copy the locally built dist folder
+COPY dist ./dist
 
 ENV PORT=8080
 # It must be bound to 0.0.0.0 instead of localhost; otherwise, a 503 error will occur.

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated posts.tsx" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated posts.tsx">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,8 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="51" />
+    <option name="cachedIndexableFilesCount" value="54" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
@@ -28,77 +31,74 @@
     &quot;assignee&quot;: &quot;Acceltra65535&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
-    &quot;accountId&quot;: &quot;a8feba7d-de1e-41c6-96df-3007fabe19f2&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Acceltra65535/blog.git",
+    "accountId": "a8feba7d-de1e-41c6-96df-3007fabe19f2"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="3.883487585340148E-9" />
-      <entry key="MS500" value="0.020789706769807088" />
-      <entry key="S2" value="0.42159174482611034" />
-      <entry key="S5" value="1.3377952642526798" />
-      <entry key="S10" value="2.600485200814041" />
-      <entry key="S30" value="4.461875680534467" />
-      <entry key="S60" value="5.163587045449026" />
-      <entry key="M2" value="5.5717069331106215" />
-      <entry key="M5" value="6.613638908128738" />
-      <entry key="M10" value="9.570527027519105" />
-      <entry key="M15" value="12.050134739211124" />
-      <entry key="M30" value="16.63249810291528" />
-      <entry key="H1" value="23.49804318088946" />
-      <entry key="H2" value="37.636313099410074" />
-      <entry key="H4" value="105.22480585700991" />
-      <entry key="D1" value="1486.629673058257" />
-      <entry key="W1" value="2875.8837208160144" />
+      <entry key="MS100" value="1.000000043921275" />
+      <entry key="MS500" value="1.0529024064678505" />
+      <entry key="S2" value="2.7937377910572883" />
+      <entry key="S5" value="7.022239034393109" />
+      <entry key="S10" value="12.180061940731463" />
+      <entry key="S30" value="21.186213435619884" />
+      <entry key="S60" value="25.778784201847902" />
+      <entry key="M2" value="29.53258598883562" />
+      <entry key="M5" value="33.54694972220722" />
+      <entry key="M10" value="38.01632291290731" />
+      <entry key="M15" value="41.92470611182593" />
+      <entry key="M30" value="50.02511673236161" />
+      <entry key="H1" value="59.95459903193037" />
+      <entry key="H2" value="75.88871226578559" />
+      <entry key="H4" value="141.96830484092422" />
+      <entry key="D1" value="1514.3685954880473" />
+      <entry key="W1" value="2915.381978887985" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.000000000000938" />
-      <entry key="S60" value="1.000001176238417" />
-      <entry key="M2" value="1.0016014310961037" />
-      <entry key="M5" value="1.1402278522798417" />
-      <entry key="M10" value="1.6429508055214028" />
-      <entry key="M15" value="2.0722696792473045" />
-      <entry key="M30" value="2.791775499545854" />
-      <entry key="H1" value="3.3179669594561774" />
-      <entry key="H2" value="3.6709023865767034" />
-      <entry key="H4" value="4.899594437868718" />
-      <entry key="D1" value="36.25118104551437" />
-      <entry key="W1" value="66.51954562387685" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="8.07066496866971E-206" />
+      <entry key="S5" value="9.178331252955752E-83" />
+      <entry key="S10" value="9.580360772411304E-42" />
+      <entry key="S30" value="2.123866857730697E-14" />
+      <entry key="S60" value="1.4573509714818943E-7" />
+      <entry key="M2" value="3.823637905999672E-4" />
+      <entry key="M5" value="0.048944553849071225" />
+      <entry key="M10" value="0.3403932379424803" />
+      <entry key="M15" value="0.7255775701252775" />
+      <entry key="M30" value="1.6519590584569306" />
+      <entry key="H1" value="2.552298416570231" />
+      <entry key="H2" value="3.219604556223707" />
+      <entry key="H4" value="4.5885448548937795" />
+      <entry key="D1" value="35.857056455749316" />
+      <entry key="W1" value="66.41574615271567" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.001169416601045989" />
-      <entry key="MS500" value="0.27987869213930483" />
-      <entry key="S2" value="1.1342483196560702" />
-      <entry key="S5" value="2.2081718622503934" />
-      <entry key="S10" value="3.530814220774597" />
-      <entry key="S30" value="5.436707919156905" />
-      <entry key="S60" value="6.150659702108953" />
-      <entry key="M2" value="6.566721410187487" />
-      <entry key="M5" value="7.7500669715213" />
-      <entry key="M10" value="11.209295075565556" />
-      <entry key="M15" value="14.118261500550835" />
-      <entry key="M30" value="19.421028292021493" />
-      <entry key="H1" value="26.813917752979247" />
-      <entry key="H2" value="41.305987636170265" />
-      <entry key="H4" value="110.12353209527392" />
-      <entry key="D1" value="1522.8794058208925" />
-      <entry key="W1" value="2942.402857418098" />
+      <entry key="MS100" value="0.9659363710687882" />
+      <entry key="MS500" value="1.0455773260104237" />
+      <entry key="S2" value="2.787760278496215" />
+      <entry key="S5" value="7.015568163572635" />
+      <entry key="S10" value="12.174157643386582" />
+      <entry key="S30" value="21.182763862422846" />
+      <entry key="S60" value="25.77668329535884" />
+      <entry key="M2" value="29.531760655747576" />
+      <entry key="M5" value="33.59512288154976" />
+      <entry key="M10" value="38.355396934368656" />
+      <entry key="M15" value="42.64844929894195" />
+      <entry key="M30" value="51.674895217392674" />
+      <entry key="H1" value="62.505132854915914" />
+      <entry key="H2" value="79.10715484563308" />
+      <entry key="H4" value="146.55599199607033" />
+      <entry key="D1" value="1550.2242116640768" />
+      <entry key="W1" value="2981.797315543323" />
     </decayedShown>
-  </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -144,13 +144,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260711_0000",
+    "com.google.cloudcode.ide_session_index": "20260715_0003",
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git.auto.fetch.suggestion.counter": "1",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
     "javascript.nodejs.core.library.typings.version": "22.19.21",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog/private",
+    "last_opened_file_path": "/home/blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -187,7 +187,7 @@
       <option name="cloudSqlConnections">
         <list />
       </option>
-      <option name="concurrency" value="800" />
+      <option name="concurrency" value="1000" />
       <option name="cpuAllocated" value="1" />
       <option name="dockerBuildArgs" />
       <option name="dockerTarget" value="" />
@@ -196,7 +196,7 @@
       <option name="loadingAvailableBuilders" value="false" />
       <option name="managedAuthentication" value="ALLOW_UNAUTHENTICATED" />
       <option name="managedRegion" value="us-west1" />
-      <option name="maxInstances" value="2" />
+      <option name="maxInstances" value="1" />
       <option name="memoryAllocated" value="MIB_256" />
       <option name="platform" value="FULLY_MANAGED" />
       <option name="projectPathOnTarget" />
@@ -258,8 +258,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.typegen" />
       </list>
@@ -294,6 +294,8 @@
       <workItem from="1783406451547" duration="2753000" />
       <workItem from="1783632286168" duration="881000" />
       <workItem from="1783837943058" duration="1451000" />
+      <workItem from="1784103873272" duration="1088000" />
+      <workItem from="1784151248384" duration="5249000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
