@@ -23,8 +23,16 @@ async function main() {
     await mkdir(outDir, { recursive: true });
 
     // Collect all unique characters used in the project
-    const srcDir = fileURLToPath(new URL('../src', import.meta.url));
-    const files = await getFiles(srcDir);
+    const dirsToScan = ['../src', '../private', '../public'].map(p => fileURLToPath(new URL(p, import.meta.url)));
+    let files = [];
+    for (const dir of dirsToScan) {
+        try {
+            const dirFiles = await getFiles(dir);
+            files = files.concat(dirFiles);
+        } catch (e) {
+            // Ignore if directory does not exist
+        }
+    }
     const exts = ['.tsx', '.ts', '.css', '.md'];
     const validFiles = files.filter(f => exts.includes(path.extname(f)));
     
