@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated posts.tsx">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated index.tsx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +16,16 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="54" />
+    <option name="cachedIndexableFilesCount" value="55" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -34,7 +37,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Acceltra65535/blog.git",
-    "accountId": "a8feba7d-de1e-41c6-96df-3007fabe19f2"
+    "accountId": "797271cc-e719-4720-ba91-e3f3bcbcb616"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
@@ -43,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000043921275" />
-      <entry key="MS500" value="1.0529024064678505" />
-      <entry key="S2" value="2.7937377910572883" />
-      <entry key="S5" value="7.022239034393109" />
-      <entry key="S10" value="12.180061940731463" />
-      <entry key="S30" value="21.186213435619884" />
-      <entry key="S60" value="25.778784201847902" />
-      <entry key="M2" value="29.53258598883562" />
-      <entry key="M5" value="33.54694972220722" />
-      <entry key="M10" value="38.01632291290731" />
-      <entry key="M15" value="41.92470611182593" />
-      <entry key="M30" value="50.02511673236161" />
-      <entry key="H1" value="59.95459903193037" />
-      <entry key="H2" value="75.88871226578559" />
-      <entry key="H4" value="141.96830484092422" />
-      <entry key="D1" value="1514.3685954880473" />
-      <entry key="W1" value="2915.381978887985" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.000000000000523" />
+      <entry key="S30" value="1.0007566893977622" />
+      <entry key="S60" value="1.1563881499421729" />
+      <entry key="M2" value="3.333290556356729" />
+      <entry key="M5" value="13.350694652804572" />
+      <entry key="M10" value="24.32850961322117" />
+      <entry key="M15" value="31.464988365927223" />
+      <entry key="M30" value="43.98637100087847" />
+      <entry key="H1" value="56.94739082716361" />
+      <entry key="H2" value="74.66297443950728" />
+      <entry key="H4" value="140.93716977280604" />
+      <entry key="D1" value="1510.96599403599" />
+      <entry key="W1" value="2915.894346634314" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="8.07066496866971E-206" />
-      <entry key="S5" value="9.178331252955752E-83" />
-      <entry key="S10" value="9.580360772411304E-42" />
-      <entry key="S30" value="2.123866857730697E-14" />
-      <entry key="S60" value="1.4573509714818943E-7" />
-      <entry key="M2" value="3.823637905999672E-4" />
-      <entry key="M5" value="0.048944553849071225" />
-      <entry key="M10" value="0.3403932379424803" />
-      <entry key="M15" value="0.7255775701252775" />
-      <entry key="M30" value="1.6519590584569306" />
-      <entry key="H1" value="2.552298416570231" />
-      <entry key="H2" value="3.219604556223707" />
-      <entry key="H4" value="4.5885448548937795" />
-      <entry key="D1" value="35.857056455749316" />
-      <entry key="W1" value="66.41574615271567" />
+      <entry key="MS500" value="4.720047358546831E-267" />
+      <entry key="S2" value="2.6211180975598187E-67" />
+      <entry key="S5" value="2.3302077139261288E-27" />
+      <entry key="S10" value="4.8272225077430695E-14" />
+      <entry key="S30" value="3.641098596601696E-5" />
+      <entry key="S60" value="0.0060341524870345335" />
+      <entry key="M2" value="0.0777090214992406" />
+      <entry key="M5" value="0.37734921646435277" />
+      <entry key="M10" value="0.8034023186997985" />
+      <entry key="M15" value="1.226244574803316" />
+      <entry key="M30" value="2.235074872767097" />
+      <entry key="H1" value="3.2609894901235346" />
+      <entry key="H2" value="4.042839037389909" />
+      <entry key="H4" value="5.470192990745812" />
+      <entry key="D1" value="36.72567609288554" />
+      <entry key="W1" value="67.38136095329841" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363710687882" />
-      <entry key="MS500" value="1.0455773260104237" />
-      <entry key="S2" value="2.787760278496215" />
-      <entry key="S5" value="7.015568163572635" />
-      <entry key="S10" value="12.174157643386582" />
-      <entry key="S30" value="21.182763862422846" />
-      <entry key="S60" value="25.77668329535884" />
-      <entry key="M2" value="29.531760655747576" />
-      <entry key="M5" value="33.59512288154976" />
-      <entry key="M10" value="38.355396934368656" />
-      <entry key="M15" value="42.64844929894195" />
-      <entry key="M30" value="51.674895217392674" />
-      <entry key="H1" value="62.505132854915914" />
-      <entry key="H2" value="79.10715484563308" />
-      <entry key="H4" value="146.55599199607033" />
-      <entry key="D1" value="1550.2242116640768" />
-      <entry key="W1" value="2981.797315543323" />
+      <entry key="MS100" value="0.7737824967711949" />
+      <entry key="MS500" value="0.950000382874886" />
+      <entry key="S2" value="0.9872586443741826" />
+      <entry key="S5" value="0.9948838432045924" />
+      <entry key="S10" value="0.9974386413237273" />
+      <entry key="S30" value="0.9999373186584" />
+      <entry key="S60" value="1.1618866852611949" />
+      <entry key="M2" value="3.410072803266625" />
+      <entry key="M5" value="13.726529072238064" />
+      <entry key="M10" value="25.130118032818533" />
+      <entry key="M15" value="32.68914155766974" />
+      <entry key="M30" value="46.21914330465983" />
+      <entry key="H1" value="60.2065078128983" />
+      <entry key="H2" value="78.70456846056695" />
+      <entry key="H4" value="146.40645597151178" />
+      <entry key="D1" value="1547.690223575467" />
+      <entry key="W1" value="2983.2752966644753" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -144,7 +147,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260715_0003",
+    "com.google.cloudcode.ide_session_index": "20260716_0001",
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git.auto.fetch.suggestion.counter": "1",
     "javascript.nodejs.core.library.configured.version": "22.22.3",
@@ -296,6 +299,7 @@
       <workItem from="1783837943058" duration="1451000" />
       <workItem from="1784103873272" duration="1088000" />
       <workItem from="1784151248384" duration="5249000" />
+      <workItem from="1784270391813" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
       <option name="closed" value="true" />
@@ -601,7 +605,39 @@
       <option name="project" value="LOCAL" />
       <updated>1783839570332</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784270721237</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1784270721241</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271005464</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271005464</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271085535</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271085535</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271372602</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271372602</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -642,8 +678,8 @@
     <MESSAGE value="Updated index list and fixed bug" />
     <MESSAGE value="Changed body bg-color" />
     <MESSAGE value="Updated README.md" />
-    <MESSAGE value="Updated index.tsx" />
     <MESSAGE value="Updated posts.tsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated posts.tsx" />
+    <MESSAGE value="Updated index.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.tsx" />
   </component>
 </project>

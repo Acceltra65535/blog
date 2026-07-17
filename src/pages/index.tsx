@@ -61,6 +61,10 @@ export default async function HomePage() {
       <p className="mt-2">Kingdom Come: Deliverance/天国降临: 救赎 2018</p>
       <p className="mt-2">Assassin's Creed IV: Black Flag/刺客教條4: 黑旗 2013</p>
       <p className="mt-2">Assassin's Creed Unity/刺客教條: 大革命 2014</p>
+      <p className="mt-2">Assassin's Creed Syndicate/刺客教條: 梟雄 2015</p>
+      <p className="mt-2">Call of Duty 4: Modern Warfare/使命召唤4: 现代战争 2007</p>
+      <p className="mt-2">Call of Duty: Modern Warfare 2/使命召唤: 现代战争2 2009</p>
+      <p className="mt-2">Call of Duty: Modern Warfare 3/使命召唤: 现代战争3 2011</p>
 
       <hr className="divider-dot-matrix" />
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>
