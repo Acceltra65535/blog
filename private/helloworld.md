@@ -31,7 +31,7 @@ int main() {
 > 远端图像存取
 > 
 
-![](https://storage.googleapis.com/blogfilestorage/tlou.png)
+![](https://storage.googleapis.com/blogfilestorage/tgits.png)
 
 ![](https://storage.googleapis.com/blogfilestorage/green.jpg)
 
