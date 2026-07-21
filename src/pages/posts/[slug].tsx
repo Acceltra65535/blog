@@ -14,6 +14,15 @@ type Frontmatter = {
 
 const POSTS_DIR = path.resolve(process.cwd(), 'private');
 
+const fixCjkEmphasis = (markdown: string): string => {
+    // Fix CommonMark emphasis delimiter rules for Notion Markdown CJK text.
+    // Notion exports bold/italic without spaces before/after CJK characters (e.g. "，**RFC 6854**的"),
+    // causing CommonMark parsers to ignore emphasis. Adding space around delimiters adjacent to CJK satisfies CommonMark.
+    return markdown
+        .replace(/(?<=[\u4e00-\u9fa5\u3000-\u303f\uff00-\uffef])\*\*([^*]+)\*\*/g, ' **$1**')
+        .replace(/\*\*([^*]+)\*\*(?=[\u4e00-\u9fa5\u3000-\u303f\uff00-\uffef])/g, '**$1** ');
+};
+
 const parsePost = (raw: string): { meta: Frontmatter; content: string } => {
     const match = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
     const frontmatterBlock = match?.[1];
@@ -22,7 +31,7 @@ const parsePost = (raw: string): { meta: Frontmatter; content: string } => {
     if (!frontmatterBlock) {
         return {
             meta: { title: 'Untitled', summary: '', date: '1970-01-01' },
-            content,
+            content: fixCjkEmphasis(content),
         };
     }
 
@@ -41,7 +50,7 @@ const parsePost = (raw: string): { meta: Frontmatter; content: string } => {
             summary: map.get('summary') || '',
             date: map.get('date') || '1970-01-01',
         },
-        content,
+        content: fixCjkEmphasis(content),
     };
 };
 
