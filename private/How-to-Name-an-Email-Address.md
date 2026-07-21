@@ -1,6 +1,6 @@
 ---
 title: 如何命名一个电子邮件地址 —— 谈谈RFC 822、RFC 2822、RFC 5322与RFC 6854
-summary: 1982 年 1 月 11 日，22 名计算机科学家在一起讨论"计算机邮件" (也就是今天人们所熟知的电子邮件)。与会人员有创建了 Sun Microsystems 的那个家伙、开发了文字冒险游戏 Zork 的那个家伙、发明了 NTP 协议的那个家伙、还有说服政府应该购买 Linux 的那个家伙。他们要解决的问题很简单: ARPANET 上已经接入了 455 个终端，现在快要失控了。
+summary: 1982 年 1 月 11 日，22 名计算机科学家在一起讨论"计算机邮件" (也就是今天人们所熟知的电子邮件)。与会人员有创建了 Sun Microsystems 的那个家伙、开发了文字冒险游戏 Zork 的那个家伙、发明了 NTP 协议的那个家伙、还有说服政府应该购买 Linux 的那个家伙。他们要解决的问题很简单: ARPANET 上已经接入了 455 个终端，现在快要失控啦。
 date: 2026-07-22
 ---
 A large number of terminals have already been connected to ARPANET, and the situation is now getting out of hand.
