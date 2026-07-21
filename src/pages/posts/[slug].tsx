@@ -52,20 +52,20 @@ const getStaticSlugs = async () => {
 
 const markdownComponents: Components = {
     h1({ children }) {
-        return <h1 className="mb-5 mt-8 text-3xl font-bold tracking-tight text-neutral-900">{children}</h1>;
+        return <h1 className="mb-5 mt-8 text-3xl font-bold tracking-tight text-[#103222]">{children}</h1>;
     },
     h2({ children }) {
-        return <h2 className="mb-4 mt-7 text-2xl font-semibold tracking-tight text-neutral-900">{children}</h2>;
+        return <h2 className="mb-4 mt-7 text-2xl font-bold tracking-tight text-[#103222]">{children}</h2>;
     },
     h3({ children }) {
-        return <h3 className="mb-3 mt-6 text-[1.35rem] font-semibold tracking-tight text-neutral-900">{children}</h3>;
+        return <h3 className="mb-3 mt-6 text-[1.35rem] font-bold tracking-tight text-[#103222]">{children}</h3>;
     },
     p({ children }) {
         return <p className="my-5 text-[1.08rem] leading-8 text-neutral-800">{children}</p>;
     },
     blockquote({ children }) {
         return (
-            <blockquote className="my-6 border-l-4 border-neutral-800 bg-[#F0EEEB] pl-5 pr-2 text-[1.06rem] leading-8 text-neutral-600 [&>p]:my-0">
+            <blockquote className="my-6 border-l-4 border-[#103222] bg-[#F0EEEB] px-5 py-3 text-[1.06rem] leading-8 text-neutral-600 [&>p:first-child]:mt-0 [&>p:last-child]:mb-0 [&>p]:my-2">
                 {children}
             </blockquote>
         );
@@ -86,11 +86,71 @@ const markdownComponents: Components = {
     img({ src, alt }) {
         return <img src={src} alt={alt ?? ''} className="my-5 max-w-full rounded-sm" />;
     },
+    hr() {
+        return <hr className="my-8 border-0 border-t-2 border-neutral-300" />;
+    },
+    ul({ children }) {
+        return <ul className="my-4 ml-6 list-disc space-y-2 text-[1.08rem] leading-8 text-neutral-800">{children}</ul>;
+    },
+    ol({ children }) {
+        return <ol className="my-4 ml-6 list-decimal space-y-2 text-[1.08rem] leading-8 text-neutral-800">{children}</ol>;
+    },
+    li({ children }) {
+        return <li className="pl-1">{children}</li>;
+    },
+    table({ children }) {
+        return (
+            <div className="my-6 overflow-x-auto">
+                <table className="w-full border-collapse border border-neutral-300 text-left text-sm text-neutral-800">
+                    {children}
+                </table>
+            </div>
+        );
+    },
+    thead({ children }) {
+        return <thead className="bg-neutral-100 font-semibold text-neutral-900">{children}</thead>;
+    },
+    tbody({ children }) {
+        return <tbody className="divide-y divide-neutral-200">{children}</tbody>;
+    },
+    tr({ children }) {
+        return <tr className="hover:bg-neutral-50/50">{children}</tr>;
+    },
+    th({ children }) {
+        return <th className="border border-neutral-300 px-4 py-2 font-semibold">{children}</th>;
+    },
+    td({ children }) {
+        return <td className="border border-neutral-300 px-4 py-2">{children}</td>;
+    },
+    strong({ children }) {
+        return <strong className="font-bold text-neutral-900">{children}</strong>;
+    },
+    em({ children }) {
+        return <em className="italic">{children}</em>;
+    },
+    u({ children }) {
+        return <u className="underline underline-offset-4">{children}</u>;
+    },
+    span({ children, ...props }: any) {
+        const isUnderline = props.underline === 'true' || props['data-underline'] === 'true';
+        const color = props.color;
+        let cls = '';
+        if (isUnderline) cls += ' underline underline-offset-4';
+
+        return (
+            <span className={cls || undefined} style={color ? { color } : undefined} {...props}>
+                {children}
+            </span>
+        );
+    },
+    del({ children }) {
+        return <del className="line-through text-neutral-500">{children}</del>;
+    },
     pre({ children }) {
         return (
-        <pre className="my-5 overflow-x-auto rounded-sm border border-neutral-200 bg-[#f9f8f7] p-4 text-sm leading-6 text-neutral-900">
-            {children}
-        </pre>
+            <pre className="my-5 overflow-x-auto rounded-sm border border-neutral-200 bg-[#f9f8f7] p-4 text-sm leading-6 text-neutral-900 font-mono">
+                {children}
+            </pre>
         );
     },
     code({ className, children, ...props }) {
@@ -105,7 +165,7 @@ const markdownComponents: Components = {
         }
 
         return (
-            <code className="rounded bg-neutral-100 px-1.5 py-0.5 font-mono text-[0.92em] text-neutral-800" {...props}>
+            <code className="rounded bg-[#efeee9] px-1.5 py-0.5 font-['BlogEnglish'] text-[0.9em] text-[#eb5757] break-words" {...props}>
                 {children}
             </code>
         );
