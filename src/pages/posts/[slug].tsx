@@ -15,12 +15,23 @@ type Frontmatter = {
 const POSTS_DIR = path.resolve(process.cwd(), 'private');
 
 const fixCjkEmphasis = (markdown: string): string => {
+
     // Fix CommonMark emphasis delimiter rules for Notion Markdown CJK text.
-    // Notion exports bold/italic without spaces before/after CJK characters (e.g. "，**RFC 6854**的"),
-    // causing CommonMark parsers to ignore emphasis. Adding space around delimiters adjacent to CJK satisfies CommonMark.
-    return markdown
-        .replace(/(?<=[\u4e00-\u9fa5\u3000-\u303f\uff00-\uffef])\*\*([^*]+)\*\*/g, ' **$1**')
-        .replace(/\*\*([^*]+)\*\*(?=[\u4e00-\u9fa5\u3000-\u303f\uff00-\uffef])/g, '**$1** ');
+    // causing CommonMark parsers to fail when delimiters touch CJK text/punctuation.
+    // Safely insert spaces outside **...** when adjacent to CJK without corrupting inner text or double-spacing.
+    const cjkRegex = /[\u4e00-\u9fa5\u3000-\u303f\uff00-\uffef]/;
+    return markdown.replace(/(\s*)(\*\*([\s\S]+?)\*\*)(\s*)/g, (match, sBefore, boldBlock, inner, sAfter, offset, fullStr) => {
+        const prevChar = offset > 0 ? fullStr[offset - 1] : '';
+        const nextChar = offset + match.length < fullStr.length ? fullStr[offset + match.length] : '';
+
+        const needSpaceBefore = !sBefore && cjkRegex.test(prevChar);
+        const needSpaceAfter = !sAfter && cjkRegex.test(nextChar);
+
+        const prefix = needSpaceBefore ? ' ' : '';
+        const suffix = needSpaceAfter ? ' ' : '';
+
+        return `${sBefore}${prefix}${boldBlock}${suffix}${sAfter}`;
+    });
 };
 
 const parsePost = (raw: string): { meta: Frontmatter; content: string } => {

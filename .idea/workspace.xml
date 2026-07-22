@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="New favicon.png">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000047051" />
-      <entry key="S2" value="1.0037196005065938" />
-      <entry key="S5" value="1.4010787113259533" />
-      <entry key="S10" value="3.4736531604878236" />
-      <entry key="S30" value="10.676530690566118" />
-      <entry key="S60" value="15.672913924137108" />
-      <entry key="M2" value="19.919177221356072" />
-      <entry key="M5" value="23.663874160159367" />
-      <entry key="M10" value="25.2777051725359" />
-      <entry key="M15" value="26.11398676061638" />
-      <entry key="M30" value="29.739796923164135" />
-      <entry key="H1" value="44.28197718160741" />
-      <entry key="H2" value="76.60564686826156" />
-      <entry key="H4" value="146.03252845197696" />
-      <entry key="D1" value="1459.0305906810665" />
-      <entry key="W1" value="2962.918984331536" />
+      <entry key="MS100" value="1.0198359731140818" />
+      <entry key="MS500" value="1.777999383398413" />
+      <entry key="S2" value="3.509856090998299" />
+      <entry key="S5" value="4.735237881368291" />
+      <entry key="S10" value="6.634564995582281" />
+      <entry key="S30" value="13.789017130340662" />
+      <entry key="S60" value="19.261542353804856" />
+      <entry key="M2" value="24.012467307739286" />
+      <entry key="M5" value="28.23002484143086" />
+      <entry key="M10" value="30.0454546705538" />
+      <entry key="M15" value="30.95395274129678" />
+      <entry key="M30" value="34.64886269378266" />
+      <entry key="H1" value="49.21480166316601" />
+      <entry key="H2" value="81.547948513607" />
+      <entry key="H4" value="150.9777892324083" />
+      <entry key="D1" value="1463.9398649939856" />
+      <entry key="W1" value="2967.892670725431" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.4978654964111107E-43" />
-      <entry key="MS500" value="2.7232942141593085E-9" />
-      <entry key="S2" value="0.007223931860263275" />
-      <entry key="S5" value="0.1391584094895047" />
-      <entry key="S10" value="0.37303942082507136" />
-      <entry key="S30" value="0.7198658577418537" />
-      <entry key="S60" value="0.8484490896582151" />
-      <entry key="M2" value="0.9211129624851748" />
-      <entry key="M5" value="0.9676653486199838" />
-      <entry key="M10" value="0.9843523786431702" />
-      <entry key="M15" value="1.0029130518636875" />
-      <entry key="M30" value="1.3066301921214132" />
-      <entry key="H1" value="2.659517223150782" />
-      <entry key="H2" value="5.1310409840787585" />
-      <entry key="H4" value="8.236960958010714" />
-      <entry key="D1" value="40.10541254276647" />
-      <entry key="W1" value="73.44078636034945" />
+      <entry key="MS100" value="7.156143697628177E-67" />
+      <entry key="MS500" value="5.901138539133259E-14" />
+      <entry key="S2" value="4.928717798337105E-4" />
+      <entry key="S5" value="0.04754376614252872" />
+      <entry key="S10" value="0.2180453304763225" />
+      <entry key="S30" value="0.6018878781451503" />
+      <entry key="S60" value="0.7758143322633004" />
+      <entry key="M2" value="0.8808032312970363" />
+      <entry key="M5" value="0.9504988410056197" />
+      <entry key="M10" value="0.9755820390140826" />
+      <entry key="M15" value="0.9969470300721793" />
+      <entry key="M30" value="1.30273802425977" />
+      <entry key="H1" value="2.6555532065574585" />
+      <entry key="H2" value="5.12721564388015" />
+      <entry key="H4" value="8.233889938610654" />
+      <entry key="D1" value="40.102920045063065" />
+      <entry key="W1" value="73.44013430775854" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7269862586601552" />
-      <entry key="MS500" value="0.9382211967594709" />
-      <entry key="S2" value="0.9913703664889868" />
-      <entry key="S5" value="1.4919175406327694" />
-      <entry key="S10" value="3.7769689418682515" />
-      <entry key="S30" value="11.340869393955089" />
-      <entry key="S60" value="16.477497501700512" />
-      <entry key="M2" value="20.807952856565237" />
-      <entry key="M5" value="24.613821366616044" />
-      <entry key="M10" value="26.252054573197505" />
-      <entry key="M15" value="27.10988405988423" />
-      <entry key="M30" value="31.042133023064608" />
-      <entry key="H1" value="46.93797614573503" />
-      <entry key="H2" value="81.73376759289292" />
-      <entry key="H4" value="154.26734129567802" />
-      <entry key="D1" value="1499.1343396272155" />
-      <entry key="W1" value="3036.3593136973436" />
+      <entry key="MS100" value="0.9852298382236204" />
+      <entry key="MS500" value="1.7665271303495744" />
+      <entry key="S2" value="3.5033902508341543" />
+      <entry key="S5" value="4.763462815301465" />
+      <entry key="S10" value="6.81033040118091" />
+      <entry key="S30" value="14.343939621277073" />
+      <entry key="S60" value="19.996973237603896" />
+      <entry key="M2" value="24.862210745179084" />
+      <entry key="M5" value="29.163064573927443" />
+      <entry key="M10" value="31.011095170667076" />
+      <entry key="M15" value="31.94390728757918" />
+      <entry key="M30" value="35.94731017957312" />
+      <entry key="H1" value="51.866837234828786" />
+      <entry key="H2" value="86.67224376497158" />
+      <entry key="H4" value="159.20953070242518" />
+      <entry key="D1" value="1504.0411213532825" />
+      <entry key="W1" value="3041.332348015199" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -135,41 +133,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "doran@ucdavis.edu",
-    "ACTIVE_CLOUD_PROJECT_ID": "ecs-datacenter-systems",
-    "ACTIVE_CLOUD_PROJECT_NAME": "ECS Datacenter Systems",
-    "ACTIVE_CLOUD_PROJECT_NUMBER": "722835478571",
-    "Cloud Code: Cloud Run.blog.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.google.cloudcode.ide_session_index": "20260722_0000",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git.auto.fetch.suggestion.counter": "1",
-    "javascript.nodejs.core.library.configured.version": "22.22.3",
-    "javascript.nodejs.core.library.typings.version": "22.19.21",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/blog/public/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "npm.build.executor": "Run",
-    "npm.dev.executor": "Run",
-    "npm.start.executor": "Run",
-    "npm.typegen.executor": "Run",
-    "ts.external.directory.path": "/home/blog/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;doran@ucdavis.edu&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;ecs-datacenter-systems&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;ECS Datacenter Systems&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;722835478571&quot;,
+    &quot;Cloud Code: Cloud Run.blog.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20260722_0000&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.22.3&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.19.21&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/blog/public/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;npm.typegen.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/blog/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
@@ -305,15 +303,7 @@
       <workItem from="1784527222005" duration="60000" />
       <workItem from="1784671282470" duration="1284000" />
       <workItem from="1784695331463" duration="6795000" />
-      <workItem from="1784713286157" duration="233000" />
-    </task>
-    <task id="LOCAL-00003" summary="Add header feature and svg file">
-      <option name="closed" value="true" />
-      <created>1782692859798</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1782692859798</updated>
+      <workItem from="1784713286157" duration="265000" />
     </task>
     <task id="LOCAL-00004" summary="Add header feature and update svg file">
       <option name="closed" value="true" />
@@ -699,7 +689,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784713505791</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Updated version">
+      <option name="closed" value="true" />
+      <created>1784713527608</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1784713527608</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,9 +737,9 @@
     <MESSAGE value="Modifying style for better experience" />
     <MESSAGE value="Modifying style for better experience. Add Steam icon." />
     <MESSAGE value="Modifying style for better experience." />
-    <MESSAGE value="Updated version" />
     <MESSAGE value="Modifying interface for better experience." />
     <MESSAGE value="New favicon.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="New favicon.png" />
+    <MESSAGE value="Updated version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated version" />
   </component>
 </project>
