@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Modifying interface for better experience." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000140020733999" />
-      <entry key="S5" value="1.011442057043523" />
-      <entry key="S10" value="1.1078102376563779" />
-      <entry key="S30" value="1.5692721900444313" />
-      <entry key="S60" value="1.9965169831223983" />
-      <entry key="M2" value="2.384608459020474" />
-      <entry key="M5" value="2.7185164857756283" />
-      <entry key="M10" value="2.9117389809283605" />
-      <entry key="M15" value="3.257746623872926" />
-      <entry key="M30" value="6.492716109641666" />
-      <entry key="H1" value="21.0519030653774" />
-      <entry key="H2" value="53.429142237860255" />
-      <entry key="H4" value="122.91531267036389" />
-      <entry key="D1" value="1436.6624616358" />
-      <entry key="W1" value="2939.394890490103" />
+      <entry key="MS100" value="1.0000000006960934" />
+      <entry key="MS500" value="1.0148361517053348" />
+      <entry key="S2" value="1.7173187326554191" />
+      <entry key="S5" value="4.411989380148407" />
+      <entry key="S10" value="7.772483609946241" />
+      <entry key="S30" value="12.846340000868569" />
+      <entry key="S60" value="15.784927882192333" />
+      <entry key="M2" value="18.40963656627454" />
+      <entry key="M5" value="20.814100395573863" />
+      <entry key="M10" value="21.886333777053167" />
+      <entry key="M15" value="22.532052637514315" />
+      <entry key="M30" value="25.97820434498242" />
+      <entry key="H1" value="40.46146411854043" />
+      <entry key="H2" value="72.7625008659557" />
+      <entry key="H4" value="142.18304978077262" />
+      <entry key="D1" value="1455.2829377250846" />
+      <entry key="W1" value="2958.992216024715" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="1.0085910728502002E-231" />
-      <entry key="S30" value="1.931924208455984E-77" />
-      <entry key="S60" value="9.03722661407572E-39" />
-      <entry key="M2" value="2.1812480577355446E-19" />
-      <entry key="M5" value="9.861217552992378E-8" />
-      <entry key="M10" value="7.679593312279011E-4" />
-      <entry key="M15" value="0.015392656530654856" />
-      <entry key="M30" value="0.32949654690272034" />
-      <entry key="H1" value="1.7079696972805516" />
-      <entry key="H2" value="4.188851225010422" />
-      <entry key="H4" value="7.286904784999751" />
-      <entry key="D1" value="39.14975998170644" />
-      <entry key="W1" value="72.45250267192642" />
+      <entry key="S10" value="2.5776452767757768E-235" />
+      <entry key="S30" value="1.2260064691970081E-78" />
+      <entry key="S60" value="2.2765988453388216E-39" />
+      <entry key="M2" value="1.0947897606906004E-19" />
+      <entry key="M5" value="7.484810472985363E-8" />
+      <entry key="M10" value="6.690573647093314E-4" />
+      <entry key="M15" value="0.01404096643864625" />
+      <entry key="M30" value="0.3146969826508862" />
+      <entry key="H1" value="1.6691717153103849" />
+      <entry key="H2" value="4.141001269710675" />
+      <entry key="H4" value="7.24516547154264" />
+      <entry key="D1" value="39.11229556514471" />
+      <entry key="W1" value="72.44259381850364" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.987324790603333E-4" />
-      <entry key="MS500" value="0.24014871598836915" />
-      <entry key="S2" value="0.7000478385764609" />
-      <entry key="S5" value="0.8779336114149726" />
-      <entry key="S10" value="1.0361850714936578" />
-      <entry key="S30" value="1.5376910412636726" />
-      <entry key="S60" value="1.9750709183186226" />
-      <entry key="M2" value="2.3708352833626445" />
-      <entry key="M5" value="2.71187362758681" />
-      <entry key="M10" value="2.9089438892634356" />
-      <entry key="M15" value="3.2706409804290733" />
-      <entry key="M30" value="6.820267837463021" />
-      <entry key="H1" value="22.757534636007065" />
-      <entry key="H2" value="57.61566746771769" />
-      <entry key="H4" value="130.20037073010255" />
-      <entry key="D1" value="1475.8106086599971" />
-      <entry key="W1" value="3011.8469435930574" />
+      <entry key="MS100" value="0.9794202982686948" />
+      <entry key="MS500" value="1.0106243605718734" />
+      <entry key="S2" value="1.7155218931329534" />
+      <entry key="S5" value="4.410039418172895" />
+      <entry key="S10" value="7.770464822600301" />
+      <entry key="S30" value="12.835788409501356" />
+      <entry key="S60" value="15.766860493610334" />
+      <entry key="M2" value="18.39159366572304" />
+      <entry key="M5" value="20.802790070064567" />
+      <entry key="M10" value="21.88038420405273" />
+      <entry key="M15" value="22.54138043972145" />
+      <entry key="M30" value="26.289779288337893" />
+      <entry key="H1" value="42.12770632136192" />
+      <entry key="H2" value="76.90087736388529" />
+      <entry key="H4" value="149.42621565157108" />
+      <entry key="D1" value="1494.3935945251646" />
+      <entry key="W1" value="3031.434356425762" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -305,15 +302,7 @@
       <workItem from="1784270391813" duration="1487000" />
       <workItem from="1784527222005" duration="60000" />
       <workItem from="1784671282470" duration="1284000" />
-      <workItem from="1784695331463" duration="6666000" />
-    </task>
-    <task id="LOCAL-00001" summary="Add feature for header and footer, initial blog layout">
-      <option name="closed" value="true" />
-      <created>1782685409111</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1782685409111</updated>
+      <workItem from="1784695331463" duration="6795000" />
     </task>
     <task id="LOCAL-00002" summary="Add header feature and svg file">
       <option name="closed" value="true" />
@@ -699,7 +688,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784703099372</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Modifying interface for better experience.">
+      <option name="closed" value="true" />
+      <created>1784707499495</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1784707499495</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +714,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add the ability to render code block and highlight the code syntax" />
     <MESSAGE value="updated index.tsx. Add new feature for markdown render." />
     <MESSAGE value="All new header nav" />
     <MESSAGE value="Add Dockerfile and setup Google Cloud Run deploy" />
@@ -742,6 +738,7 @@
     <MESSAGE value="Modifying style for better experience. Add Steam icon." />
     <MESSAGE value="Modifying style for better experience." />
     <MESSAGE value="Updated version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated version" />
+    <MESSAGE value="Modifying interface for better experience." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifying interface for better experience." />
   </component>
 </project>
