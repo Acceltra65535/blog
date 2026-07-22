@@ -1,5 +1,6 @@
 import { ImGithub, ImTwitter } from 'react-icons/im';
 import { inlineSvgDataUri } from '../lib/inlineAsset';
+import { FaSteam } from "react-icons/fa";
 import { NavTabs } from './navTabs';
 
 export const Header = async () => {
@@ -19,6 +20,11 @@ export const Header = async () => {
         <span className="pl-2">
           <a href="https://x.com/sgdorae" aria-label="Twitter" className="inline-flex">
             <ImTwitter className="h-6 w-6 text-[#4ba6ee]" aria-hidden="true" />
+          </a>
+        </span>
+        <span className="pl-2">
+          <a href="https://steamcommunity.com/profiles/76561198089424717" aria-label="Steam" className="inline-flex">
+            <FaSteam className="h-6 w-6 text-[#123568]" aria-hidden="true" />
           </a>
         </span>
       </h2>
