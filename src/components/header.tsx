@@ -9,9 +9,9 @@ export const Header = async () => {
   return (
     <header className="flex w-full flex-col items-start border-b-2 border-dashed border-gray-500 p-6 pb-0">
       <h2 className="flex items-baseline gap-1 text-3xl font-bold tracking-tight">
-        <a href="/">Alex Yuan</a>
+        <a className="max-[465px]:text-lg" href="/">Alex Yuan</a>
         <span>/</span>
-        <span className="text-xl text-neutral-400">Emondora256</span>
+        <span className="max-[465px]:text-sm text-xl text-neutral-400">Emondora256</span>
         <span className="pl-2">
           <a href="https://github.com/Acceltra65535" aria-label="GitHub" className="inline-flex">
             <ImGithub className="h-6 w-6" aria-hidden="true" />
