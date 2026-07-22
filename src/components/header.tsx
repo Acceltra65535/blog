@@ -24,7 +24,7 @@ export const Header = async () => {
         </span>
         <span className="pl-2">
           <a href="https://steamcommunity.com/profiles/76561198089424717" aria-label="Steam" className="inline-flex">
-            <FaSteam className="h-6 w-6 text-[#123568]" aria-hidden="true" />
+            <FaSteam className="h-6 w-6 text-[#133165]" aria-hidden="true" />
           </a>
         </span>
       </h2>
