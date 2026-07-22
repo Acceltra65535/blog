@@ -27,7 +27,7 @@ export const Header = async () => {
         <img
           src={banner}
           alt="dti"
-          className="block h-18 w-100.25 object-contain object-bottom lg:h-18 lg:w-185"
+          className="block h-18 w-120 object-contain object-bottom lg:h-18 lg:w-160"
         />
       </div>
     </header>
