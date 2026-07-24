@@ -44,6 +44,9 @@ export default async function HomePage() {
       <p className="mt-2">Cowboy Bebop/星際牛仔 1998</p>
       <p className="mt-2">EVANGELION:3.0+1.01 THRICE UPON A TIME/新·福音戰士劇場版: 終 2021</p>
       <p className="mt-2">Violet Evergarden/紫羅蘭永恆花園 2018</p>
+      <p className="mt-2">Interstellar/星际穿越 2014</p>
+      <p className="mt-2">Maze Runner/移动迷宫系列 2014–2018</p>
+      <p className="mt-2">Mobile Suit Gundam: Hathaway/机动战士高达 闪光的哈萨维 2021</p>
 
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Games</h3>
       <p className="mt-2">Battlefield 3/戰地風雲3 2011</p>
@@ -58,13 +61,22 @@ export default async function HomePage() {
       <p className="mt-2">Wolfenstein: The New Order/德軍總部: 新秩序 2014</p>
       <p className="mt-2">Wolfenstein II: The New Colossus/德軍總部2: 新巨像 2017</p>
       <p className="mt-2">Watch Dogs/看门狗 2014</p>
+      <p className="mt-2">Warframe/戰甲神兵 2013</p>
       <p className="mt-2">Kingdom Come: Deliverance/天国降临: 救赎 2018</p>
       <p className="mt-2">Assassin's Creed IV: Black Flag/刺客教條4: 黑旗 2013</p>
       <p className="mt-2">Assassin's Creed Unity/刺客教條: 大革命 2014</p>
       <p className="mt-2">Assassin's Creed Syndicate/刺客教條: 梟雄 2015</p>
+      <p className="mt-2">Assassin's Creed Origins/刺客教條：起源 2017</p>
+      <p className="mt-2">Assassin's Creed Odyssey/刺客教條: 奧德賽 2018</p>
       <p className="mt-2">Call of Duty 4: Modern Warfare/使命召唤4: 现代战争 2007</p>
       <p className="mt-2">Call of Duty: Modern Warfare 2/使命召唤: 现代战争2 2009</p>
       <p className="mt-2">Call of Duty: Modern Warfare 3/使命召唤: 现代战争3 2011</p>
+      <p className="mt-2">Call of Duty: Black Ops/决胜时刻: 黑色行动 2010</p>
+      <p className="mt-2">Call of Duty: Advanced Warfare/决胜时刻: 先进战争 2014</p>
+      <p className="mt-2">Software Inc./软件公司 2015</p>
+      <p className="mt-2">Tom Clancy's The Division/湯姆克蘭西: 全境封鎖 2016</p>
+      <p className="mt-2">Tom Clancy's The Division 2/湯姆克蘭西: 全境封鎖2 2019</p>
+      <p className="mt-2">S.T.A.L.K.E.R. 2: Heart of Chornobyl/浩劫杀阵2: 车诺比之心 2024</p>
 
       <hr className="divider-dot-matrix" />
       <h3 className="mt-5 text-2xl font-bold text-[#103222]">Publications</h3>

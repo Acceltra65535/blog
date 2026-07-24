@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated version" />
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,61 +49,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0198359731140818" />
-      <entry key="MS500" value="1.777999383398413" />
-      <entry key="S2" value="3.509856090998299" />
-      <entry key="S5" value="4.735237881368291" />
-      <entry key="S10" value="6.634564995582281" />
-      <entry key="S30" value="13.789017130340662" />
-      <entry key="S60" value="19.261542353804856" />
-      <entry key="M2" value="24.012467307739286" />
-      <entry key="M5" value="28.23002484143086" />
-      <entry key="M10" value="30.0454546705538" />
-      <entry key="M15" value="30.95395274129678" />
-      <entry key="M30" value="34.64886269378266" />
-      <entry key="H1" value="49.21480166316601" />
-      <entry key="H2" value="81.547948513607" />
-      <entry key="H4" value="150.9777892324083" />
-      <entry key="D1" value="1463.9398649939856" />
-      <entry key="W1" value="2967.892670725431" />
+      <entry key="MS100" value="1.0234923872163781" />
+      <entry key="MS500" value="1.8363941195223217" />
+      <entry key="S2" value="3.9067598400711447" />
+      <entry key="S5" value="5.3912659247680015" />
+      <entry key="S10" value="7.389051976704881" />
+      <entry key="S30" value="14.616786679948458" />
+      <entry key="S60" value="20.140872102904268" />
+      <entry key="M2" value="24.937132142479342" />
+      <entry key="M5" value="29.19456461854333" />
+      <entry key="M10" value="31.0265784331378" />
+      <entry key="M15" value="31.940986712203905" />
+      <entry key="M30" value="35.64160505496373" />
+      <entry key="H1" value="50.20964706452506" />
+      <entry key="H2" value="82.54367786801465" />
+      <entry key="H4" value="151.9738358461874" />
+      <entry key="D1" value="1464.9334759936942" />
+      <entry key="W1" value="2968.8908203466726" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.156143697628177E-67" />
-      <entry key="MS500" value="5.901138539133259E-14" />
-      <entry key="S2" value="4.928717798337105E-4" />
-      <entry key="S5" value="0.04754376614252872" />
-      <entry key="S10" value="0.2180453304763225" />
-      <entry key="S30" value="0.6018878781451503" />
-      <entry key="S60" value="0.7758143322633004" />
-      <entry key="M2" value="0.8808032312970363" />
-      <entry key="M5" value="0.9504988410056197" />
-      <entry key="M10" value="0.9755820390140826" />
-      <entry key="M15" value="0.9969470300721793" />
-      <entry key="M30" value="1.30273802425977" />
-      <entry key="H1" value="2.6555532065574585" />
-      <entry key="H2" value="5.12721564388015" />
-      <entry key="H4" value="8.233889938610654" />
-      <entry key="D1" value="40.102920045063065" />
-      <entry key="W1" value="73.44013430775854" />
+      <entry key="MS100" value="1.6484503699882714E-68" />
+      <entry key="MS500" value="2.7759726008361716E-14" />
+      <entry key="S2" value="4.081819478580186E-4" />
+      <entry key="S5" value="0.04409014402809619" />
+      <entry key="S10" value="0.20997653208893646" />
+      <entry key="S30" value="0.5943700529543721" />
+      <entry key="S60" value="0.7709539888698758" />
+      <entry key="M2" value="0.8780398560827839" />
+      <entry key="M5" value="0.9493049029575407" />
+      <entry key="M10" value="0.9749691237365761" />
+      <entry key="M15" value="0.9965294276966763" />
+      <entry key="M30" value="1.3024651494430892" />
+      <entry key="H1" value="2.6552750725309684" />
+      <entry key="H2" value="5.126947132883986" />
+      <entry key="H4" value="8.233674332413258" />
+      <entry key="D1" value="40.10274502587411" />
+      <entry key="W1" value="73.44008852036674" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9852298382236204" />
-      <entry key="MS500" value="1.7665271303495744" />
-      <entry key="S2" value="3.5033902508341543" />
-      <entry key="S5" value="4.763462815301465" />
-      <entry key="S10" value="6.81033040118091" />
-      <entry key="S30" value="14.343939621277073" />
-      <entry key="S60" value="19.996973237603896" />
-      <entry key="M2" value="24.862210745179084" />
-      <entry key="M5" value="29.163064573927443" />
-      <entry key="M10" value="31.011095170667076" />
-      <entry key="M15" value="31.94390728757918" />
-      <entry key="M30" value="35.94731017957312" />
-      <entry key="H1" value="51.866837234828786" />
-      <entry key="H2" value="86.67224376497158" />
-      <entry key="H4" value="159.20953070242518" />
-      <entry key="D1" value="1504.0411213532825" />
-      <entry key="W1" value="3041.332348015199" />
+      <entry key="MS100" value="0.045730675620951185" />
+      <entry key="MS500" value="1.3014104756890397" />
+      <entry key="S2" value="3.7295756822808674" />
+      <entry key="S5" value="5.344799670800813" />
+      <entry key="S10" value="7.521308016668787" />
+      <entry key="S30" value="15.152287554506593" />
+      <entry key="S60" value="20.86543081061678" />
+      <entry key="M2" value="25.78107231423377" />
+      <entry key="M5" value="30.125176226369465" />
+      <entry key="M10" value="31.990984007796914" />
+      <entry key="M15" value="32.93010770392362" />
+      <entry key="M30" value="36.939571102103706" />
+      <entry key="H1" value="52.86130013383167" />
+      <entry key="H2" value="87.66765239157434" />
+      <entry key="H4" value="160.2053355810477" />
+      <entry key="D1" value="1505.0345529768124" />
+      <entry key="W1" value="3042.3304512258683" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -133,41 +136,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;doran@ucdavis.edu&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;ecs-datacenter-systems&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;ECS Datacenter Systems&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;722835478571&quot;,
-    &quot;Cloud Code: Cloud Run.blog.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20260722_0000&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.22.3&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.19.21&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/blog/public/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;npm.typegen.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/blog/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "doran@ucdavis.edu",
+    "ACTIVE_CLOUD_PROJECT_ID": "ecs-datacenter-systems",
+    "ACTIVE_CLOUD_PROJECT_NAME": "ECS Datacenter Systems",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "722835478571",
+    "Cloud Code: Cloud Run.blog.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.google.cloudcode.ide_session_index": "20260724_0000",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git.auto.fetch.suggestion.counter": "1",
+    "javascript.nodejs.core.library.configured.version": "22.22.3",
+    "javascript.nodejs.core.library.typings.version": "22.19.21",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/blog/public/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "npm.typegen.executor": "Run",
+    "ts.external.directory.path": "/home/blog/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
@@ -304,6 +307,7 @@
       <workItem from="1784671282470" duration="1284000" />
       <workItem from="1784695331463" duration="6795000" />
       <workItem from="1784713286157" duration="265000" />
+      <workItem from="1784923194869" duration="867000" />
     </task>
     <task id="LOCAL-00004" summary="Add header feature and update svg file">
       <option name="closed" value="true" />
