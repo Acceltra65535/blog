@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated index.tsx">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Fixed markdown render bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/How-to-Name-an-Email-Address.md" beforeDir="false" afterPath="$PROJECT_DIR$/private/How-to-Name-an-Email-Address.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,59 +51,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000095207060657" />
-      <entry key="S5" value="1.009805453013248" />
-      <entry key="S10" value="1.0990224874121515" />
-      <entry key="S30" value="1.4627355938436781" />
-      <entry key="S60" value="1.6940953376244388" />
-      <entry key="M2" value="2.0141335447763016" />
-      <entry key="M5" value="4.095661417788918" />
-      <entry key="M10" value="10.020846743411225" />
-      <entry key="M15" value="15.14615118360293" />
-      <entry key="M30" value="25.510686748065027" />
-      <entry key="H1" value="43.31241868094564" />
-      <entry key="H2" value="77.23080643963728" />
-      <entry key="H4" value="147.23636124196724" />
-      <entry key="D1" value="1453.9731659872523" />
-      <entry key="W1" value="2969.250217480236" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000000008" />
+      <entry key="S10" value="1.0000002413637685" />
+      <entry key="S30" value="1.0266831892499693" />
+      <entry key="S60" value="1.5077295010654965" />
+      <entry key="M2" value="3.276709840226043" />
+      <entry key="M5" value="7.621375555955819" />
+      <entry key="M10" value="14.231039245656937" />
+      <entry key="M15" value="19.79392626328202" />
+      <entry key="M30" value="31.158274020415906" />
+      <entry key="H1" value="49.654600108880395" />
+      <entry key="H2" value="83.97913656927706" />
+      <entry key="H4" value="154.16266927360235" />
+      <entry key="D1" value="1459.6837567375167" />
+      <entry key="W1" value="2977.2920430282284" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.4089207240627758E-110" />
-      <entry key="S5" value="1.146976772105634E-44" />
-      <entry key="S10" value="1.0709700145688646E-22" />
-      <entry key="S30" value="4.7488947894196254E-8" />
-      <entry key="S60" value="2.1802965871871492E-4" />
-      <entry key="M2" value="0.015093906175316208" />
-      <entry key="M5" value="0.22579174711508967" />
-      <entry key="M10" value="0.6319459908814712" />
-      <entry key="M15" value="0.9184645479421566" />
-      <entry key="M30" value="1.5251711090250386" />
-      <entry key="H1" value="2.9107445637992746" />
-      <entry key="H2" value="5.428033347656201" />
-      <entry key="H4" value="8.675788149564701" />
-      <entry key="D1" value="40.660348585589006" />
-      <entry key="W1" value="74.32450615386472" />
+      <entry key="S2" value="7.303047012426725E-153" />
+      <entry key="S5" value="1.397660329510478E-61" />
+      <entry key="S10" value="3.7385295632246606E-31" />
+      <entry key="S30" value="7.203889633104668E-11" />
+      <entry key="S60" value="8.49186001330914E-6" />
+      <entry key="M2" value="0.002978826932036174" />
+      <entry key="M5" value="0.11797921829435433" />
+      <entry key="M10" value="0.45680272725659815" />
+      <entry key="M15" value="0.7397668753331719" />
+      <entry key="M30" value="1.368783658483637" />
+      <entry key="H1" value="2.7574790139420706" />
+      <entry key="H2" value="5.28319411178854" />
+      <entry key="H4" value="8.559255071423529" />
+      <entry key="D1" value="40.568810045815944" />
+      <entry key="W1" value="74.30057926222793" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9265880618903709" />
-      <entry key="MS500" value="0.9848664428955506" />
-      <entry key="S2" value="0.9962044260404774" />
-      <entry key="S5" value="1.0082640360178603" />
-      <entry key="S10" value="1.0981711279977506" />
-      <entry key="S30" value="1.4623425413812328" />
-      <entry key="S60" value="1.6940774494045523" />
-      <entry key="M2" value="2.028936149215154" />
-      <entry key="M5" value="4.319883719150675" />
-      <entry key="M10" value="10.64975737620789" />
-      <entry key="M15" value="16.06128147321769" />
-      <entry key="M30" value="27.03270894250133" />
-      <entry key="H1" value="46.22009790724609" />
-      <entry key="H2" value="82.65608306558659" />
-      <entry key="H4" value="155.91003539696933" />
-      <entry key="D1" value="1494.6318513752892" />
-      <entry key="W1" value="3043.5742647967327" />
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.9753554615276419" />
+      <entry key="S2" value="0.9937810933225548" />
+      <entry key="S5" value="0.9975077808975373" />
+      <entry key="S10" value="0.9987533543820039" />
+      <entry key="S30" value="1.026264598518551" />
+      <entry key="S60" value="1.5075010970789895" />
+      <entry key="M2" value="3.279485139304624" />
+      <entry key="M5" value="7.738453004136617" />
+      <entry key="M10" value="14.685600262888292" />
+      <entry key="M15" value="20.530974053648656" />
+      <entry key="M30" value="32.524213876608265" />
+      <entry key="H1" value="52.40916603786779" />
+      <entry key="H2" value="89.2596428724444" />
+      <entry key="H4" value="162.71983640489282" />
+      <entry key="D1" value="1500.2509069375283" />
+      <entry key="W1" value="3051.592163544652" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -307,15 +307,7 @@
       <workItem from="1784671282470" duration="1284000" />
       <workItem from="1784695331463" duration="6795000" />
       <workItem from="1784713286157" duration="265000" />
-      <workItem from="1784923194869" duration="1625000" />
-    </task>
-    <task id="LOCAL-00005" summary="Add header and footer features. Adjust the SVG file to fit the bottom edge of the header.">
-      <option name="closed" value="true" />
-      <created>1782765993114</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1782765993114</updated>
+      <workItem from="1784923194869" duration="1888000" />
     </task>
     <task id="LOCAL-00006" summary="Update footer.tsx">
       <option name="closed" value="true" />
@@ -701,7 +693,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784924076607</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Fixed markdown render bug">
+      <option name="closed" value="true" />
+      <created>1784924844516</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1784924844516</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,8 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="All new header nav" />
-    <MESSAGE value="Add Dockerfile and setup Google Cloud Run deploy" />
     <MESSAGE value="Fixed many bug for footer.tsx at production env" />
     <MESSAGE value="Fixed many bug at production env" />
     <MESSAGE value="Fixed many bug" />
@@ -744,6 +742,8 @@
     <MESSAGE value="New favicon.png" />
     <MESSAGE value="Updated version" />
     <MESSAGE value="Updated index.tsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.tsx" />
+    <MESSAGE value="Fixed render bug" />
+    <MESSAGE value="Fixed markdown render bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed markdown render bug" />
   </component>
 </project>
