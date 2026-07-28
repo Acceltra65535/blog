@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="Updated Version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/blog" value="3FBxGRAS0qRcwhvCbRdJcNCiT2y" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="56" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Acceltra65535&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Acceltra65535/blog.git&quot;,
+    &quot;accountId&quot;: &quot;797271cc-e719-4720-ba91-e3f3bcbcb616&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0062764699087121" />
+      <entry key="MS500" value="1.5140688390730492" />
+      <entry key="S2" value="2.9122793859944007" />
+      <entry key="S5" value="4.175867466330601" />
+      <entry key="S10" value="5.165553119741094" />
+      <entry key="S30" value="6.267057997677064" />
+      <entry key="S60" value="7.0297158930561245" />
+      <entry key="M2" value="8.884194110013956" />
+      <entry key="M5" value="13.31386919433939" />
+      <entry key="M10" value="19.963214918510992" />
+      <entry key="M15" value="25.55138417258756" />
+      <entry key="M30" value="36.971613902518975" />
+      <entry key="H1" value="55.50812352363494" />
+      <entry key="H2" value="89.85661927457825" />
+      <entry key="H4" value="160.0510432151906" />
+      <entry key="D1" value="1465.509015901046" />
+      <entry key="W1" value="2983.2411495772403" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.165110317756983E-155" />
+      <entry key="S5" value="1.769500148720121E-62" />
+      <entry key="S10" value="1.3302256006858838E-31" />
+      <entry key="S30" value="5.104758623077909E-11" />
+      <entry key="S60" value="7.14836807720543E-6" />
+      <entry key="M2" value="0.002733048331818179" />
+      <entry key="M5" value="0.11398463959406231" />
+      <entry key="M10" value="0.44900284845919075" />
+      <entry key="M15" value="0.7313217440589348" />
+      <entry key="M30" value="1.3609482588963924" />
+      <entry key="H1" value="2.749575296423923" />
+      <entry key="H2" value="5.27561711149877" />
+      <entry key="H4" value="8.553115154338672" />
+      <entry key="D1" value="40.56395830713446" />
+      <entry key="W1" value="74.29930979482941" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9787596664637521" />
+      <entry key="MS500" value="1.5055951978866562" />
+      <entry key="S2" value="2.908170826810513" />
+      <entry key="S5" value="4.1732960117345135" />
+      <entry key="S10" value="5.163772904756335" />
+      <entry key="S30" value="6.266249052317926" />
+      <entry key="S60" value="7.029257338754975" />
+      <entry key="M2" value="8.886604592747457" />
+      <entry key="M5" value="13.426927597777066" />
+      <entry key="M10" value="20.40998672190914" />
+      <entry key="M15" value="26.279999439296688" />
+      <entry key="M30" value="38.32972540876491" />
+      <entry key="H1" value="58.254789467022874" />
+      <entry key="H2" value="95.12955012253376" />
+      <entry key="H4" value="168.60207077211732" />
+      <entry key="D1" value="1506.071314368347" />
+      <entry key="W1" value="3057.540000606597" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FBxGRAS0qRcwhvCbRdJcNCiT2y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "doran@ucdavis.edu",
+    "ACTIVE_CLOUD_PROJECT_ID": "ecs-datacenter-systems",
+    "ACTIVE_CLOUD_PROJECT_NAME": "ECS Datacenter Systems",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "722835478571",
+    "Cloud Code: Cloud Run.blog.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.google.cloudcode.ide_session_index": "20260725_0000",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git.auto.fetch.suggestion.counter": "1",
+    "javascript.nodejs.core.library.configured.version": "22.22.3",
+    "javascript.nodejs.core.library.typings.version": "22.19.21",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/blog/public/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "npm.typegen.executor": "Run",
+    "ts.external.directory.path": "/home/blog/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/private" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/pages/posts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cloud Code: Cloud Run.blog">
+    <configuration name="blog" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;doran@ucdavis.edu&quot;,&quot;projectId&quot;:&quot;ecs-datacenter-systems&quot;,&quot;projectName&quot;:&quot;ECS Datacenter Systems&quot;,&quot;projectNumber&quot;:722835478571}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="buildEnvironment" value="Local" />
+      <option name="buildpacksEnv" />
+      <option name="cloudSqlConnections">
+        <list />
+      </option>
+      <option name="concurrency" value="1000" />
+      <option name="cpuAllocated" value="1" />
+      <option name="dockerBuildArgs" />
+      <option name="dockerTarget" value="" />
+      <option name="environmentVariables" />
+      <option name="imagePath" value="gcr.io/ecs-datacenter-systems/blog" />
+      <option name="loadingAvailableBuilders" value="false" />
+      <option name="managedAuthentication" value="ALLOW_UNAUTHENTICATED" />
+      <option name="managedRegion" value="us-west1" />
+      <option name="maxInstances" value="1" />
+      <option name="memoryAllocated" value="MIB_256" />
+      <option name="platform" value="FULLY_MANAGED" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="serviceAccount" value="" />
+      <option name="serviceName" value="blog" />
+      <option name="timeout" value="900" />
+      <option name="vpcConnector" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="typegen" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="typegen" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cloud Code: Cloud Run.blog" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.typegen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.typegen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4e8c2af-71f0-4712-badd-1a7dac80f348" name="Changes" comment="" />
+      <created>1781562167781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781562167781</updated>
+      <workItem from="1781562168767" duration="235000" />
+      <workItem from="1781562437654" duration="663000" />
+      <workItem from="1781732918919" duration="99000" />
+      <workItem from="1782678831039" duration="12000" />
+      <workItem from="1782680205158" duration="14679000" />
+      <workItem from="1782761839408" duration="5376000" />
+      <workItem from="1782771170496" duration="9908000" />
+      <workItem from="1782850331083" duration="18664000" />
+      <workItem from="1782927985545" duration="5349000" />
+      <workItem from="1782936511226" duration="13293000" />
+      <workItem from="1782955698114" duration="10112000" />
+      <workItem from="1783019974993" duration="10742000" />
+      <workItem from="1783406451547" duration="2753000" />
+      <workItem from="1783632286168" duration="881000" />
+      <workItem from="1783837943058" duration="1451000" />
+      <workItem from="1784103873272" duration="1088000" />
+      <workItem from="1784151248384" duration="5249000" />
+      <workItem from="1784270391813" duration="1487000" />
+      <workItem from="1784527222005" duration="60000" />
+      <workItem from="1784671282470" duration="1284000" />
+      <workItem from="1784695331463" duration="6795000" />
+      <workItem from="1784713286157" duration="265000" />
+      <workItem from="1784923194869" duration="2719000" />
+      <workItem from="1785006866701" duration="22000" />
+    </task>
+    <task id="LOCAL-00007" summary="Updated interface fonts">
+      <option name="closed" value="true" />
+      <created>1782775237921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782775237921</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add the feature to render blog markdown file and formatting language, add test markdown for testing and review">
+      <option name="closed" value="true" />
+      <created>1782877632167</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782877632167</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Try to modify Layout to fit the small display">
+      <option name="closed" value="true" />
+      <created>1782878667852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782878667852</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add nav tabs feature for better interface and display">
+      <option name="closed" value="true" />
+      <created>1782887047184</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782887047184</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modify posts page layout and add new description">
+      <option name="closed" value="true" />
+      <created>1782888803105</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782888803105</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Change web icon, new icon">
+      <option name="closed" value="true" />
+      <created>1782889136607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782889136607</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update index.tsx">
+      <option name="closed" value="true" />
+      <created>1782895864311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782895864311</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add gallery tab in nav and relate page, updated index list">
+      <option name="closed" value="true" />
+      <created>1782939879727</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1782939879728</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add the ability to render code block and highlight the code syntax">
+      <option name="closed" value="true" />
+      <created>1782941288761</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1782941288762</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updated index.tsx. Add new feature for markdown render.">
+      <option name="closed" value="true" />
+      <created>1782952814103</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1782952814104</updated>
+    </task>
+    <task id="LOCAL-00017" summary="All new header nav">
+      <option name="closed" value="true" />
+      <created>1782955599752</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1782955599752</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add Dockerfile and setup Google Cloud Run deploy">
+      <option name="closed" value="true" />
+      <created>1782957177820</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1782957177820</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fixed many bug for footer.tsx at production env">
+      <option name="closed" value="true" />
+      <created>1782958097002</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1782958097003</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fixed many bug for footer.tsx at production env">
+      <option name="closed" value="true" />
+      <created>1782958990057</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1782958990058</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fixed many bug at production env">
+      <option name="closed" value="true" />
+      <created>1782959448810</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1782959448810</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed many bug">
+      <option name="closed" value="true" />
+      <created>1782959499984</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1782959499984</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Improve index.tsx">
+      <option name="closed" value="true" />
+      <created>1782961233019</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1782961233019</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fixed header.tsx nav bug">
+      <option name="closed" value="true" />
+      <created>1782968787409</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1782968787410</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1782970041076</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1782970041077</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1782970538421</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1782970538422</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updated markdown file. private">
+      <option name="closed" value="true" />
+      <created>1782971429276</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1782971429277</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Optimized total DNS request">
+      <option name="closed" value="true" />
+      <created>1783021029756</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1783021029756</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Optimize the woff2 character set to enable on-demand loading">
+      <option name="closed" value="true" />
+      <created>1783022418717</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1783022418717</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fixed builder error">
+      <option name="closed" value="true" />
+      <created>1783022889242</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1783022889243</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Fixed nav tabs bug">
+      <option name="closed" value="true" />
+      <created>1783032417127</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1783032417127</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update version">
+      <option name="closed" value="true" />
+      <created>1783032788065</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1783032788065</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Updated index list and fixed bug">
+      <option name="closed" value="true" />
+      <created>1783065643794</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1783065643794</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Updated index list and fixed bug">
+      <option name="closed" value="true" />
+      <created>1783406879948</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1783406879948</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Changed body bg-color">
+      <option name="closed" value="true" />
+      <created>1783415484765</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1783415484765</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1783632551929</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1783632551930</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1783838371404</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1783838371404</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Updated posts.tsx">
+      <option name="closed" value="true" />
+      <created>1783839570332</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1783839570332</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784270721237</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1784270721241</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271005464</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271005464</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271085535</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271085535</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271372602</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271372602</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784271500333</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1784271500333</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Modifying index style for better experience">
+      <option name="closed" value="true" />
+      <created>1784696346794</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1784696346795</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Modifying style for better experience">
+      <option name="closed" value="true" />
+      <created>1784698533078</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1784698533078</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Modifying style for better experience. Add Steam icon.">
+      <option name="closed" value="true" />
+      <created>1784698622308</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1784698622308</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Modifying style for better experience.">
+      <option name="closed" value="true" />
+      <created>1784698794392</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1784698794392</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Modifying style for better experience.">
+      <option name="closed" value="true" />
+      <created>1784700026177</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1784700026177</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Updated version">
+      <option name="closed" value="true" />
+      <created>1784703099372</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1784703099372</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Modifying interface for better experience.">
+      <option name="closed" value="true" />
+      <created>1784707499495</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1784707499495</updated>
+    </task>
+    <task id="LOCAL-00051" summary="New favicon.png">
+      <option name="closed" value="true" />
+      <created>1784713505791</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1784713505791</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Updated version">
+      <option name="closed" value="true" />
+      <created>1784713527608</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1784713527608</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Updated index.tsx">
+      <option name="closed" value="true" />
+      <created>1784924076607</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1784924076607</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Fixed markdown render bug">
+      <option name="closed" value="true" />
+      <created>1784924844516</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1784924844516</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Updated Version">
+      <option name="closed" value="true" />
+      <created>1784925101384</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1784925101384</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed many bug at production env" />
+    <MESSAGE value="Fixed many bug" />
+    <MESSAGE value="Improve index.tsx" />
+    <MESSAGE value="Fixed header.tsx nav bug" />
+    <MESSAGE value="Updated markdown file. private" />
+    <MESSAGE value="Optimized total DNS request" />
+    <MESSAGE value="Optimize the woff2 character set to enable on-demand loading" />
+    <MESSAGE value="Fixed builder error" />
+    <MESSAGE value="Fixed nav tabs bug" />
+    <MESSAGE value="Update version" />
+    <MESSAGE value="Updated index list and fixed bug" />
+    <MESSAGE value="Changed body bg-color" />
+    <MESSAGE value="Updated README.md" />
+    <MESSAGE value="Updated posts.tsx" />
+    <MESSAGE value="Modifying index style for better experience" />
+    <MESSAGE value="Modifying style for better experience" />
+    <MESSAGE value="Modifying style for better experience. Add Steam icon." />
+    <MESSAGE value="Modifying style for better experience." />
+    <MESSAGE value="Modifying interface for better experience." />
+    <MESSAGE value="New favicon.png" />
+    <MESSAGE value="Updated version" />
+    <MESSAGE value="Updated index.tsx" />
+    <MESSAGE value="Fixed render bug" />
+    <MESSAGE value="Fixed markdown render bug" />
+    <MESSAGE value="Updated Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Version" />
+  </component>
+</project>
