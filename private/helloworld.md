@@ -31,9 +31,9 @@ int main() {
 > 远端图像存取
 > 
 
-![](https://storage.googleapis.com/blogfilestorage/tgits.png)
+![](https://cos.systele.co/15pro_img_128.JPG)
 
-![](https://storage.googleapis.com/blogfilestorage/green.jpg)
+![](https://cos.systele.co/film_6.PNG)
 
 > 某人的Github Contributions
 > 
