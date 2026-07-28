@@ -8,7 +8,7 @@
     "build": "node scripts/build-with-info.mjs",
     "start": "waku start",
     "typegen": "waku router typegen",
-    "deploy": "npm run build && gh-pages -d dist/public -b gh-pages"
+    "deploy": "npm run build && gh-pages -d dist/public -b gh-pages -t"
   },
   "dependencies": {
     "hono": "^4.12.14",
