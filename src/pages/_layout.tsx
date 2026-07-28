@@ -27,7 +27,7 @@ const getData = async () => {
   const icon = await inlineBinaryDataUri('public/images/favicon.png', 'image/png');
 
   const data = {
-    description: 'An internet website!',
+    description: 'Documenting the Internet!',
     icon,
   };
 
