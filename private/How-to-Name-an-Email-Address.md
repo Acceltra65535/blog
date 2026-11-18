@@ -1,9 +1,9 @@
 ---
 title: 如何命名一个电子邮件地址 —— 谈谈RFC 822、RFC 2822、RFC 5322与RFC 6854
-summary: 1982 年 1 月 11 日，22 名计算机科学家在一起讨论"计算机邮件" (也就是今天人们所熟知的电子邮件)。与会人员有创建了 Sun Microsystems 的那个家伙、开发了文字冒险游戏 Zork 的那个家伙、发明了 NTP 协议的那个家伙、还有说服政府应该购买 Linux 的那个家伙。他们要解决的问题很简单: ARPANET 上已经接入了 455 个终端，现在快要失控啦。
+summary: 1991 年 3 月，一群工程师聚在圣路易斯，讨论“多用途互联网邮件扩展”（也就是今天的邮件附件功能）。与会人员有执意要用邮件发孙辈照片的那个家伙、设计文件编码规则的那个家伙、还有攻克多语言显示难题的那个家伙。他们要解决的问题很简单: 当时的邮件只能发纯英文，一塞进图片或外语就会变成乱码，兼容问题快要失控啦。
 date: 2026-07-22
 ---
-A large number of terminals have already been connected to ARPANET, and the situation is now getting out of hand.
+In 1991, a handful of engineers in St. Louis rescued email from plain-text chaos, teaching it how to carry photos, attachments, and every language on Earth.
 
 无论是应用层的数据校验与输入规范化，还是网络服务的用户身份鉴权，电子邮件地址均作为系统的核心通用标识符 **Unique Identifier** 被广泛应用。过去数十年，在现代互联网环境，Email Address 成为了数字世界中基础底层网络服务之一。它的结构由一个标识用户身份的前缀和“@”符号，以及一个标识服务器位置的域名组成 `local-part@domain`。
 
