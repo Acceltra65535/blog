@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "version": "0.3.8",
+  "version": "0.4.0",
   "type": "module",
   "private": true,
   "scripts": {
@@ -11,17 +11,17 @@
     "deploy": "npm run build && gh-pages -d dist/public -b gh-pages -t"
   },
   "dependencies": {
-    "hono": "^4.12.14",
+    "hono": "^4.13.17",
     "prismjs": "^1.30.0",
-    "react": "~19.2.6",
-    "react-dom": "~19.2.6",
+    "react": "~19.3.1",
+    "react-dom": "~19.3.1",
     "react-icons": "^5.7.0",
     "react-markdown": "^10.1.0",
-    "react-server-dom-webpack": "~19.2.6",
+    "react-server-dom-webpack": "~19.3.1",
     "rehype-prism-plus": "^2.0.2",
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.1",
-    "waku": "1.0.0-beta.3"
+    "waku": "1.0.0-rc.5"
   },
   "devDependencies": {
     "@emnapi/core": "^1.11.1",
@@ -29,8 +29,8 @@
     "@rolldown/plugin-babel": "^0.2.3",
     "@tailwindcss/vite": "4.3.0",
     "@types/node": "^26.1.1",
-    "@types/react": "^19.2.16",
-    "@types/react-dom": "^19.2.3",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.0.1",
     "babel-plugin-react-compiler": "^1.0.0",
     "gh-pages": "^6.3.0",
